@@ -22,8 +22,10 @@ def process_pokemon(pokemon):
     height_cm = f"{float(pokemon['height'].split(' ')[0].replace('m', '').replace('′', '').replace('″', '')) * 100:.2f} cm"
     weight_kg = f"{float(pokemon['weight'].split(' ')[0].replace('kg', '')):.2f} Kg"
     
-    type1 = pokemon['type 1']
-    type2 = pokemon['type 2']
+    types = []
+    types.append(pokemon['type 1'])
+    if pokemon['type 2']:
+        types.append(pokemon['type 2'])
     
     next_evolutions = []
     for i in range(1, 4):
@@ -60,11 +62,12 @@ def process_pokemon(pokemon):
         if ability:
             description = abilities_dict['desc'].get(ability['url'], 'Descrição não disponível')
             description = decode_text(description)
-            abilities.append({
-                'url': ability['url'],
-                'name': ability['name'],
-                'description': description
-            })
+            if ability['url'] and ability['name'] and description:
+                abilities.append({
+                    'url': ability['url'],
+                    'name': ability['name'],
+                    'description': description
+                })
     
     return {
         'number': number,
@@ -73,7 +76,7 @@ def process_pokemon(pokemon):
         'evolutions': next_evolutions,
         'height_cm': height_cm,
         'weight_kg': weight_kg,
-        'types': [type1, type2],
+        'types': types,
         'abilities': abilities
     }
 

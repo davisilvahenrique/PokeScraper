@@ -143,8 +143,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "8.50 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -183,8 +182,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "19.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -263,8 +261,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "9.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -303,8 +300,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "22.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -343,8 +339,7 @@
         "height_cm": "160.00 cm",
         "weight_kg": "85.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -431,11 +426,6 @@
                 "url": "https://pokemondb.net/ability/shed-skin",
                 "name": "Shed Skin",
                 "description": "The Pokémon may heal its own status problems."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -551,11 +541,6 @@
                 "url": "https://pokemondb.net/ability/shed-skin",
                 "name": "Shed Skin",
                 "description": "The Pokémon may heal its own status problems."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -878,8 +863,7 @@
         "height_cm": "200.00 cm",
         "weight_kg": "6.90 Kg",
         "types": [
-            "Poison",
-            null
+            "Poison"
         ],
         "abilities": [
             {
@@ -913,8 +897,7 @@
         "height_cm": "350.00 cm",
         "weight_kg": "65.00 Kg",
         "types": [
-            "Poison",
-            null
+            "Poison"
         ],
         "abilities": [
             {
@@ -948,8 +931,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "6.00 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -1333,8 +1315,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "7.50 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -1373,8 +1354,7 @@
         "height_cm": "130.00 cm",
         "weight_kg": "40.00 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -1988,8 +1968,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "32.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -2023,8 +2002,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "19.60 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -2058,8 +2036,7 @@
         "height_cm": "170.00 cm",
         "weight_kg": "76.60 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -2098,8 +2075,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "28.00 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -2138,8 +2114,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "32.00 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -2393,8 +2368,7 @@
         "height_cm": "130.00 cm",
         "weight_kg": "56.50 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -2433,8 +2407,7 @@
         "height_cm": "150.00 cm",
         "weight_kg": "48.00 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -2553,8 +2526,7 @@
         "height_cm": "160.00 cm",
         "weight_kg": "130.00 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -2898,8 +2870,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "30.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -3213,8 +3184,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "90.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -3436,11 +3406,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -3476,11 +3441,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -3613,8 +3573,7 @@
         "height_cm": "160.00 cm",
         "weight_kg": "75.60 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -3903,8 +3862,7 @@
         "height_cm": "150.00 cm",
         "weight_kg": "49.80 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -3933,8 +3891,7 @@
         "height_cm": "140.00 cm",
         "weight_kg": "50.20 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -3968,8 +3925,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "65.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -3998,8 +3954,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "1.00 Kg",
         "types": [
-            "Poison",
-            null
+            "Poison"
         ],
         "abilities": [
             {
@@ -4183,8 +4138,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "35.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -4207,8 +4161,7 @@
         "height_cm": "220.00 cm",
         "weight_kg": "80.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -4562,8 +4515,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "30.00 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -4602,8 +4554,7 @@
         "height_cm": "130.00 cm",
         "weight_kg": "44.50 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -4862,8 +4813,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "29.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -4897,8 +4847,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "24.50 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -4932,8 +4881,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "25.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -4972,8 +4920,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "36.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -5171,8 +5118,7 @@
         "height_cm": "210.00 cm",
         "weight_kg": "460.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -5283,8 +5229,7 @@
         "height_cm": "180.00 cm",
         "weight_kg": "3.30 Kg",
         "types": [
-            "Dragon",
-            null
+            "Dragon"
         ],
         "abilities": [
             {
@@ -5323,8 +5268,7 @@
         "height_cm": "400.00 cm",
         "weight_kg": "16.50 Kg",
         "types": [
-            "Dragon",
-            null
+            "Dragon"
         ],
         "abilities": [
             {
@@ -5411,19 +5355,13 @@
         "height_cm": "40.00 cm",
         "weight_kg": "4.00 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/synchronize",
                 "name": "Synchronize",
                 "description": "If the opponent causes a burn, paralysis, or poisoning of a Pokémon with  Synchronize , the opponent receives the status condition too. Self-inflicted status conditions (for example through the use of an item) are not passed on. In  Generations 3-4 , bad poison is only passed on as regular poison. If a Pokémon with  Synchronize  is the leading party Pokémon, there is a 50% chance of each wild Pokémon encountered having the same nature. No Pokémon have  Synchronize  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -5451,8 +5389,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "6.40 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -5491,8 +5428,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "15.80 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -5531,8 +5467,7 @@
         "height_cm": "180.00 cm",
         "weight_kg": "100.50 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -5566,8 +5501,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "7.90 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -5601,8 +5535,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "19.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -5676,8 +5609,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "9.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -5716,8 +5648,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "25.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -5756,8 +5687,7 @@
         "height_cm": "230.00 cm",
         "weight_kg": "88.80 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -6181,8 +6111,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "2.00 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -6221,8 +6150,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "3.00 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -6301,8 +6229,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "1.50 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -6451,8 +6378,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "7.80 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -6491,8 +6417,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "13.30 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -6566,8 +6491,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "5.80 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -6681,8 +6605,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "38.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -6716,8 +6639,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "33.90 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -6906,8 +6828,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "1.80 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -6941,8 +6862,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "8.50 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -7081,8 +7001,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "26.50 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -7116,8 +7035,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "27.00 Kg",
         "types": [
-            "Dark",
-            null
+            "Dark"
         ],
         "abilities": [
             {
@@ -7216,19 +7134,13 @@
         "height_cm": "70.00 cm",
         "weight_kg": "1.00 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -7240,19 +7152,13 @@
         "height_cm": "50.00 cm",
         "weight_kg": "5.00 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -7410,8 +7316,7 @@
         "height_cm": "150.00 cm",
         "weight_kg": "14.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -7738,8 +7643,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "8.80 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -7778,8 +7682,7 @@
         "height_cm": "180.00 cm",
         "weight_kg": "125.80 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -7813,8 +7716,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "35.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -7998,8 +7900,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "12.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -8033,8 +7934,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "28.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -8261,8 +8161,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "33.50 Kg",
         "types": [
-            "Ground",
-            null
+            "Ground"
         ],
         "abilities": [
             {
@@ -8336,8 +8235,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "32.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -8371,8 +8269,7 @@
         "height_cm": "140.00 cm",
         "weight_kg": "71.20 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -8395,8 +8292,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "58.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -8455,8 +8351,7 @@
         "height_cm": "140.00 cm",
         "weight_kg": "48.00 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -8530,8 +8425,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "23.50 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -8570,8 +8464,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "21.40 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -8594,8 +8487,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "75.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -8634,8 +8526,7 @@
         "height_cm": "150.00 cm",
         "weight_kg": "46.80 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -8658,8 +8549,7 @@
         "height_cm": "190.00 cm",
         "weight_kg": "178.00 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -8682,8 +8572,7 @@
         "height_cm": "210.00 cm",
         "weight_kg": "198.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -8706,8 +8595,7 @@
         "height_cm": "200.00 cm",
         "weight_kg": "187.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -8906,11 +8794,6 @@
                 "url": "https://pokemondb.net/ability/natural-cure",
                 "name": "Natural Cure",
                 "description": "All status problems heal when it switches out."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -8938,8 +8821,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "5.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -8978,8 +8860,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "21.60 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -9058,8 +8939,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "2.50 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -9178,8 +9058,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "7.60 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -9293,8 +9172,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "13.60 Kg",
         "types": [
-            "Dark",
-            null
+            "Dark"
         ],
         "abilities": [
             {
@@ -9328,8 +9206,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "37.00 Kg",
         "types": [
-            "Dark",
-            null
+            "Dark"
         ],
         "abilities": [
             {
@@ -9438,8 +9315,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "3.60 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -9468,19 +9344,13 @@
         "height_cm": "60.00 cm",
         "weight_kg": "10.00 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/shed-skin",
                 "name": "Shed Skin",
                 "description": "The Pokémon may heal its own status problems."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -9528,19 +9398,13 @@
         "height_cm": "70.00 cm",
         "weight_kg": "11.50 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/shed-skin",
                 "name": "Shed Skin",
                 "description": "The Pokémon may heal its own status problems."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -9718,8 +9582,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "4.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -10148,8 +10011,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "4.50 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -10223,19 +10085,13 @@
         "height_cm": "80.00 cm",
         "weight_kg": "24.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/truant",
                 "name": "Truant",
                 "description": "Truant  causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is  loafing around . If a Pokémon with  Truant  uses a move that requires recharging on the second turn (such as  Hyper Beam ), it will recharge on the same turn the Pokémon loafs around. Moves where the user prepares on the first turn and attacks on the second (such as  Solarbeam  or  Fly ) cannot be used. The moves  Worry Seed ,  Entrainment  and  Simple Beam  do not work on Pokémon with  Truant . Truant  can technically be  Skill Swapped  away, however neither Slakoth, Slaking or Durant learn it."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -10263,8 +10119,7 @@
         "height_cm": "140.00 cm",
         "weight_kg": "46.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -10303,8 +10158,7 @@
         "height_cm": "200.00 cm",
         "weight_kg": "130.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -10433,8 +10287,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "16.30 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -10473,8 +10326,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "40.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -10513,8 +10365,7 @@
         "height_cm": "150.00 cm",
         "weight_kg": "84.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -10548,8 +10399,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "86.40 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -10583,8 +10433,7 @@
         "height_cm": "230.00 cm",
         "weight_kg": "253.80 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -10658,8 +10507,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "97.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -10693,8 +10541,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "11.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -10728,8 +10575,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "32.60 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -11001,8 +10847,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "15.20 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -11036,8 +10881,7 @@
         "height_cm": "150.00 cm",
         "weight_kg": "40.20 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -11060,8 +10904,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "4.20 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -11084,8 +10927,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "4.20 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -11108,8 +10950,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "17.70 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -11132,8 +10973,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "17.70 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -11207,8 +11047,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "10.30 Kg",
         "types": [
-            "Poison",
-            null
+            "Poison"
         ],
         "abilities": [
             {
@@ -11242,8 +11081,7 @@
         "height_cm": "170.00 cm",
         "weight_kg": "80.00 Kg",
         "types": [
-            "Poison",
-            null
+            "Poison"
         ],
         "abilities": [
             {
@@ -11347,8 +11185,7 @@
         "height_cm": "200.00 cm",
         "weight_kg": "130.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -11382,8 +11219,7 @@
         "height_cm": "1450.00 cm",
         "weight_kg": "398.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -11476,8 +11312,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "80.40 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -11511,8 +11346,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "30.60 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -11546,8 +11380,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "71.50 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -11570,8 +11403,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "5.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -11610,8 +11442,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "15.00 Kg",
         "types": [
-            "Ground",
-            null
+            "Ground"
         ],
         "abilities": [
             {
@@ -11658,11 +11489,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -11698,11 +11524,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -11725,8 +11546,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "51.30 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -11854,8 +11674,7 @@
         "height_cm": "130.00 cm",
         "weight_kg": "40.30 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -11878,8 +11697,7 @@
         "height_cm": "270.00 cm",
         "weight_kg": "52.50 Kg",
         "types": [
-            "Poison",
-            null
+            "Poison"
         ],
         "abilities": [
             {
@@ -11910,11 +11728,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -11934,11 +11747,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -12031,8 +11839,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "11.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -12109,11 +11916,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -12144,11 +11946,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -12311,8 +12108,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "7.40 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -12346,8 +12142,7 @@
         "height_cm": "620.00 cm",
         "weight_kg": "162.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -12370,8 +12165,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "0.80 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -12394,8 +12188,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "22.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -12464,8 +12257,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "12.50 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
@@ -12504,8 +12296,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "15.00 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
@@ -12544,8 +12335,7 @@
         "height_cm": "160.00 cm",
         "weight_kg": "30.60 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
@@ -12603,8 +12393,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "1.00 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -12627,8 +12416,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "47.00 Kg",
         "types": [
-            "Dark",
-            null
+            "Dark"
         ],
         "abilities": [
             {
@@ -12662,8 +12450,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "14.00 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -12692,8 +12479,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "16.80 Kg",
         "types": [
-            "Ice",
-            null
+            "Ice"
         ],
         "abilities": [
             {
@@ -12722,8 +12508,7 @@
         "height_cm": "150.00 cm",
         "weight_kg": "256.50 Kg",
         "types": [
-            "Ice",
-            null
+            "Ice"
         ],
         "abilities": [
             {
@@ -12872,8 +12657,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "52.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -12902,8 +12686,7 @@
         "height_cm": "170.00 cm",
         "weight_kg": "27.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -12932,8 +12715,7 @@
         "height_cm": "180.00 cm",
         "weight_kg": "22.60 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -12980,8 +12762,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "8.70 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -13020,8 +12801,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "42.10 Kg",
         "types": [
-            "Dragon",
-            null
+            "Dragon"
         ],
         "abilities": [
             {
@@ -13060,8 +12840,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "110.50 Kg",
         "types": [
-            "Dragon",
-            null
+            "Dragon"
         ],
         "abilities": [
             {
@@ -13244,8 +13023,7 @@
         "height_cm": "170.00 cm",
         "weight_kg": "230.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -13268,8 +13046,7 @@
         "height_cm": "180.00 cm",
         "weight_kg": "175.00 Kg",
         "types": [
-            "Ice",
-            null
+            "Ice"
         ],
         "abilities": [
             {
@@ -13292,8 +13069,7 @@
         "height_cm": "190.00 cm",
         "weight_kg": "205.00 Kg",
         "types": [
-            "Steel",
-            null
+            "Steel"
         ],
         "abilities": [
             {
@@ -13364,8 +13140,7 @@
         "height_cm": "450.00 cm",
         "weight_kg": "352.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -13444,11 +13219,6 @@
                 "url": "https://pokemondb.net/ability/serene-grace",
                 "name": "Serene Grace",
                 "description": "Serene Grace  doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items  King's Rock  and  Razor Fang  from 10% to 20% (however, note that those items do not affect moves that already have a flinch chance). Serene Grace  does not affect status moves or the Pokémon's critical hit ratio. Shadow Ball  normally has a 20% chance of lowering Special Defense; with  Serene Grace  it is boosted to a 40% chance. Air Slash  has a 30% of causing the target to flinch; with  Serene Grace  it is boosted to a 60% chance. If the item  King's Rock  is held it does not increase that percentage, but rather if the move does not cause flinching (40% chance), then there is now a further 20% chance the target will flinch from  King's Rock . This means  Serene Grace  with  Air Slash  and  King's Rock  gives a total probability of 68% (1 - 0.4*0.8) that the opponent will flinch. In  Generations 3-4   Serene Grace  does not increase the flinch chance of  King's Rock  or Razor Fang. In  Generations 3-5   Serene Grace  does not affect the move  Secret Power ."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -13460,8 +13230,7 @@
         "height_cm": "170.00 cm",
         "weight_kg": "60.80 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -13500,8 +13269,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "10.20 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -13540,8 +13308,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "97.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -13620,8 +13387,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "6.20 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -13740,8 +13506,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "5.20 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -13780,8 +13545,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "23.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -14160,8 +13924,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "30.50 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -14200,8 +13963,7 @@
         "height_cm": "140.00 cm",
         "weight_kg": "42.00 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -14315,8 +14077,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "31.50 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -14350,8 +14111,7 @@
         "height_cm": "160.00 cm",
         "weight_kg": "102.50 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -14455,8 +14215,7 @@
         "height_cm": "20.00 cm",
         "weight_kg": "3.40 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -14724,8 +14483,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "3.30 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -14759,19 +14517,13 @@
         "height_cm": "50.00 cm",
         "weight_kg": "9.30 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/flower-gift",
                 "name": "Flower Gift",
                 "description": "Flower Gift  raises the Attack and Special Defense of all party Pokémon by 50% during harsh sunlight. No Pokémon have  Flower Gift  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -14864,8 +14616,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "20.30 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -14969,8 +14720,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "5.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -15039,19 +14789,13 @@
         "height_cm": "90.00 cm",
         "weight_kg": "4.40 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -15187,11 +14931,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -15424,8 +15163,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "24.40 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -15627,8 +15365,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "105.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -15662,8 +15399,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "20.20 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -15732,8 +15468,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "49.50 Kg",
         "types": [
-            "Ground",
-            null
+            "Ground"
         ],
         "abilities": [
             {
@@ -15767,8 +15502,7 @@
         "height_cm": "200.00 cm",
         "weight_kg": "300.00 Kg",
         "types": [
-            "Ground",
-            null
+            "Ground"
         ],
         "abilities": [
             {
@@ -15939,11 +15673,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -15966,8 +15695,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "7.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -16001,8 +15729,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "24.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -16216,8 +15943,7 @@
         "height_cm": "170.00 cm",
         "weight_kg": "140.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -16291,8 +16017,7 @@
         "height_cm": "200.00 cm",
         "weight_kg": "128.60 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -16331,8 +16056,7 @@
         "height_cm": "180.00 cm",
         "weight_kg": "138.60 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -16371,8 +16095,7 @@
         "height_cm": "160.00 cm",
         "weight_kg": "68.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -16481,8 +16204,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "25.50 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -16516,8 +16238,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "25.90 Kg",
         "types": [
-            "Ice",
-            null
+            "Ice"
         ],
         "abilities": [
             {
@@ -16631,8 +16352,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "34.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -16741,8 +16461,7 @@
         "height_cm": "220.00 cm",
         "weight_kg": "106.60 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
@@ -16819,19 +16538,13 @@
         "height_cm": "30.00 cm",
         "weight_kg": "0.30 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -16843,19 +16556,13 @@
         "height_cm": "30.00 cm",
         "weight_kg": "0.30 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -16867,19 +16574,13 @@
         "height_cm": "30.00 cm",
         "weight_kg": "0.30 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -16963,19 +16664,13 @@
         "height_cm": "370.00 cm",
         "weight_kg": "420.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/slow-start",
                 "name": "Slow Start",
                 "description": "Temporarily halves Attack and Speed."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -17011,19 +16706,13 @@
         "height_cm": "150.00 cm",
         "weight_kg": "85.60 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -17035,19 +16724,13 @@
         "height_cm": "40.00 cm",
         "weight_kg": "3.10 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/hydration",
                 "name": "Hydration",
                 "description": "A Pokémon with  Hydration  will cure itself of any status conditions during rain, at the end of each turn. This includes self-inflicted conditions such as from using  Rest ."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -17059,19 +16742,13 @@
         "height_cm": "30.00 cm",
         "weight_kg": "1.40 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/hydration",
                 "name": "Hydration",
                 "description": "A Pokémon with  Hydration  will cure itself of any status conditions during rain, at the end of each turn. This includes self-inflicted conditions such as from using  Rest ."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -17083,19 +16760,13 @@
         "height_cm": "150.00 cm",
         "weight_kg": "50.50 Kg",
         "types": [
-            "Dark",
-            null
+            "Dark"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/bad-dreams",
                 "name": "Bad Dreams",
                 "description": "Bad Dreams  causes all sleeping opponents to lose  1 ⁄ 8  of their maximum HP at the end of each turn. No Pokémon have  Bad Dreams  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -17131,19 +16802,13 @@
         "height_cm": "320.00 cm",
         "weight_kg": "320.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/multitype",
                 "name": "Multitype",
                 "description": "Multitype  changes the ability-bearer's type if it is holding one of the  Type Plate  items. Moves of the corresponding type receive  STAB . The moves  Gastro Acid ,  Role Play ,  Skill Swap ,  Worry Seed  or the ability  Trace  do not affect a Pokémon with  Multitype . The moves  Covet ,  Knock Off ,  Switcheroo  and  Thief  cannot remove Plates from a Pokémon with  Multitype , but they can remove any other item. The Plates are: In  Generation 4  the moves  Covet ,  Knock Off ,  Switcheroo  and  Thief  (all of which remove items) do not affect Pokémon with  Multitype . No Pokémon have  Multitype  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -17163,11 +16828,6 @@
                 "url": "https://pokemondb.net/ability/victory-star",
                 "name": "Victory Star",
                 "description": "Boosts the accuracy of its allies and itself.\n No Pokémon have  Victory Star  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -17195,8 +16855,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "8.10 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -17235,8 +16894,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "16.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -17275,8 +16933,7 @@
         "height_cm": "330.00 cm",
         "weight_kg": "63.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -17315,8 +16972,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "9.90 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -17430,8 +17086,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "5.90 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -17465,8 +17120,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "24.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -17610,8 +17264,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "4.10 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -17830,8 +17483,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "30.50 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -17900,8 +17552,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "28.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -17970,8 +17621,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "29.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -18005,8 +17655,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "23.30 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -18040,8 +17689,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "60.50 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -18195,8 +17843,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "29.80 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -18270,8 +17917,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "18.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -18350,8 +17996,7 @@
         "height_cm": "170.00 cm",
         "weight_kg": "260.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -18554,8 +18199,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "12.50 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -18634,8 +18278,7 @@
         "height_cm": "140.00 cm",
         "weight_kg": "87.00 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -18674,8 +18317,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "4.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -19357,8 +18999,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "37.50 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -19416,8 +19057,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "28.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -19650,19 +19290,13 @@
         "height_cm": "170.00 cm",
         "weight_kg": "76.50 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/mummy",
                 "name": "Mummy",
                 "description": "Contact with this Pokémon spreads this Ability.\n No Pokémon have  Mummy  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -19763,11 +19397,6 @@
                 "url": "https://pokemondb.net/ability/defeatist",
                 "name": "Defeatist",
                 "description": "When the HP of a Pokémon with  Defeatist  falls below 50%, its Attack and Special Attack stats are halved. No Pokémon have  Defeatist  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -19798,11 +19427,6 @@
                 "url": "https://pokemondb.net/ability/defeatist",
                 "name": "Defeatist",
                 "description": "When the HP of a Pokémon with  Defeatist  falls below 50%, its Attack and Special Attack stats are halved. No Pokémon have  Defeatist  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -20040,8 +19664,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "5.80 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -20080,8 +19703,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "18.00 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -20120,8 +19742,7 @@
         "height_cm": "150.00 cm",
         "weight_kg": "44.00 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -20200,8 +19821,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "8.00 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -20240,8 +19860,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "20.10 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -20350,8 +19969,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "5.70 Kg",
         "types": [
-            "Ice",
-            null
+            "Ice"
         ],
         "abilities": [
             {
@@ -20871,11 +20489,6 @@
                 "url": "https://pokemondb.net/ability/iron-barbs",
                 "name": "Iron Barbs",
                 "description": "When a Pokémon with  Iron Barbs  is hit by a move that makes contact, the attacker receives damage equal to  1 ⁄ 8  of their maximum HP. Multi-hit moves (e.g.  DoubleSlap ) activate  Iron Barbs  for each strike. No Pokémon have  Iron Barbs  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -20938,8 +20551,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "21.00 Kg",
         "types": [
-            "Steel",
-            null
+            "Steel"
         ],
         "abilities": [
             {
@@ -20978,8 +20590,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "51.00 Kg",
         "types": [
-            "Steel",
-            null
+            "Steel"
         ],
         "abilities": [
             {
@@ -21018,8 +20629,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "81.00 Kg",
         "types": [
-            "Steel",
-            null
+            "Steel"
         ],
         "abilities": [
             {
@@ -21066,11 +20676,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -21098,19 +20703,13 @@
         "height_cm": "120.00 cm",
         "weight_kg": "22.00 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -21138,19 +20737,13 @@
         "height_cm": "210.00 cm",
         "weight_kg": "80.50 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -21173,8 +20766,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "9.00 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -21208,8 +20800,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "34.50 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -21368,8 +20959,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "18.00 Kg",
         "types": [
-            "Dragon",
-            null
+            "Dragon"
         ],
         "abilities": [
             {
@@ -21448,8 +21038,7 @@
         "height_cm": "180.00 cm",
         "weight_kg": "105.50 Kg",
         "types": [
-            "Dragon",
-            null
+            "Dragon"
         ],
         "abilities": [
             {
@@ -21483,8 +21072,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "8.50 Kg",
         "types": [
-            "Ice",
-            null
+            "Ice"
         ],
         "abilities": [
             {
@@ -21542,19 +21130,13 @@
         "height_cm": "110.00 cm",
         "weight_kg": "148.00 Kg",
         "types": [
-            "Ice",
-            null
+            "Ice"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -21612,8 +21194,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "25.30 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -21904,8 +21485,7 @@
         "height_cm": "160.00 cm",
         "weight_kg": "94.60 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -22058,8 +21638,7 @@
         "height_cm": "140.00 cm",
         "weight_kg": "58.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -22130,11 +21709,6 @@
                 "url": "https://pokemondb.net/ability/hustle",
                 "name": "Hustle",
                 "description": "Hustle  increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%. If a Pokémon with  Hustle  is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -22170,11 +21744,6 @@
                 "url": "https://pokemondb.net/ability/hustle",
                 "name": "Hustle",
                 "description": "Hustle  increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%. If a Pokémon with  Hustle  is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -22210,11 +21779,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -22304,11 +21868,6 @@
                 "url": "https://pokemondb.net/ability/justified",
                 "name": "Justified",
                 "description": "Justified  raises the ability-bearer's Attack by one stage when hit by a damaging  Dark -type move. The Attack rises for every hit of the move  Beat Up . Stats can be raised to a maximum of +6 stages each."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -22328,11 +21887,6 @@
                 "url": "https://pokemondb.net/ability/justified",
                 "name": "Justified",
                 "description": "Justified  raises the ability-bearer's Attack by one stage when hit by a damaging  Dark -type move. The Attack rises for every hit of the move  Beat Up . Stats can be raised to a maximum of +6 stages each."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -22352,11 +21906,6 @@
                 "url": "https://pokemondb.net/ability/justified",
                 "name": "Justified",
                 "description": "Justified  raises the ability-bearer's Attack by one stage when hit by a damaging  Dark -type move. The Attack rises for every hit of the move  Beat Up . Stats can be raised to a maximum of +6 stages each."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -22368,8 +21917,7 @@
         "height_cm": "150.00 cm",
         "weight_kg": "63.00 Kg",
         "types": [
-            "Flying",
-            null
+            "Flying"
         ],
         "abilities": [
             {
@@ -22424,11 +21972,6 @@
                 "url": "https://pokemondb.net/ability/turboblaze",
                 "name": "Turboblaze",
                 "description": "Turboblaze  prevents a target's ability from affecting moves that the  Turboblaze  Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves. For example,  Reshiram  would be able to hit  Bronzong  (having  Levitate ) using a  Ground -type move like  Earth Power . Ground type moves would still not affect Flying types. However, using  Dragon Claw  against a Pokémon with  Aftermath  would still receive HP loss as Aftermath did not affect the  Dragon Claw  attack itself. No Pokémon have  Turboblaze  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -22448,11 +21991,6 @@
                 "url": "https://pokemondb.net/ability/teravolt",
                 "name": "Teravolt",
                 "description": "Teravolt  prevents a target's ability from affecting moves that the  Teravolt  Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves. For example,  Zekrom  would be able to hit  Bronzong  (having  Levitate ) using a  Ground -type move like  Earth Power . Ground type moves would still not affect Flying types. However, using  Dragon Claw  against a Pokémon with  Aftermath  would still receive HP loss as Aftermath did not affect the  Dragon Claw  attack itself. No Pokémon have  Teravolt  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -22568,11 +22106,6 @@
                 "url": "https://pokemondb.net/ability/download",
                 "name": "Download",
                 "description": "Download  raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses. It raises Attack if the opponent's Defense is lower than its Special Defense, or raises Special Attack if opponent's Special Defense is lower than or equal to its Defense. In double and triple battles,  Download  compares the sum of all opponents' Defense stats and the sum of all opponents' Special Defense stats and uses the lowest total. No Pokémon have  Download  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -22600,8 +22133,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "9.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -22640,8 +22172,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "29.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -22720,8 +22251,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "9.40 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -22760,8 +22290,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "14.50 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -22840,8 +22369,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "7.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -22880,8 +22408,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "10.90 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -22955,8 +22482,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "5.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -23150,8 +22676,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "2.50 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -23190,8 +22715,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "8.40 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -23340,8 +22864,7 @@
         "height_cm": "10.00 cm",
         "weight_kg": "0.10 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -23380,8 +22903,7 @@
         "height_cm": "20.00 cm",
         "weight_kg": "0.90 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -23420,8 +22942,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "10.00 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -23455,8 +22976,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "31.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -23490,8 +23010,7 @@
         "height_cm": "170.00 cm",
         "weight_kg": "91.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -23525,8 +23044,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "8.00 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -23584,19 +23102,13 @@
         "height_cm": "120.00 cm",
         "weight_kg": "28.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/fur-coat",
                 "name": "Fur Coat",
                 "description": "Fur Coat  reduces damage taken from physical attacks by 50%. No Pokémon have  Fur Coat  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -23614,8 +23126,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "3.50 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -23644,8 +23155,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "8.50 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -23692,11 +23202,6 @@
                 "url": "https://pokemondb.net/ability/no-guard",
                 "name": "No Guard",
                 "description": "No Guard  ensures that all attacks used by, and targeted at, the ability-bearer hit without fail. This includes moves used on a Pokémon in the  hidden  stages of the moves  Fly ,  Dive ,  Dig  and  Shadow Force . If a Pokémon with  No Guard  is the leading party Pokémon, wild Pokémon are twice as likely to appear."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -23732,11 +23237,6 @@
                 "url": "https://pokemondb.net/ability/no-guard",
                 "name": "No Guard",
                 "description": "No Guard  ensures that all attacks used by, and targeted at, the ability-bearer hit without fail. This includes moves used on a Pokémon in the  hidden  stages of the moves  Fly ,  Dive ,  Dig  and  Shadow Force . If a Pokémon with  No Guard  is the leading party Pokémon, wild Pokémon are twice as likely to appear."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -23799,8 +23299,7 @@
         "height_cm": "20.00 cm",
         "weight_kg": "0.50 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -23834,8 +23333,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "15.50 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -23869,8 +23367,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "3.50 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -23904,8 +23401,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "5.00 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -24149,19 +23645,13 @@
         "height_cm": "50.00 cm",
         "weight_kg": "8.30 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/mega-launcher",
                 "name": "Mega Launcher",
                 "description": "Mega Launcher  increases the power of all  aura and pulse  moves by 50%.  Heal Pulse  boosts the HP restored by 50%. The attacks classed as aura and pulse moves are shown below with their normal and boosted power: *No Pokémon with  Mega Launcher  can learn these moves, however they can be called via  Copycat ,  Metronome ,  Mimic ,  Mirror Move , or from a Pokémon that gained the ability (for example by  Skill Swap ). No Pokémon have  Mega Launcher  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -24184,19 +23674,13 @@
         "height_cm": "130.00 cm",
         "weight_kg": "35.30 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/mega-launcher",
                 "name": "Mega Launcher",
                 "description": "Mega Launcher  increases the power of all  aura and pulse  moves by 50%.  Heal Pulse  boosts the HP restored by 50%. The attacks classed as aura and pulse moves are shown below with their normal and boosted power: *No Pokémon with  Mega Launcher  can learn these moves, however they can be called via  Copycat ,  Metronome ,  Mimic ,  Mirror Move , or from a Pokémon that gained the ability (for example by  Skill Swap ). No Pokémon have  Mega Launcher  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -24429,8 +23913,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "23.50 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -24531,8 +24014,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "2.80 Kg",
         "types": [
-            "Dragon",
-            null
+            "Dragon"
         ],
         "abilities": [
             {
@@ -24785,8 +24267,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "99.50 Kg",
         "types": [
-            "Ice",
-            null
+            "Ice"
         ],
         "abilities": [
             {
@@ -24909,19 +24390,13 @@
         "height_cm": "300.00 cm",
         "weight_kg": "215.00 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/fairy-aura",
                 "name": "Fairy Aura",
                 "description": "Fairy Aura  raises the power of Fairy-type moves by 33%, for all Pokémon on the field (not just the ability-bearer). It is the signature ability of  Xerneas . No Pokémon have  Fairy Aura  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -24941,11 +24416,6 @@
                 "url": "https://pokemondb.net/ability/dark-aura",
                 "name": "Dark Aura",
                 "description": "Dark Aura  raises the power of Dark-type moves by 33% for all Pokémon on the field (not just the ability-bearer). It is the signature ability of  Yveltal . No Pokémon have  Dark Aura  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -25037,11 +24507,6 @@
                 "url": "https://pokemondb.net/ability/water-absorb",
                 "name": "Water Absorb",
                 "description": "A Pokémon with  Water Absorb  heals  1 ⁄ 4  of its maximum HP when hit by a  Water -type attack."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -25174,8 +24639,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "4.30 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -25214,8 +24678,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "25.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -25294,8 +24757,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "7.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -25334,8 +24796,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "17.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -25612,11 +25073,6 @@
                 "url": "https://pokemondb.net/ability/swarm",
                 "name": "Swarm",
                 "description": "Swarm  increases the power of  Bug -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as  in a pinch ). If a Pokémon with  Swarm  is the leading party Pokémon, wild Pokémon are twice as likely to appear."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -25652,11 +25108,6 @@
                 "url": "https://pokemondb.net/ability/battery",
                 "name": "Battery",
                 "description": "Battery  allows the Pokémon to raise the power of teammates' special moves. No Pokémon have  Battery  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -25692,11 +25143,6 @@
                 "url": "https://pokemondb.net/ability/levitate",
                 "name": "Levitate",
                 "description": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -25918,8 +25364,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "25.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -26047,8 +25492,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "110.00 Kg",
         "types": [
-            "Ground",
-            null
+            "Ground"
         ],
         "abilities": [
             {
@@ -26187,8 +25631,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "1.50 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -26222,8 +25665,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "18.50 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -26472,8 +25914,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "3.20 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -26512,8 +25953,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "8.20 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -26552,8 +25992,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "21.40 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -26624,8 +26063,7 @@
         "height_cm": "200.00 cm",
         "weight_kg": "82.80 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -26667,11 +26105,6 @@
                 "url": "https://pokemondb.net/ability/wimp-out",
                 "name": "Wimp Out",
                 "description": "Wimp Out  causes the bearer to switch out (or flee in a wild battle) when its HP falls below 50%. No Pokémon have  Wimp Out  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -26702,11 +26135,6 @@
                 "url": "https://pokemondb.net/ability/emergency-exit",
                 "name": "Emergency Exit",
                 "description": "Switches out when HP falls below 50%.\n No Pokémon have  Emergency Exit  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -26788,8 +26216,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "1.20 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -26823,19 +26250,13 @@
         "height_cm": "190.00 cm",
         "weight_kg": "120.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/battle-armor",
                 "name": "Battle Armor",
                 "description": "Battle Armor  prevents the Pokémon from receiving a critical hit."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -26858,19 +26279,13 @@
         "height_cm": "230.00 cm",
         "weight_kg": "100.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/rks-system",
                 "name": "RKS System",
                 "description": "Changes type depending on held item.\n No Pokémon have  RKS System  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -26906,19 +26321,13 @@
         "height_cm": "40.00 cm",
         "weight_kg": "19.90 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/comatose",
                 "name": "Comatose",
                 "description": "Comatose  causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze). Moves that target sleeping Pokémon (such as  Dream Eater ) work on a Pokémon with  Comatose , and the ability-bearer can use the moves  Sleep Talk  and  Snore . The power of  Hex  and  Wake-Up Slap  still doubles when targeted at a  Comatose  Pokémon (though Wake-Up Slap does not suppress  Comatose ). Comatose  cannot be removed or replaced via moves like  Skill Swap  or the  Mummy  ability. The move  Purify  and the  Chesto Berry  item do not work on a Pokémon with  Comatose . No Pokémon have  Comatose  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -26938,11 +26347,6 @@
                 "url": "https://pokemondb.net/ability/shell-armor",
                 "name": "Shell Armor",
                 "description": "Shell Armor  prevents the Pokémon from receiving a critical hit."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -26986,11 +26390,6 @@
                 "url": "https://pokemondb.net/ability/disguise",
                 "name": "Disguise",
                 "description": "Disguise  allows the bearer to avoid damage for one attack, in a similar way to  Substitute . No Pokémon have  Disguise  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27058,11 +26457,6 @@
                 "url": "https://pokemondb.net/ability/steelworker",
                 "name": "Steelworker",
                 "description": "Steelworker  increases the power of Steel-type moves used by this Pokémon by 50%. No Pokémon have  Steelworker  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27090,8 +26484,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "29.70 Kg",
         "types": [
-            "Dragon",
-            null
+            "Dragon"
         ],
         "abilities": [
             {
@@ -27301,19 +26694,13 @@
         "height_cm": "20.00 cm",
         "weight_kg": "0.10 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/unaware",
                 "name": "Unaware",
                 "description": "Ignores any stat changes in the Pokémon."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27336,19 +26723,13 @@
         "height_cm": "10.00 cm",
         "weight_kg": "999.90 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/sturdy",
                 "name": "Sturdy",
                 "description": "Sturdy  allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves ( Fissure ,  Horn Drill ,  Guillotine  or  Sheer Cold ). If  Sturdy  activates before the final hit of a multi-hit move (such as  Fury Swipes ), the subsequent hit will still deal damage and therefore cause the Pokémon to faint. Sturdy  does not prevent self-inflicted KO moves such as  Selfdestruct ,  Explosion  and  Final Gambit ."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27379,11 +26760,6 @@
                 "url": "https://pokemondb.net/ability/full-metal-body",
                 "name": "Full Metal Body",
                 "description": "Prevents other Pokémon from lowering its stats.\n No Pokémon have  Full Metal Body  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27414,11 +26790,6 @@
                 "url": "https://pokemondb.net/ability/shadow-shield",
                 "name": "Shadow Shield",
                 "description": "Reduces damage when HP is full.\n No Pokémon have  Shadow Shield  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27438,11 +26809,6 @@
                 "url": "https://pokemondb.net/ability/beast-boost",
                 "name": "Beast Boost",
                 "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27462,11 +26828,6 @@
                 "url": "https://pokemondb.net/ability/beast-boost",
                 "name": "Beast Boost",
                 "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27486,11 +26847,6 @@
                 "url": "https://pokemondb.net/ability/beast-boost",
                 "name": "Beast Boost",
                 "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27502,19 +26858,13 @@
         "height_cm": "380.00 cm",
         "weight_kg": "100.00 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/beast-boost",
                 "name": "Beast Boost",
                 "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27534,11 +26884,6 @@
                 "url": "https://pokemondb.net/ability/beast-boost",
                 "name": "Beast Boost",
                 "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27558,11 +26903,6 @@
                 "url": "https://pokemondb.net/ability/beast-boost",
                 "name": "Beast Boost",
                 "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27582,11 +26922,6 @@
                 "url": "https://pokemondb.net/ability/beast-boost",
                 "name": "Beast Boost",
                 "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27630,11 +26965,6 @@
                 "url": "https://pokemondb.net/ability/soul-heart",
                 "name": "Soul-Heart",
                 "description": "Soul-Heart  raises the bearer's Special Attack one stage when any Pokémon on the field faints. Stats can be raised to a maximum of +6 stages each. No Pokémon have  Soul-Heart  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27654,11 +26984,6 @@
                 "url": "https://pokemondb.net/ability/technician",
                 "name": "Technician",
                 "description": "Technician  increases the power of moves - that are usually base power 60 or below - by 50%. Moves with variable base power are boosted only when it is 60 or below. For example, if  Magnitude  hits at level 6 it will be boosted from 50 to 75, but level 7 will stay at 70 base power. Moves like  Sonic Boom  that deal fixed HP damage are not affected by  Technician ."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27681,19 +27006,13 @@
         "height_cm": "60.00 cm",
         "weight_kg": "1.80 Kg",
         "types": [
-            "Poison",
-            null
+            "Poison"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/beast-boost",
                 "name": "Beast Boost",
                 "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27724,11 +27043,6 @@
                 "url": "https://pokemondb.net/ability/beast-boost",
                 "name": "Beast Boost",
                 "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27748,11 +27062,6 @@
                 "url": "https://pokemondb.net/ability/beast-boost",
                 "name": "Beast Boost",
                 "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27772,11 +27081,6 @@
                 "url": "https://pokemondb.net/ability/beast-boost",
                 "name": "Beast Boost",
                 "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27788,19 +27092,13 @@
         "height_cm": "150.00 cm",
         "weight_kg": "44.50 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/volt-absorb",
                 "name": "Volt Absorb",
                 "description": "A Pokémon with  Volt Absorb  heals  1 ⁄ 4  of its maximum HP when hit by an  Electric -type attack, including  Thunder Wave . In  Generation 3 ,  Volt Absorb  does not activate for  Thunder Wave ."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27823,19 +27121,13 @@
         "height_cm": "20.00 cm",
         "weight_kg": "8.00 Kg",
         "types": [
-            "Steel",
-            null
+            "Steel"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/magnet-pull",
                 "name": "Magnet Pull",
                 "description": "Magnet Pull  prevents  Steel  type Pokémon from switching out of battle or fleeing. If a Pokémon with  Magnet Pull  is the leading party Pokémon, it is 50% more likely that a wild Pokémon encountered will be  Steel  type. No Pokémon have  Magnet Pull  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27858,19 +27150,13 @@
         "height_cm": "250.00 cm",
         "weight_kg": "800.00 Kg",
         "types": [
-            "Steel",
-            null
+            "Steel"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/iron-fist",
                 "name": "Iron Fist",
                 "description": "Iron Fist  increases the power of all  punching  moves by 20%. The attacks classed as punching moves are shown below with their normal and boosted power: *No Pokémon with  Iron Fist  can learn these moves, however they can be called via  Copycat ,  Metronome ,  Mimic ,  Mirror Move , or from a Pokémon that gained the ability (for example by  Skill Swap )."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -27898,8 +27184,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "5.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -27938,8 +27223,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "14.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -27978,8 +27262,7 @@
         "height_cm": "210.00 cm",
         "weight_kg": "90.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -28018,8 +27301,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "4.50 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -28058,8 +27340,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "9.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -28098,8 +27379,7 @@
         "height_cm": "140.00 cm",
         "weight_kg": "33.00 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -28138,8 +27418,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "4.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -28178,8 +27457,7 @@
         "height_cm": "70.00 cm",
         "weight_kg": "11.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -28218,8 +27496,7 @@
         "height_cm": "190.00 cm",
         "weight_kg": "45.20 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -28253,8 +27530,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "2.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -28288,8 +27564,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "6.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -28328,8 +27603,7 @@
         "height_cm": "20.00 cm",
         "weight_kg": "1.80 Kg",
         "types": [
-            "Flying",
-            null
+            "Flying"
         ],
         "abilities": [
             {
@@ -28368,8 +27642,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "16.00 Kg",
         "types": [
-            "Flying",
-            null
+            "Flying"
         ],
         "abilities": [
             {
@@ -28448,8 +27721,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "8.00 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -28563,8 +27835,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "8.90 Kg",
         "types": [
-            "Dark",
-            null
+            "Dark"
         ],
         "abilities": [
             {
@@ -28598,8 +27869,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "19.90 Kg",
         "types": [
-            "Dark",
-            null
+            "Dark"
         ],
         "abilities": [
             {
@@ -28633,8 +27903,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "2.20 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -28668,8 +27937,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "2.50 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -28703,8 +27971,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "6.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -28738,8 +28005,7 @@
         "height_cm": "130.00 cm",
         "weight_kg": "43.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -28773,8 +28039,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "8.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -28843,8 +28108,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "13.50 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -28878,8 +28142,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "34.00 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -28918,8 +28181,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "12.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -29123,8 +28385,7 @@
         "height_cm": "220.00 cm",
         "weight_kg": "7.60 Kg",
         "types": [
-            "Ground",
-            null
+            "Ground"
         ],
         "abilities": [
             {
@@ -29158,8 +28419,7 @@
         "height_cm": "380.00 cm",
         "weight_kg": "65.50 Kg",
         "types": [
-            "Ground",
-            null
+            "Ground"
         ],
         "abilities": [
             {
@@ -29190,11 +28450,6 @@
                 "url": "https://pokemondb.net/ability/gulp-missile",
                 "name": "Gulp Missile",
                 "description": "Gulp Missile  is the signature ability of  Cramorant . If  Cramorant  uses the move  Surf  or  Dive , it returns with a fish in its mouth. If  Cramorant  then takes damage, it retaliates by spitting out the fish, dealing extra damage. Cramorant  may also return carrying a  Pikachu . If  Pikachu  is launched at the opponent they will become paralyzed. No Pokémon have  Gulp Missile  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -29217,8 +28472,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "1.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -29252,8 +28506,7 @@
         "height_cm": "130.00 cm",
         "weight_kg": "30.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -29417,8 +28670,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "4.00 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -29452,8 +28704,7 @@
         "height_cm": "160.00 cm",
         "weight_kg": "39.00 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -29487,8 +28738,7 @@
         "height_cm": "10.00 cm",
         "weight_kg": "0.20 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
@@ -29522,8 +28772,7 @@
         "height_cm": "20.00 cm",
         "weight_kg": "0.40 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
@@ -29562,8 +28811,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "3.40 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -29602,8 +28850,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "4.80 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -29837,8 +29084,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "28.00 Kg",
         "types": [
-            "Steel",
-            null
+            "Steel"
         ],
         "abilities": [
             {
@@ -29872,8 +29118,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "0.40 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
@@ -29907,8 +29152,7 @@
         "height_cm": "80.00 cm",
         "weight_kg": "117.00 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -29980,11 +29224,6 @@
                 "url": "https://pokemondb.net/ability/wandering-spirit",
                 "name": "Wandering Spirit",
                 "description": "Swaps abilities with opponents on contact.\n No Pokémon have  Wandering Spirit  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -30007,8 +29246,7 @@
         "height_cm": "20.00 cm",
         "weight_kg": "0.30 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -30042,8 +29280,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "0.50 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -30066,8 +29303,7 @@
         "height_cm": "300.00 cm",
         "weight_kg": "62.00 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
@@ -30090,8 +29326,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "1.00 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -30184,19 +29419,13 @@
         "height_cm": "250.00 cm",
         "weight_kg": "520.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/power-spot",
                 "name": "Power Spot",
                 "description": "Just being next to the Pokémon powers up moves.\n No Pokémon have  Power Spot  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -30291,8 +29520,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "100.00 Kg",
         "types": [
-            "Steel",
-            null
+            "Steel"
         ],
         "abilities": [
             {
@@ -30326,8 +29554,7 @@
         "height_cm": "300.00 cm",
         "weight_kg": "650.00 Kg",
         "types": [
-            "Steel",
-            null
+            "Steel"
         ],
         "abilities": [
             {
@@ -30657,11 +29884,6 @@
                 "url": "https://pokemondb.net/ability/pressure",
                 "name": "Pressure",
                 "description": "Pressure  makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1. If a Pokémon with  Pressure  is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -30679,19 +29901,13 @@
         "height_cm": "60.00 cm",
         "weight_kg": "12.00 Kg",
         "types": [
-            "Fighting",
-            null
+            "Fighting"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/inner-focus",
                 "name": "Inner Focus",
                 "description": "Inner Focus  prevents the Pokémon from flinching, for example when attacked by a move like  Headbutt ."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -30741,11 +29957,6 @@
                 "url": "https://pokemondb.net/ability/leaf-guard",
                 "name": "Leaf Guard",
                 "description": "Leaf Guard  prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather. It does not prevent minor status ailments such as Confusion or Infatuation, nor does it prevent self-inflicted status conditions such as from using  Rest ."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -30757,19 +29968,13 @@
         "height_cm": "120.00 cm",
         "weight_kg": "145.00 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/transistor",
                 "name": "Transistor",
                 "description": "Transistor  increases the power of Electric-type moves used by this Pokémon by 50%. It is the signature ability of Regieleki. No Pokémon have  Transistor  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -30781,19 +29986,13 @@
         "height_cm": "210.00 cm",
         "weight_kg": "200.00 Kg",
         "types": [
-            "Dragon",
-            null
+            "Dragon"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/dragons-maw",
                 "name": "Dragon's Maw",
                 "description": "Dragon's Maw  increases the power of Dragon-type moves used by this Pokémon by 50%. It is the signature ability of Regidrago. No Pokémon have  Dragon's Maw  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -30805,19 +30004,13 @@
         "height_cm": "220.00 cm",
         "weight_kg": "800.00 Kg",
         "types": [
-            "Ice",
-            null
+            "Ice"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/chilling-neigh",
                 "name": "Chilling Neigh",
                 "description": "Boosts Attack after knocking out a Pokémon.\n No Pokémon have  Chilling Neigh  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -30829,19 +30022,13 @@
         "height_cm": "200.00 cm",
         "weight_kg": "44.50 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/grim-neigh",
                 "name": "Grim Neigh",
                 "description": "Boosts Special Attack after knocking out a Pokémon.\n No Pokémon have  Grim Neigh  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -31122,8 +30309,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "4.10 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -31162,8 +30348,7 @@
         "height_cm": "90.00 cm",
         "weight_kg": "12.20 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -31242,8 +30427,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "9.80 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -31282,8 +30466,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "30.70 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -31362,8 +30545,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "6.10 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -31402,8 +30584,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "21.50 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -31472,8 +30653,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "10.20 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -31502,8 +30682,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "120.00 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -31537,8 +30716,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "4.00 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -31572,8 +30750,7 @@
         "height_cm": "100.00 cm",
         "weight_kg": "16.50 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -31607,8 +30784,7 @@
         "height_cm": "20.00 cm",
         "weight_kg": "1.00 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -31682,8 +30858,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "2.50 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -31792,8 +30967,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "1.80 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -31822,8 +30996,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "2.80 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -31857,8 +31030,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "10.90 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -31892,8 +31064,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "14.90 Kg",
         "types": [
-            "Fairy",
-            null
+            "Fairy"
         ],
         "abilities": [
             {
@@ -32076,8 +31247,7 @@
         "height_cm": "40.00 cm",
         "weight_kg": "16.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -32116,8 +31286,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "105.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -32156,8 +31325,7 @@
         "height_cm": "230.00 cm",
         "weight_kg": "240.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -32186,8 +31354,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "10.50 Kg",
         "types": [
-            "Fire",
-            null
+            "Fire"
         ],
         "abilities": [
             {
@@ -32281,8 +31448,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "0.40 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -32316,8 +31482,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "113.00 Kg",
         "types": [
-            "Electric",
-            null
+            "Electric"
         ],
         "abilities": [
             {
@@ -32421,8 +31586,7 @@
         "height_cm": "50.00 cm",
         "weight_kg": "16.00 Kg",
         "types": [
-            "Dark",
-            null
+            "Dark"
         ],
         "abilities": [
             {
@@ -32456,8 +31620,7 @@
         "height_cm": "110.00 cm",
         "weight_kg": "61.00 Kg",
         "types": [
-            "Dark",
-            null
+            "Dark"
         ],
         "abilities": [
             {
@@ -32639,11 +31802,6 @@
                 "url": "https://pokemondb.net/ability/mycelium-might",
                 "name": "Mycelium Might",
                 "description": "Status moves go last, but are not affected by the opponent's ability.\n No Pokémon have  Mycelium Might  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -32674,11 +31832,6 @@
                 "url": "https://pokemondb.net/ability/mycelium-might",
                 "name": "Mycelium Might",
                 "description": "Status moves go last, but are not affected by the opponent's ability.\n No Pokémon have  Mycelium Might  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -32690,8 +31843,7 @@
         "height_cm": "130.00 cm",
         "weight_kg": "79.00 Kg",
         "types": [
-            "Rock",
-            null
+            "Rock"
         ],
         "abilities": [
             {
@@ -32725,8 +31877,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "3.00 Kg",
         "types": [
-            "Grass",
-            null
+            "Grass"
         ],
         "abilities": [
             {
@@ -32795,8 +31946,7 @@
         "height_cm": "20.00 cm",
         "weight_kg": "1.00 Kg",
         "types": [
-            "Bug",
-            null
+            "Bug"
         ],
         "abilities": [
             {
@@ -32865,8 +32015,7 @@
         "height_cm": "20.00 cm",
         "weight_kg": "1.50 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -32900,8 +32049,7 @@
         "height_cm": "190.00 cm",
         "weight_kg": "90.00 Kg",
         "types": [
-            "Psychic",
-            null
+            "Psychic"
         ],
         "abilities": [
             {
@@ -33055,8 +32203,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "1.80 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -33090,8 +32237,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "5.40 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -33149,19 +32295,13 @@
         "height_cm": "130.00 cm",
         "weight_kg": "60.20 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
                 "url": "https://pokemondb.net/ability/water-veil",
                 "name": "Water Veil",
                 "description": "Prevents the Pokémon from getting a burn."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -33184,8 +32324,7 @@
         "height_cm": "130.00 cm",
         "weight_kg": "60.20 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -33302,8 +32441,7 @@
         "height_cm": "250.00 cm",
         "weight_kg": "310.00 Kg",
         "types": [
-            "Steel",
-            null
+            "Steel"
         ],
         "abilities": [
             {
@@ -33407,8 +32545,7 @@
         "height_cm": "60.00 cm",
         "weight_kg": "35.00 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
@@ -33442,8 +32579,7 @@
         "height_cm": "200.00 cm",
         "weight_kg": "15.00 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
@@ -33501,8 +32637,7 @@
         "height_cm": "120.00 cm",
         "weight_kg": "45.00 Kg",
         "types": [
-            "Ice",
-            null
+            "Ice"
         ],
         "abilities": [
             {
@@ -33536,8 +32671,7 @@
         "height_cm": "450.00 cm",
         "weight_kg": "700.00 Kg",
         "types": [
-            "Ice",
-            null
+            "Ice"
         ],
         "abilities": [
             {
@@ -33584,8 +32718,7 @@
         "height_cm": "1200.00 cm",
         "weight_kg": "220.00 Kg",
         "types": [
-            "Water",
-            null
+            "Water"
         ],
         "abilities": [
             {
@@ -33748,8 +32881,7 @@
         "height_cm": "360.00 cm",
         "weight_kg": "39.20 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -33820,11 +32952,6 @@
                 "url": "https://pokemondb.net/ability/protosynthesis",
                 "name": "Protosynthesis",
                 "description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -33844,11 +32971,6 @@
                 "url": "https://pokemondb.net/ability/protosynthesis",
                 "name": "Protosynthesis",
                 "description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -33868,11 +32990,6 @@
                 "url": "https://pokemondb.net/ability/protosynthesis",
                 "name": "Protosynthesis",
                 "description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -33892,11 +33009,6 @@
                 "url": "https://pokemondb.net/ability/protosynthesis",
                 "name": "Protosynthesis",
                 "description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -33916,11 +33028,6 @@
                 "url": "https://pokemondb.net/ability/protosynthesis",
                 "name": "Protosynthesis",
                 "description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -33940,11 +33047,6 @@
                 "url": "https://pokemondb.net/ability/protosynthesis",
                 "name": "Protosynthesis",
                 "description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -33964,11 +33066,6 @@
                 "url": "https://pokemondb.net/ability/quark-drive",
                 "name": "Quark Drive",
                 "description": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -33988,11 +33085,6 @@
                 "url": "https://pokemondb.net/ability/quark-drive",
                 "name": "Quark Drive",
                 "description": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34012,11 +33104,6 @@
                 "url": "https://pokemondb.net/ability/quark-drive",
                 "name": "Quark Drive",
                 "description": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34036,11 +33123,6 @@
                 "url": "https://pokemondb.net/ability/quark-drive",
                 "name": "Quark Drive",
                 "description": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34060,11 +33142,6 @@
                 "url": "https://pokemondb.net/ability/quark-drive",
                 "name": "Quark Drive",
                 "description": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34084,11 +33161,6 @@
                 "url": "https://pokemondb.net/ability/quark-drive",
                 "name": "Quark Drive",
                 "description": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34231,8 +33303,7 @@
         "height_cm": "30.00 cm",
         "weight_kg": "5.00 Kg",
         "types": [
-            "Ghost",
-            null
+            "Ghost"
         ],
         "abilities": [
             {
@@ -34274,11 +33345,6 @@
                 "url": "https://pokemondb.net/ability/good-as-gold",
                 "name": "Good as Gold",
                 "description": "Gives immunity to status moves.\n No Pokémon have  Good as Gold  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34298,11 +33364,6 @@
                 "url": "https://pokemondb.net/ability/tablets-of-ruin",
                 "name": "Tablets of Ruin",
                 "description": "Lowers Attack of all Pokémon except itself.\n No Pokémon have  Tablets of Ruin  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34322,11 +33383,6 @@
                 "url": "https://pokemondb.net/ability/sword-of-ruin",
                 "name": "Sword of Ruin",
                 "description": "Lowers Defense of all Pokémon except itself.\n No Pokémon have  Sword of Ruin  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34346,11 +33402,6 @@
                 "url": "https://pokemondb.net/ability/vessel-of-ruin",
                 "name": "Vessel of Ruin",
                 "description": "Lowers Special Attack of all Pokémon except itself.\n No Pokémon have  Vessel of Ruin  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34370,11 +33421,6 @@
                 "url": "https://pokemondb.net/ability/beads-of-ruin",
                 "name": "Beads of Ruin",
                 "description": "Lowers Special Defense of all Pokémon except itself.\n No Pokémon have  Beads of Ruin  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34394,11 +33440,6 @@
                 "url": "https://pokemondb.net/ability/protosynthesis",
                 "name": "Protosynthesis",
                 "description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34418,11 +33459,6 @@
                 "url": "https://pokemondb.net/ability/quark-drive",
                 "name": "Quark Drive",
                 "description": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34442,11 +33478,6 @@
                 "url": "https://pokemondb.net/ability/orichalcum-pulse",
                 "name": "Orichalcum Pulse",
                 "description": "Turns the sunlight harsh when entering battle, and boosts Attack while active.\n No Pokémon have  Orichalcum Pulse  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34466,11 +33497,6 @@
                 "url": "https://pokemondb.net/ability/hadron-engine",
                 "name": "Hadron Engine",
                 "description": "Creates an Electric Terrain when entering battle, and boosts Special Attack while active.\n No Pokémon have  Hadron Engine  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34490,11 +33516,6 @@
                 "url": "https://pokemondb.net/ability/protosynthesis",
                 "name": "Protosynthesis",
                 "description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34514,11 +33535,6 @@
                 "url": "https://pokemondb.net/ability/quark-drive",
                 "name": "Quark Drive",
                 "description": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34799,11 +33815,6 @@
                 "url": "https://pokemondb.net/ability/protosynthesis",
                 "name": "Protosynthesis",
                 "description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34823,11 +33834,6 @@
                 "url": "https://pokemondb.net/ability/protosynthesis",
                 "name": "Protosynthesis",
                 "description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34847,11 +33853,6 @@
                 "url": "https://pokemondb.net/ability/quark-drive",
                 "name": "Quark Drive",
                 "description": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34871,11 +33872,6 @@
                 "url": "https://pokemondb.net/ability/quark-drive",
                 "name": "Quark Drive",
                 "description": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     },
@@ -34887,8 +33883,7 @@
         "height_cm": "20.00 cm",
         "weight_kg": "6.50 Kg",
         "types": [
-            "Normal",
-            null
+            "Normal"
         ],
         "abilities": [
             {
@@ -34919,11 +33914,6 @@
                 "url": "https://pokemondb.net/ability/poison-puppeteer",
                 "name": "Poison Puppeteer",
                 "description": "Pokémon poisoned by Pecharunt’s moves will also become confused. No Pokémon have  Poison Puppeteer  as a hidden ability."
-            },
-            {
-                "url": null,
-                "name": null,
-                "description": "Descrição não disponível"
             }
         ]
     }
