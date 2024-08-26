@@ -37,10 +37,6 @@ class PokemonScrapper(scrapy.Spider):
             else:
                 self.logger.warning("Link não encontrado para o Pokémon")
 
-        next_page = response.css('a.next::attr(href)').extract_first()
-        if next_page:
-            yield response.follow(next_page, self.parse)
-
     def parse_pokemon(self, response):
         abilities = response.css('.vitals-table > tbody > tr:nth-child(6) > td')
         abilities_data = []
@@ -64,6 +60,27 @@ class PokemonScrapper(scrapy.Spider):
             'abilities 2': abilities_data[1] if len(abilities_data) > 1 else {'url': None, 'name': None},
         }
 
+        evolutions = response.css('.infocard-list-evo > div')
+        evolutions_data = []
+        for evo in evolutions:
+            evo_name = evo.css('span:nth-child(2) > small::text').get()
+            evo_url = evo.css('a::attr(href)').get()
+            if evo_name and evo_url:
+                evolutions_data.append({
+                    'url': self.domain + evo_url,
+                    'number': evo_name
+                })
+
+        for i in range(9 - len(evolutions_data)):
+            evolutions_data.append({
+                'url': None,
+                'number': None
+            })
+
+        evolutions_dict = {
+            f'next_evolutions {i + 1}': evolutions_data[i] for i in range(9)
+        }
+
         try:
             yield {
                 'number': response.css('.vitals-table > tbody > tr:nth-child(1) > td > strong::text').get(),
@@ -73,9 +90,7 @@ class PokemonScrapper(scrapy.Spider):
                 'weight': response.css('.vitals-table > tbody > tr:nth-child(5) > td::text').get(),
                 'type 1': response.css('.vitals-table > tbody > tr:nth-child(2) > td > a:nth-child(1)::text').get(),
                 'type 2': response.css('.vitals-table > tbody > tr:nth-child(2) > td > a:nth-child(2)::text').get(),
-                'next_evolutions_1': response.css('.infocard-list-evo > div:nth-child(1) > span:nth-child(2) > small::text').get(),
-                'next_evolutions_2': response.css('.infocard-list-evo > div:nth-child(3) > span:nth-child(2) > small::text').get(),
-                'next_evolutions_3': response.css('.infocard-list-evo > div:nth-child(5) > span:nth-child(2) > small::text').get(),
+                **evolutions_dict,
                 **abilities_dict
             }
         except Exception as e:
