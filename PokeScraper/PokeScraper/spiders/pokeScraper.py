@@ -63,22 +63,25 @@ class PokemonScrapper(scrapy.Spider):
         evolutions = response.css('.infocard-list-evo > div')
         evolutions_data = []
         for evo in evolutions:
-            evo_name = evo.css('span:nth-child(2) > small::text').get()
+            evo_number = evo.css('span:nth-child(2) > small::text').get()
             evo_url = evo.css('a::attr(href)').get()
-            if evo_name and evo_url:
+            evo_name = evo.css('span:nth-child(2) > a::text').get()
+            if evo_number and evo_url and evo_name:
                 evolutions_data.append({
                     'url': self.domain + evo_url,
-                    'number': evo_name
+                    'number': evo_number,
+                    'name': evo_name
                 })
 
-        for i in range(9 - len(evolutions_data)):
+        for i in range(15 - len(evolutions_data)):
             evolutions_data.append({
                 'url': None,
-                'number': None
+                'number': None,
+                'name': None
             })
 
         evolutions_dict = {
-            f'next_evolutions {i + 1}': evolutions_data[i] for i in range(9)
+            f'next_evolutions {i + 1}': evolutions_data[i] for i in range(15)
         }
 
         try:

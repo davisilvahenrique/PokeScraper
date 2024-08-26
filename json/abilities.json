@@ -1,308 +1,1532 @@
 [
-{"url": "https://pokemondb.net/ability/analytic", "name": "Analytic ", "desc": "Boosts move power when the Pokémon moves last.\n No Pokémon have the ability  Analytic  as a regular ability."},
-{"url": "https://pokemondb.net/ability/aftermath", "name": "Aftermath ", "desc": "If an attacker faints a Pokémon with  Aftermath  using a contact move, the attacker will lose  1 ⁄ 4  of their maximum HP."},
-{"url": "https://pokemondb.net/ability/adaptability", "name": "Adaptability ", "desc": "Adaptability  increases the effectiveness of  STAB  moves from the usual 1.5× to 2×. For example, a  Water -type Pokémon using  Surf  (base power 90) would normally get an effective power of 135. With  Adaptability  it would be 180 instead."},
-{"url": "https://pokemondb.net/ability/costar", "name": "Costar ", "desc": "Copies ally's stat changes on entering battle.\n No Pokémon have the ability  Costar  as a regular ability."},
-{"url": "https://pokemondb.net/ability/cud-chew", "name": "Cud Chew ", "desc": "Cud Chew  causes the Pokémon to reuse an already consumed Berry at the end of the next turn."},
-{"url": "https://pokemondb.net/ability/air-lock", "name": "Air Lock ", "desc": "Air Lock  suppresses  all  effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on. No Pokémon have  Air Lock  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/corrosion", "name": "Corrosion ", "desc": "Corrosion  allows the bearer to poison any Pokémon, including Steel and Poison types."},
-{"url": "https://pokemondb.net/ability/aerilate", "name": "Aerilate ", "desc": "Aerilate  causes all  Normal -type attacking moves used by the Pokémon to become  Flying -type, and increase in power by 20%. Flying-type Pokémon also gain  STAB  from those moves (which means an effective increase of 80%). In  Generation 6 ,  Aerilate  increases affected moves' power by 30%. No Pokémon have  Aerilate  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/contrary", "name": "Contrary ", "desc": "Makes stat changes have an opposite effect."},
-{"url": "https://pokemondb.net/ability/competitive", "name": "Competitive ", "desc": "Competitive  raises the ability-bearer's Special Attack by two stages when hit by a stat-lowering move. Stats can be raised to a maximum of +6 stages each."},
-{"url": "https://pokemondb.net/ability/comatose", "name": "Comatose ", "desc": "Comatose  causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze). Moves that target sleeping Pokémon (such as  Dream Eater ) work on a Pokémon with  Comatose , and the ability-bearer can use the moves  Sleep Talk  and  Snore . The power of  Hex  and  Wake-Up Slap  still doubles when targeted at a  Comatose  Pokémon (though Wake-Up Slap does not suppress  Comatose ). Comatose  cannot be removed or replaced via moves like  Skill Swap  or the  Mummy  ability. The move  Purify  and the  Chesto Berry  item do not work on a Pokémon with  Comatose . No Pokémon have  Comatose  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/commander", "name": "Commander ", "desc": "Goes inside the mouth of an ally Dondozo if one is on the field.\n No Pokémon have  Commander  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/compound-eyes", "name": "Compound Eyes ", "desc": "Compound Eyes  raises the ability-bearer's accuracy by 30%. In  Generations 3-5 , this ability's name was formatted as  Compoundeyes . If a Pokémon with  Compound Eyes  is first in the party, Pokémon that can be holding items have that chance increase from 50% to 60% (for common items), 5% to 20% (for uncommon items) or 1% to 5% (for rare items)."},
-{"url": "https://pokemondb.net/ability/color-change", "name": "Color Change ", "desc": "Color Change  changes the ability-bearer's type, when hit by a damage dealing move, to the type of that move. For example being hit by  X Scissor  will change the Pokémon to  Bug -type. Dual-type Pokémon change to single-types. If a Pokémon with  Color Change  has a  Substitute , the ability does not activate.  Color Change  activates for the last strike of a multi-hit move. In  Generations 3-4 ,  Color Change  activates on the first strike of a multi-hit move, thus subsequent hits may be not very effective. No Pokémon have  Color Change  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/sand-rush", "name": "Sand Rush ", "desc": "Sand Rush  doubles the ability-bearer's Speed during a  sandstorm ."},
-{"url": "https://pokemondb.net/ability/tough-claws", "name": "Tough Claws ", "desc": "Tough Claws  increases the power of moves that make contact. Most Physical-category moves are contact moves. No Pokémon have  Tough Claws  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/zero-to-hero", "name": "Zero to Hero ", "desc": "Transforms into its Hero Form when switching out.\n No Pokémon have  Zero to Hero  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/wonder-skin", "name": "Wonder Skin ", "desc": "Wonder Skin  halves the accuracy of all status moves targeted at the ability-bearer. It does not affect  self-inflicted  status moves like  Reflect  or  Swords Dance , nor does it affect the secondary conditions of attacking moves like  Flamethrower ."},
-{"url": "https://pokemondb.net/ability/zen-mode", "name": "Zen Mode ", "desc": "Zen Mode  changes the ability-bearer's form to  Zen Mode  when their health falls below 50%. Currently it only applies to Darmanitan, whose form change makes it Fire/Psychic type and changes its stats around. No Pokémon have the ability  Zen Mode  as a regular ability."},
-{"url": "https://pokemondb.net/ability/wonder-guard", "name": "Wonder Guard ", "desc": "Wonder Guard  prevents damage from direct attacks unless they are super-effective. Shedinja is the only Pokémon to have this ability so this means that only  Fire ,  Flying ,  Rock ,  Ghost  and  Dark  moves will have an effect. However, Pokémon protected by  Wonder Guard  are not immune to indirect attacks. Status-category moves still work and all end-of-turn damage will still incur, for example from poisoning, burns, sandstorms or hail. Entry hazards such as  Spikes  or  Stealth Rock  will also damage Pokémon with  Wonder Guard  switching in. Attacks that do not take their type in account will also hit, such as  Struggle ,  Beat Up  or  Future Sight . Since Shedinja only has 1 HP, any of the above damage will result in an instant knockout. No Pokémon have  Wonder Guard  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/weak-armor", "name": "Weak Armor ", "desc": "When a Pokémon with  Weak Armor  is hit by a physical move, its Defense drops one stage, but its Speed increases by one stage. Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each."},
-{"url": "https://pokemondb.net/ability/wind-power", "name": "Wind Power ", "desc": "If a Pokémon with  Wind Power  is hit by a wind move, the power of the next Electric-type move it uses is doubled. No Pokémon have  Wind Power  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/wimp-out", "name": "Wimp Out ", "desc": "Wimp Out  causes the bearer to switch out (or flee in a wild battle) when its HP falls below 50%. No Pokémon have  Wimp Out  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/well-baked-body", "name": "Well-Baked Body ", "desc": "Immune to Fire-type moves, and Defense is sharply boosted.\n No Pokémon have  Well-Baked Body  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/white-smoke", "name": "White Smoke ", "desc": "Prevents other Pokémon from lowering its stats.\n If a Pokémon with  White Smoke  is the leading party Pokémon, wild Pokémon are only half as likely to appear."},
-{"url": "https://pokemondb.net/ability/water-veil", "name": "Water Veil ", "desc": "Prevents the Pokémon from getting a burn."},
-{"url": "https://pokemondb.net/ability/curious-medicine", "name": "Curious Medicine ", "desc": "Resets all stat changes upon entering battlefield.\n No Pokémon have  Curious Medicine  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/cotton-down", "name": "Cotton Down ", "desc": "When a Pokémon with  Cotton Down  is hit by an attack, it lowers the attacker's Speed. No Pokémon have  Cotton Down  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/water-compaction", "name": "Water Compaction ", "desc": "Water Compaction  raises the bearer's Defense by 2 stages when it is hit by a Water-type move. Stats can be raised to a maximum of +6 stages each. No Pokémon have  Water Compaction  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/water-bubble", "name": "Water Bubble ", "desc": "Water Bubble  reduces damage taken from Fire-type moves by 50%, and doubles the power of Water-type moves used by the ability-bearer. It also prevents the Pokémon from being burned. No Pokémon have  Water Bubble  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/volt-absorb", "name": "Volt Absorb ", "desc": "A Pokémon with  Volt Absorb  heals  1 ⁄ 4  of its maximum HP when hit by an  Electric -type attack, including  Thunder Wave . In  Generation 3 ,  Volt Absorb  does not activate for  Thunder Wave ."},
-{"url": "https://pokemondb.net/ability/wandering-spirit", "name": "Wandering Spirit ", "desc": "Swaps abilities with opponents on contact.\n No Pokémon have  Wandering Spirit  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/vital-spirit", "name": "Vital Spirit ", "desc": "Vital Spirit  prevents the ability-bearer from falling asleep. This means that it also prevents the use of the move  Rest . If a Pokémon with  Vital Spirit  is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level."},
-{"url": "https://pokemondb.net/ability/unseen-fist", "name": "Unseen Fist ", "desc": "Contact moves can strike through Protect/Detect.\n No Pokémon have  Unseen Fist  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/wind-rider", "name": "Wind Rider ", "desc": "Wind Rider  gives immunity to wind moves, and causes the Pokémon's Attack to increase by one stage when hit by one. No Pokémon have  Wind Rider  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/unnerve", "name": "Unnerve ", "desc": "Makes the foe nervous and unable to eat Berries."},
-{"url": "https://pokemondb.net/ability/turboblaze", "name": "Turboblaze ", "desc": "Turboblaze  prevents a target's ability from affecting moves that the  Turboblaze  Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves. For example,  Reshiram  would be able to hit  Bronzong  (having  Levitate ) using a  Ground -type move like  Earth Power . Ground type moves would still not affect Flying types. However, using  Dragon Claw  against a Pokémon with  Aftermath  would still receive HP loss as Aftermath did not affect the  Dragon Claw  attack itself. No Pokémon have  Turboblaze  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/truant", "name": "Truant ", "desc": "Truant  causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is  loafing around . If a Pokémon with  Truant  uses a move that requires recharging on the second turn (such as  Hyper Beam ), it will recharge on the same turn the Pokémon loafs around. Moves where the user prepares on the first turn and attacks on the second (such as  Solarbeam  or  Fly ) cannot be used. The moves  Worry Seed ,  Entrainment  and  Simple Beam  do not work on Pokémon with  Truant . Truant  can technically be  Skill Swapped  away, however neither Slakoth, Slaking or Durant learn it."},
-{"url": "https://pokemondb.net/ability/transistor", "name": "Transistor ", "desc": "Transistor  increases the power of Electric-type moves used by this Pokémon by 50%. It is the signature ability of Regieleki. No Pokémon have  Transistor  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/triage", "name": "Triage ", "desc": "Triage  increases the priority of HP-restoring moves to +3, when used by the ability-bearer. Note: as  Comfey  is currently the only Pokémon with this ability, the only moves affected in practice are  Draining Kiss ,  Floral Healing ,  Rest , and  Synthesis . No Pokémon have  Triage  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/toxic-debris", "name": "Toxic Debris ", "desc": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.\n No Pokémon have  Toxic Debris  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/trace", "name": "Trace ", "desc": "The Pokémon copies a foe's Ability.\n No Pokémon have  Trace  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/victory-star", "name": "Victory Star ", "desc": "Boosts the accuracy of its allies and itself.\n No Pokémon have  Victory Star  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/vessel-of-ruin", "name": "Vessel of Ruin ", "desc": "Lowers Special Attack of all Pokémon except itself.\n No Pokémon have  Vessel of Ruin  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/toxic-chain", "name": "Toxic Chain ", "desc": "Toxic Chain  may cause bad poisoning when the Pokémon hits an opponent with a move. Toxic Chain  is a new ability available in the Scarlet/Violet DLC. No Pokémon have  Toxic Chain  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/tinted-lens", "name": "Tinted Lens ", "desc": "Powers up “not very effective” moves."},
-{"url": "https://pokemondb.net/ability/torrent", "name": "Torrent ", "desc": "Torrent  increases the power of  Water -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as  in a pinch )."},
-{"url": "https://pokemondb.net/ability/thick-fat", "name": "Thick Fat ", "desc": "Thick Fat  reduces the damage taken from  Fire -type and  Ice -type moves by 50%. Interestingly, many Pokémon possessing this ability already take reduced damage from those types. A  Dewgong  or  Walrein  with  Thick Fat  would take  1 ⁄ 8  normal damage when hit by an Ice-type move."},
-{"url": "https://pokemondb.net/ability/unburden", "name": "Unburden ", "desc": "Raises Speed if a held item is used."},
-{"url": "https://pokemondb.net/ability/teraform-zero", "name": "Teraform Zero ", "desc": "When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero. No Pokémon have  Teraform Zero  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/teravolt", "name": "Teravolt ", "desc": "Teravolt  prevents a target's ability from affecting moves that the  Teravolt  Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves. For example,  Zekrom  would be able to hit  Bronzong  (having  Levitate ) using a  Ground -type move like  Earth Power . Ground type moves would still not affect Flying types. However, using  Dragon Claw  against a Pokémon with  Aftermath  would still receive HP loss as Aftermath did not affect the  Dragon Claw  attack itself. No Pokémon have  Teravolt  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/unaware", "name": "Unaware ", "desc": "Ignores any stat changes in the Pokémon."},
-{"url": "https://pokemondb.net/ability/tera-shell", "name": "Tera Shell ", "desc": "The Pokémon’s shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective. No Pokémon have  Tera Shell  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/tera-shift", "name": "Tera Shift ", "desc": "When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form. No Pokémon have  Tera Shift  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/technician", "name": "Technician ", "desc": "Technician  increases the power of moves - that are usually base power 60 or below - by 50%. Moves with variable base power are boosted only when it is 60 or below. For example, if  Magnitude  hits at level 6 it will be boosted from 50 to 75, but level 7 will stay at 70 base power. Moves like  Sonic Boom  that deal fixed HP damage are not affected by  Technician ."},
-{"url": "https://pokemondb.net/ability/telepathy", "name": "Telepathy ", "desc": "Pokémon with the  Telepathy  ability will not take damage from teammates in double and triple battles. This affects moves such as  Surf  and  Earthquake , which normally hit all Pokémon on the field apart from the user."},
-{"url": "https://pokemondb.net/ability/tangled-feet", "name": "Tangled Feet ", "desc": "Raises evasion if the Pokémon is confused."},
-{"url": "https://pokemondb.net/ability/synchronize", "name": "Synchronize ", "desc": "If the opponent causes a burn, paralysis, or poisoning of a Pokémon with  Synchronize , the opponent receives the status condition too. Self-inflicted status conditions (for example through the use of an item) are not passed on. In  Generations 3-4 , bad poison is only passed on as regular poison. If a Pokémon with  Synchronize  is the leading party Pokémon, there is a 50% chance of each wild Pokémon encountered having the same nature. No Pokémon have  Synchronize  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/swift-swim", "name": "Swift Swim ", "desc": "Swift Swim  doubles the ability-bearer's Speed during  rain ."},
-{"url": "https://pokemondb.net/ability/symbiosis", "name": "Symbiosis ", "desc": "The Pokémon can pass an item to an ally.\n No Pokémon have the ability  Symbiosis  as a regular ability."},
-{"url": "https://pokemondb.net/ability/sweet-veil", "name": "Sweet Veil ", "desc": "Sweet Veil  prevents this Pokémon and its allies from falling asleep, for example from moves like  Hypnosis ."},
-{"url": "https://pokemondb.net/ability/toxic-boost", "name": "Toxic Boost ", "desc": "Powers up physical attacks when poisoned.\n No Pokémon have the ability  Toxic Boost  as a regular ability."},
-{"url": "https://pokemondb.net/ability/water-absorb", "name": "Water Absorb ", "desc": "A Pokémon with  Water Absorb  heals  1 ⁄ 4  of its maximum HP when hit by a  Water -type attack."},
-{"url": "https://pokemondb.net/ability/thermal-exchange", "name": "Thermal Exchange ", "desc": "Raises Attack when hit by a Fire-type move. Cannot be burned.\n No Pokémon have  Thermal Exchange  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/swarm", "name": "Swarm ", "desc": "Swarm  increases the power of  Bug -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as  in a pinch ). If a Pokémon with  Swarm  is the leading party Pokémon, wild Pokémon are twice as likely to appear."},
-{"url": "https://pokemondb.net/ability/tablets-of-ruin", "name": "Tablets of Ruin ", "desc": "Lowers Attack of all Pokémon except itself.\n No Pokémon have  Tablets of Ruin  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/supreme-overlord", "name": "Supreme Overlord ", "desc": "Attack and Special Attack are boosted for each party Pokémon that has been defeated.\n No Pokémon have  Supreme Overlord  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/tangling-hair", "name": "Tangling Hair ", "desc": "Contact with the Pokémon lowers the attacker's Speed stat.\n No Pokémon have  Tangling Hair  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/surge-surfer", "name": "Surge Surfer ", "desc": "Surge Surfer  doubles the bearer's Speed when  Electric Terrain  is active. No Pokémon have  Surge Surfer  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/sword-of-ruin", "name": "Sword of Ruin ", "desc": "Lowers Defense of all Pokémon except itself.\n No Pokémon have  Sword of Ruin  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/sticky-hold", "name": "Sticky Hold ", "desc": "Sticky Hold  prevents held items from being taken or switched. If a Pokémon with  Sticky Hold  is the leading party Pokémon, the chance of hooking a Pokémon during fishing increases."},
-{"url": "https://pokemondb.net/ability/suction-cups", "name": "Suction Cups ", "desc": "Suction Cups  prevents opponents forcing the ability-bearer to switch out or flee via the moves  Roar ,  Whirlwind ,  Circle Throw , or  Dragon Tail , or the item  Red Card . If a Pokémon with  Suction Cups  is the leading party Pokémon, the chance of hooking a Pokémon during fishing increases. No Pokémon have  Suction Cups  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/strong-jaw", "name": "Strong Jaw ", "desc": "Strong Jaw  increases the power of all  biting  moves by 50%. The attacks classed as biting moves are shown below with their normal and boosted power: No Pokémon have  Strong Jaw  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/sturdy", "name": "Sturdy ", "desc": "Sturdy  allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves ( Fissure ,  Horn Drill ,  Guillotine  or  Sheer Cold ). If  Sturdy  activates before the final hit of a multi-hit move (such as  Fury Swipes ), the subsequent hit will still deal damage and therefore cause the Pokémon to faint. Sturdy  does not prevent self-inflicted KO moves such as  Selfdestruct ,  Explosion  and  Final Gambit ."},
-{"url": "https://pokemondb.net/ability/stench", "name": "Stench ", "desc": "A Pokémon with  Stench  has a 10% chance of causing the opponent to flinch when hit by a damaging move (provided the ability-bearer strikes first as usual). Stench  does not stack with the items  King's Rock  or  Razor Fang , so an ability-bearer holding either item will keep the flinch chance at 10%. In  Generations 3-4 ,  Stench  has no effect in battle. If a Pokémon with  Stench  is the leading party Pokémon, wild Pokémon are only half as likely to appear."},
-{"url": "https://pokemondb.net/ability/super-luck", "name": "Super Luck ", "desc": "Super Luck  raises the ability-bearer's critical-hit ratio by one stage (for most moves this increases from a  1 ⁄ 16  chance to  1 ⁄ 8 )."},
-{"url": "https://pokemondb.net/ability/supersweet-syrup", "name": "Supersweet Syrup ", "desc": "A sickly sweet scent spreads across the field the first time the Pokémon enters a battle, lowering the evasiveness of opposing Pokémon. No Pokémon have  Supersweet Syrup  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/steadfast", "name": "Steadfast ", "desc": "Raises Speed each time the Pokémon flinches."},
-{"url": "https://pokemondb.net/ability/static", "name": "Static ", "desc": "If a Pokémon with  Static  is hit by a move making contact, there is a 30% chance the foe will become paralyzed. If a Pokémon with  Static  is the leading party Pokémon, it is 50% more likely that a wild Pokémon encountered will be  Electric  type."},
-{"url": "https://pokemondb.net/ability/stalwart", "name": "Stalwart ", "desc": "Ignores moves and abilities that draw in moves.\n No Pokémon have the ability  Stalwart  as a regular ability."},
-{"url": "https://pokemondb.net/ability/stance-change", "name": "Stance Change ", "desc": "Stance Change  is exclusive to  Aegislash . When using a damage-dealing move,  Aegislash  switches to its Blade Forme. When using the move  King's Shield ,  Aegislash  switches to its Shield Forme. The form change occurs when the appropriate move is selected, regardless of whether the attack goes ahead (e.g. prevented by paralysis). No Pokémon have  Stance Change  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/stall", "name": "Stall ", "desc": "The Pokémon moves after all other Pokémon do.\n No Pokémon have  Stall  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/storm-drain", "name": "Storm Drain ", "desc": "Storm Drain  forces all single-target  Water -type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. The ability is most useful in double/triple battles. When hit by the move, it deals no damage to the ability-bearer but raises its Special Attack by one stage. Stats can be raised to a maximum of +6 stages each. Storm Drain  will activate for an Water-type  Hidden Power , but not Water-type  Judgment . The ability is overridden by other Pokémon becoming the  center of attention  from the moves  Follow Me  or  Rage Powder . In  Generation 4 ,  Storm Drain  did not increase Special Attack nor give immunity to Water-type attacks. It also did not activate for  Hidden Power ."},
-{"url": "https://pokemondb.net/ability/speed-boost", "name": "Speed Boost ", "desc": "Its Speed stat is gradually boosted."},
-{"url": "https://pokemondb.net/ability/soundproof", "name": "Soundproof ", "desc": "Soundproof  grants the Pokémon immunity to all  sound-based  moves, preventing all damage and effects. In  Generation 5  only, Pokémon with  Soundproof  could be cured of status conditions by  Heal Bell ."},
-{"url": "https://pokemondb.net/ability/steelworker", "name": "Steelworker ", "desc": "Steelworker  increases the power of Steel-type moves used by this Pokémon by 50%. No Pokémon have  Steelworker  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/soul-heart", "name": "Soul-Heart ", "desc": "Soul-Heart  raises the bearer's Special Attack one stage when any Pokémon on the field faints. Stats can be raised to a maximum of +6 stages each. No Pokémon have  Soul-Heart  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/solid-rock", "name": "Solid Rock ", "desc": "Solid Rock  reduces the damage taken from super-effective attacks by 25%. For example, a Water-type move used against a Rock-type Pokémon with  Solid Rock  would deal 1.5× the usual damage instead of 2×. A double weakness would be reduced from 4× to 3×. No Pokémon have  Solid Rock  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/solar-power", "name": "Solar Power ", "desc": "During harsh sunlight,  Solar Power  raises the ability-bearer's Special Attack by 50%, but it also loses  1 ⁄ 8  of its maximum HP after each turn."},
-{"url": "https://pokemondb.net/ability/steely-spirit", "name": "Steely Spirit ", "desc": "Powers up ally Pokémon's Steel-type moves.\n No Pokémon have the ability  Steely Spirit  as a regular ability."},
-{"url": "https://pokemondb.net/ability/stamina", "name": "Stamina ", "desc": "Stamina  raises the bearer's Defense by one stage when it is attacked by any move. Stats can be raised to a maximum of +6 stages each. No Pokémon have  Stamina  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/steam-engine", "name": "Steam Engine ", "desc": "Steam Engine  raises the user's Speed by three stages when it is hit by a Fire- or Water-type attack. The attack still deals damage. Stats can be raised to a maximum of +6 stages each. If a Pokémon with  Steam Engine  (or  Flame Body  or  Magma Armor ) and a  Pokémon Egg  are both in the party Pokémon, the number of steps required to hatch the egg are halved. No Pokémon have  Steam Engine  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/snow-cloak", "name": "Snow Cloak ", "desc": "Snow Cloak  raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being  Ice  type). If a Pokémon with  Snow Cloak  is the leading party Pokémon while travelling in a hail storm/blizzard, wild Pokémon are only half as likely to appear."},
-{"url": "https://pokemondb.net/ability/snow-warning", "name": "Snow Warning ", "desc": "Snow Warning  creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via  Air Lock  or  Cloud Nine  or replaced by another weather condition. If multiple Pokémon with weather-generating abilities ( Snow Warning ,  Drizzle ,  Drought  or  Sand Stream ) enter the field on the same turn, each weather condition will activate consecutively, fastest Pokémon first. In other words, the resultant weather condition will be that of the slowest Pokémon. Prior to  Generation 6 ,  Snow Warning  lasts indefinitely upon activation."},
-{"url": "https://pokemondb.net/ability/stakeout", "name": "Stakeout ", "desc": "Stakeout  enables the Pokémon to deal twice the normal damage to any Pokémon that switches in or enters the field mid-battle."},
-{"url": "https://pokemondb.net/ability/slow-start", "name": "Slow Start ", "desc": "Temporarily halves Attack and Speed."},
-{"url": "https://pokemondb.net/ability/sniper", "name": "Sniper ", "desc": "Sniper  increases the power of critical hits by 1.5×. This means a critical hit will deal  2.25×  normal damage instead of 1.5×. In  Generations 1-5  critical hits deal 2× normal damage, so  Sniper  inflicts  3×  normal damage."},
-{"url": "https://pokemondb.net/ability/skill-link", "name": "Skill Link ", "desc": "Skill Link  causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as  Double Kick  that always strike the same number of times are not affected. In  Generation 4 ,  Triple Kick  is not affected by  Skill Link ."},
-{"url": "https://pokemondb.net/ability/simple", "name": "Simple ", "desc": "The  Simple  ability doubles the number of stages of all stat changes. Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each. For example, using  Swords Dance  would increase the Pokémon's attack by 4 stages instead of the usual 2. If  Tail Whip  was targeted at a Pokémon with  Simple , its Defense would drop 2 stages instead of 1. The move  Simple Beam  can change a Pokémon's ability to  Simple . In  Generation 4 ,  Simple  doubles the effects of stat changes but does not increase the actual number of stages. Stat increases are capped at the same multiplier of ×4, as per the table below. However, the resulting effect is exactly the same as current games."},
-{"url": "https://pokemondb.net/ability/shield-dust", "name": "Shield Dust ", "desc": "Blocks the added effects of attacks taken.\n No Pokémon have  Shield Dust  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/shed-skin", "name": "Shed Skin ", "desc": "The Pokémon may heal its own status problems."},
-{"url": "https://pokemondb.net/ability/sharpness", "name": "Sharpness ", "desc": "Sharpness  increases the power of all  slicing  moves by 50%. The attacks classed as slicing moves are shown below with their normal and boosted power: *No Pokémon with  Sharpness  can learn these moves, however they can be called via  Copycat ,  Metronome ,  Mimic ,  Mirror Move , or from a Pokémon that gained the ability (for example by  Skill Swap )."},
-{"url": "https://pokemondb.net/ability/sheer-force", "name": "Sheer Force ", "desc": "Sheer Force  increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects. Beneficial  effects are defined as those that are positive for the user, such as: Non-beneficial effects, that  Sheer Force  will not activate for, include: If the user is holding a  Life Orb  and uses an attack that activates  Sheer Force , it will not receive the 10% damage from  Life Orb , but it gets boosts from both  Life Orb  and  Sheer Force  (total of 69% base power increase). Flamethrower  normally has a 10% chance to burn the opponent. With  Sheer Force , Flamethrower's base power is boosted from 95 to 124, but it will never cause a burn. Note that if a move has an advantageous  and  disadvantageous side-effect,  Sheer Force  still boosts the move but only the advantageous effect is removed. For example,  Flare Blitz  may cause a burn but also has recoil damage. A Pokémon with  Sheer Force  using the move would gain the power increase and still receive recoil damage, but it would never cause a burn. Here are the moves that increase in power under  Sheer Force , listed alphabetically:"},
-{"url": "https://pokemondb.net/ability/shadow-tag", "name": "Shadow Tag ", "desc": "Prevents the foe from escaping."},
-{"url": "https://pokemondb.net/ability/serene-grace", "name": "Serene Grace ", "desc": "Serene Grace  doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items  King's Rock  and  Razor Fang  from 10% to 20% (however, note that those items do not affect moves that already have a flinch chance). Serene Grace  does not affect status moves or the Pokémon's critical hit ratio. Shadow Ball  normally has a 20% chance of lowering Special Defense; with  Serene Grace  it is boosted to a 40% chance. Air Slash  has a 30% of causing the target to flinch; with  Serene Grace  it is boosted to a 60% chance. If the item  King's Rock  is held it does not increase that percentage, but rather if the move does not cause flinching (40% chance), then there is now a further 20% chance the target will flinch from  King's Rock . This means  Serene Grace  with  Air Slash  and  King's Rock  gives a total probability of 68% (1 - 0.4*0.8) that the opponent will flinch. In  Generations 3-4   Serene Grace  does not increase the flinch chance of  King's Rock  or Razor Fang. In  Generations 3-5   Serene Grace  does not affect the move  Secret Power ."},
-{"url": "https://pokemondb.net/ability/shadow-shield", "name": "Shadow Shield ", "desc": "Reduces damage when HP is full.\n No Pokémon have  Shadow Shield  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/scrappy", "name": "Scrappy ", "desc": "Enables moves to hit Ghost-type Pokémon."},
-{"url": "https://pokemondb.net/ability/schooling", "name": "Schooling ", "desc": "Schooling  changes Wishiwashi into its School Form, if its HP is above 25% and Wishiwashi is at least level 20. If its HP falls below 25%, Wishiwashi will revert back to Solo Form. Schooling  cannot be removed or replaced via moves like  Skill Swap  or the  Mummy  ability. No Pokémon have  Schooling  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/slush-rush", "name": "Slush Rush ", "desc": "Boosts the Pokémon's Speed stat in a hailstorm."},
-{"url": "https://pokemondb.net/ability/sand-veil", "name": "Sand Veil ", "desc": "Sand Veil  raises the ability-bearer's evasion by 20% in a  sandstorm . It also gives immunity to sandstorm damage (if they are not already protected by being  Ground / Rock / Steel  type). If a Pokémon with  Sand Veil  is the leading party Pokémon while travelling in a sandstorm, wild Pokémon are only half as likely to appear."},
-{"url": "https://pokemondb.net/ability/sap-sipper", "name": "Sap Sipper ", "desc": "Boosts Attack when hit by a Grass-type move."},
-{"url": "https://pokemondb.net/ability/shell-armor", "name": "Shell Armor ", "desc": "Shell Armor  prevents the Pokémon from receiving a critical hit."},
-{"url": "https://pokemondb.net/ability/sand-stream", "name": "Sand Stream ", "desc": "Sand Stream  creates a sandstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via  Air Lock  or  Cloud Nine  or replaced by another weather condition. If multiple Pokémon with weather-generating abilities ( Sand Stream ,  Drizzle ,  Drought  or  Snow Warning ) enter the field on the same turn, each weather condition will activate consecutively, fastest Pokémon first. In other words, the resultant weather condition will be that of the slowest Pokémon. Prior to  Generation 6 ,  Sand Stream  lasts indefinitely upon activation. No Pokémon have  Sand Stream  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/sand-force", "name": "Sand Force ", "desc": "Sand Force  raises the power of  Ground ,  Rock  and  Steel  type moves by 30% during a  sandstorm . It also grants immunity to the sandstorm damage, if not already immune (currently this only applies to Shellos since all other Pokémon with the ability are already immune)."},
-{"url": "https://pokemondb.net/ability/rough-skin", "name": "Rough Skin ", "desc": "When a Pokémon with  Rough Skin  is hit by a move that makes contact, the attacker receives damage equal to  1 ⁄ 8  of their maximum HP. Multi-hit moves (e.g.  DoubleSlap ) activate  Rough Skin  for each strike. In  Generation 3 , the damage from  Rough Skin  is  1 ⁄ 16  of the maximum HP."},
-{"url": "https://pokemondb.net/ability/run-away", "name": "Run Away ", "desc": "Run Away  allows the bearer to flee a battle with a wild Pokémon without fail, even if the opposing Pokémon has used a move like  Mean Look  or  Bind , or has an ability such as  Arena Trap . Pokémon with  Run Away  cannot switch out for another Pokémon, only flee. It does not allow the Pokémon to flee from Trainer battles."},
-{"url": "https://pokemondb.net/ability/rocky-payload", "name": "Rocky Payload ", "desc": "Rocky Payload  increases the power of Rock-type moves used by this Pokémon by 50%. No Pokémon have the ability  Rocky Payload  as a regular ability."},
-{"url": "https://pokemondb.net/ability/shields-down", "name": "Shields Down ", "desc": "Shields Down  causes the Pokémon to changes its appearance and stats depending on its remaining HP. When the Pokémon's HP is over 50%, it has higher defenses and is immune to status conditions. When its HP falls below 50%, the outer shell breaks and the Pokémon has higher attack. No Pokémon have  Shields Down  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/seed-sower", "name": "Seed Sower ", "desc": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.\n No Pokémon have  Seed Sower  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/screen-cleaner", "name": "Screen Cleaner ", "desc": "Nullifies effects of Light Screen, Reflect, and Aurora Veil.\n No Pokémon have  Screen Cleaner  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/rock-head", "name": "Rock Head ", "desc": "Protects the Pokémon from recoil damage."},
-{"url": "https://pokemondb.net/ability/regenerator", "name": "Regenerator ", "desc": "A Pokémon with  Regenerator  restores  1 ⁄ 3  of its maximum HP when switching out."},
-{"url": "https://pokemondb.net/ability/rks-system", "name": "RKS System ", "desc": "Changes type depending on held item.\n No Pokémon have  RKS System  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/rivalry", "name": "Rivalry ", "desc": "Deals more damage to a Pokémon of same gender."},
-{"url": "https://pokemondb.net/ability/reckless", "name": "Reckless ", "desc": "Reckless  increases the power of  recoil  moves by 20%. By extension, this means the amount of recoil damage taken will increase as more damage is dealt (except for  High Jump Kick  and  Jump Kick  which are based on the user's HP). The attacks classed as punching moves are shown below with their normal and boosted power: * No Pokémon with  Reckless  can learn these moves."},
-{"url": "https://pokemondb.net/ability/refrigerate", "name": "Refrigerate ", "desc": "Refrigerate  causes all  Normal -type attacking moves used by the Pokémon to become  Ice -type, and increase in power by 20%. Ice-type Pokémon also gain  STAB  from those moves (which means an effective increase of 80%). In  Generation 6 ,  Refrigerate  increases affected moves' power by 30%. No Pokémon have  Refrigerate  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/sand-spit", "name": "Sand Spit ", "desc": "Creates a sandstorm when hit by an attack.\n No Pokémon have  Sand Spit  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/quick-feet", "name": "Quick Feet ", "desc": "Quick Feet  raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pokémon does not suffer the usual drop in Speed. All other effects of the status condition remain, e.g. losing HP each turn (poison, burn), or being unable to attack (paralysis, freeze, sleep). If a Pokémon with  Quick Feet  is the leading party Pokémon, wild Pokémon are only half as likely to appear."},
-{"url": "https://pokemondb.net/ability/quick-draw", "name": "Quick Draw ", "desc": "No Pokémon have  Quick Draw  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/pure-power", "name": "Pure Power ", "desc": "Raises the Pokémon's Attack stat.\n No Pokémon have  Pure Power  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/purifying-salt", "name": "Purifying Salt ", "desc": "Protects from status conditions and halves damage from Ghost-type moves.\n No Pokémon have  Purifying Salt  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/quark-drive", "name": "Quark Drive ", "desc": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/ripen", "name": "Ripen ", "desc": "Doubles the effect of berries.\n No Pokémon have  Ripen  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/protosynthesis", "name": "Protosynthesis ", "desc": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/receiver", "name": "Receiver ", "desc": "A Pokémon with  Receiver  will inherit the ability of a teammate in a double/triple battle when that teammate faints. Abilities that activate upon entering the field, such as  Intimidate , will activate when the Pokémon with  Receiver  inherits it. No Pokémon have  Receiver  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/protean", "name": "Protean ", "desc": "Protean  changes the Pokémon's type to that of its previously used attack. No Pokémon have the ability  Protean  as a regular ability."},
-{"url": "https://pokemondb.net/ability/rattled", "name": "Rattled ", "desc": "When a Pokémon with  Rattled  is hit by a  Bug ,  Ghost  or  Dark  type move, its Speed is raised one stage (up to the usual maximum of +6 stages)."},
-{"url": "https://pokemondb.net/ability/rain-dish", "name": "Rain Dish ", "desc": "A Pokémon with  Rain Dish  will recover  1 ⁄ 16  of its maximum HP during rain, after each turn."},
-{"url": "https://pokemondb.net/ability/prism-armor", "name": "Prism Armor ", "desc": "Prism Armor  reduces the damage taken from super-effective attacks by 25%. It is not affected by the abilities  Mold Breaker ,  Teravolt , or  Turboblaze . For example, a Dark-type move used against a Psychic-type Pokémon with  Prism Armor  would deal 1.5× the usual damage instead of 2×. A double weakness would be reduced from 4× to 3×. No Pokémon have  Prism Armor  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/queenly-majesty", "name": "Queenly Majesty ", "desc": "Prevents use of priority moves.\n No Pokémon have  Queenly Majesty  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/pressure", "name": "Pressure ", "desc": "Pressure  makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1. If a Pokémon with  Pressure  is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level."},
-{"url": "https://pokemondb.net/ability/prankster", "name": "Prankster ", "desc": "Prankster  increases the priority of status moves by +1. This means that a slower Pokémon with  Prankster  can use a status move before the opponent uses a regular move. Or if the ability-bearer is faster, it could use a status move before the opponent uses a priority move like  Aqua Jet . The move  Quick Guard  does not block moves whose priority is increased by  Prankster  (but it does block moves that already have increased priority)."},
-{"url": "https://pokemondb.net/ability/psychic-surge", "name": "Psychic Surge ", "desc": "Psychic Surge  creates a low-lying psychic field, like the move  Psychic Terrain , when the Pokémon enters battle. It prevents high-priority moves being used and increases the power of  Psychic  type attacks."},
-{"url": "https://pokemondb.net/ability/power-construct", "name": "Power Construct ", "desc": "Power Construct  is unique to Zygarde. When Zygarde 10% Forme or Zygarde 50% Forme falls below half HP, it changes into Zygarde Complete Forme. As Complete Forme has a higher base HP than the other two Formes, its HP is also restored by the same amount the maximum HP increased. No Pokémon have  Power Construct  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/propeller-tail", "name": "Propeller Tail ", "desc": "Ignores moves and abilities that draw in moves.\n No Pokémon have the ability  Propeller Tail  as a regular ability."},
-{"url": "https://pokemondb.net/ability/poison-touch", "name": "Poison Touch ", "desc": "May poison targets when a Pokémon makes contact."},
-{"url": "https://pokemondb.net/ability/poison-puppeteer", "name": "Poison Puppeteer ", "desc": "Pokémon poisoned by Pecharunt’s moves will also become confused. No Pokémon have  Poison Puppeteer  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/pixilate", "name": "Pixilate ", "desc": "Pixilate  causes all  Normal -type attacking moves used by the Pokémon to become  Fairy -type, and increase in power by 20%. Fairy-type Pokémon also gain  STAB  from those moves (which means an effective increase of 80%). In  Generation 6 ,  Pixilate  increases affected moves' power by 30%."},
-{"url": "https://pokemondb.net/ability/primordial-sea", "name": "Primordial Sea ", "desc": "Primordial Sea  creates heavy rain when the ability is activated (by Kyogre reverting to its Primal form). Heavy rain has the same effects as  regular rain  but with some additions: The abilities  Cloud Nine  or  Air Lock  are still able to bypass the effects of  Primordial Sea , but  Mold Breaker  is not. No Pokémon have  Primordial Sea  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/poison-point", "name": "Poison Point ", "desc": "Contact with the Pokémon may poison the attacker.\n No Pokémon have  Poison Point  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/poison-heal", "name": "Poison Heal ", "desc": "Restores HP if the Pokémon is poisoned."},
-{"url": "https://pokemondb.net/ability/pickpocket", "name": "Pickpocket ", "desc": "Steals an item when hit by another Pokémon."},
-{"url": "https://pokemondb.net/ability/pickup", "name": "Pickup ", "desc": "When another Pokémon on the field uses a single-use held item, a Pokémon with  Pickup  will obtain the used item (if they are not already holding anything) and it can be used again. Pokémon with  Pickup  will also obtain an item thrown at them with  Fling  (if they are not already holding anything). In  Generations 3-4 ,  Pickup  has no effect in battle. When a battle ends, any party Pokémon with  Pickup  has a 10% chance of picking up an item (if they are not already holding an item). Items picked up range from Potions, Great Balls, Ultra Balls and Rare Candies up to Leftovers and some TMs. Better items have a lower chance of being found; furthermore, higher-level Pokémon will obtain better items."},
-{"url": "https://pokemondb.net/ability/punk-rock", "name": "Punk Rock ", "desc": "Boosts sound-based moves and halves damage from the same moves.\n No Pokémon have  Punk Rock  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/power-spot", "name": "Power Spot ", "desc": "Just being next to the Pokémon powers up moves.\n No Pokémon have  Power Spot  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/parental-bond", "name": "Parental Bond ", "desc": "Parental Bond  allows the ability-bearer to attack twice. The second attack hits with 25% of the power, so in effect it is equivalent to a 25% boost to all attacks. Parental Bond  is the signature ability of  Mega Kangaskhan . When the ability is in use, the mother and child each attack. In  Generation 6 , the second attack of  Parental Bond  hits with 50% power of the first. No Pokémon have  Parental Bond  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/own-tempo", "name": "Own Tempo ", "desc": "Prevents the Pokémon from becoming confused."},
-{"url": "https://pokemondb.net/ability/power-of-alchemy", "name": "Power of Alchemy ", "desc": "The Pokémon copies the Ability of a defeated ally.\n No Pokémon have the ability  Power of Alchemy  as a regular ability."},
-{"url": "https://pokemondb.net/ability/overgrow", "name": "Overgrow ", "desc": "Overgrow  increases the power of  Grass -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as  in a pinch )."},
-{"url": "https://pokemondb.net/ability/overcoat", "name": "Overcoat ", "desc": "Overcoat  makes the Pokémon immune to residual damage from weather conditions (specifically  Hail  and  Sandstorm )."},
-{"url": "https://pokemondb.net/ability/opportunist", "name": "Opportunist ", "desc": "Copies stat boosts by the opponent.\n No Pokémon have  Opportunist  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/orichalcum-pulse", "name": "Orichalcum Pulse ", "desc": "Turns the sunlight harsh when entering battle, and boosts Attack while active.\n No Pokémon have  Orichalcum Pulse  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/oblivious", "name": "Oblivious ", "desc": "Oblivious  makes the Pokémon immune to gender-based moves and abilities, specifically  Attract ,  Captivate  and  Cute Charm ."},
-{"url": "https://pokemondb.net/ability/normalize", "name": "Normalize ", "desc": "Normalize  causes all moves used by the Pokémon to become  Normal -type, and attacking moves increase in power by 20%. Normal-type Pokémon also gain  STAB  from those moves (which means an effective increase of 80%). The following moves are not affected by  Normalize :  Hidden Power ,  Judgment ,  Multi-Attack ,  Natural Gift ,  Revelation Dance ,  Struggle ,  Techno Blast ,  Weather Ball , and damaging Z-Moves. The move  Flying Press  deals Normal/Flying type damage instead of Fighting/Flying.  Freeze-Dry  remains super-effective against Water-types, but follows the Normal type chart against other types (e.g. neutral against Grass-types). In  Generations 4-6 ,  Normalize  did not increase damage (besides any usual boosts like  STAB ). All moves listed above except Struggle  are  affected by  Normalize . No Pokémon have  Normalize  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/plus", "name": "Plus ", "desc": "Ups Sp. Atk if another Pokémon has Plus or Minus."},
-{"url": "https://pokemondb.net/ability/no-guard", "name": "No Guard ", "desc": "No Guard  ensures that all attacks used by, and targeted at, the ability-bearer hit without fail. This includes moves used on a Pokémon in the  hidden  stages of the moves  Fly ,  Dive ,  Dig  and  Shadow Force . If a Pokémon with  No Guard  is the leading party Pokémon, wild Pokémon are twice as likely to appear."},
-{"url": "https://pokemondb.net/ability/neutralizing-gas", "name": "Neutralizing Gas ", "desc": "Neutralizes abilities of all Pokémon in battle.\n No Pokémon have  Neutralizing Gas  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/pastel-veil", "name": "Pastel Veil ", "desc": "Pastel Veil  prevents the Pokémon and its teammates from being poisoned. It also cures teammates of poisoning when it enters the battlefield. No Pokémon have  Pastel Veil  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/neuroforce", "name": "Neuroforce ", "desc": "Powers up moves that are super effective.\n No Pokémon have  Neuroforce  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/multiscale", "name": "Multiscale ", "desc": "Reduces damage when HP is full.\n No Pokémon have the ability  Multiscale  as a regular ability."},
-{"url": "https://pokemondb.net/ability/perish-body", "name": "Perish Body ", "desc": "When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle.\n No Pokémon have the ability  Perish Body  as a regular ability."},
-{"url": "https://pokemondb.net/ability/natural-cure", "name": "Natural Cure ", "desc": "All status problems heal when it switches out."},
-{"url": "https://pokemondb.net/ability/mummy", "name": "Mummy ", "desc": "Contact with this Pokémon spreads this Ability.\n No Pokémon have  Mummy  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/mold-breaker", "name": "Mold Breaker ", "desc": "Mold Breaker  prevents a target's ability from affecting moves that the  Mold Breaker  Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves. For example, a  Haxorus  with  Mold Breaker  would be able to hit a  Bronzong  (having  Levitate ) using a Ground type move like  Earthquake . Ground type moves would still not affect Flying types. However, if  Dragon Claw  KOs a Pokémon with  Aftermath , a  Mold Breaker  Pokémon would still lose HP as Aftermath did not affect the  Dragon Claw  attack itself."},
-{"url": "https://pokemondb.net/ability/moody", "name": "Moody ", "desc": "Raises one stat and lowers another.\n No Pokémon have the ability  Moody  as a regular ability."},
-{"url": "https://pokemondb.net/ability/motor-drive", "name": "Motor Drive ", "desc": "Raises Speed if hit by an Electric-type move."},
-{"url": "https://pokemondb.net/ability/misty-surge", "name": "Misty Surge ", "desc": "Misty Surge  creates a low-lying mist, like the move  Misty Terrain , when the bearer enters battle. It protects all grounded Pokémon from status conditions and halves the power of  Dragon  type attacks."},
-{"url": "https://pokemondb.net/ability/moxie", "name": "Moxie ", "desc": "Moxie  increases the user's Attack one stage upon fainting an opponent. Stats can be raised to a maximum of +6 stages each."},
-{"url": "https://pokemondb.net/ability/mirror-armor", "name": "Mirror Armor ", "desc": "Reflects any stat-lowering effects.\n No Pokémon have the ability  Mirror Armor  as a regular ability."},
-{"url": "https://pokemondb.net/ability/minds-eye", "name": "Mind's Eye ", "desc": "The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal- and Fighting-type moves. No Pokémon have  Mind's Eye  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/minus", "name": "Minus ", "desc": "Ups Sp. Atk if another Pokémon has Plus or Minus."},
-{"url": "https://pokemondb.net/ability/magma-armor", "name": "Magma Armor ", "desc": "Magma Armor  prevents the Pokémon from becoming frozen, for example from moves like  Blizzard . If a Pokémon with  Magma Armor  (or  Flame Body  or  Steam Engine ) and a  Pokémon Egg  are amongst the party Pokémon, the number of steps required to hatch the egg are halved. No Pokémon have  Magma Armor  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/mega-launcher", "name": "Mega Launcher ", "desc": "Mega Launcher  increases the power of all  aura and pulse  moves by 50%.  Heal Pulse  boosts the HP restored by 50%. The attacks classed as aura and pulse moves are shown below with their normal and boosted power: *No Pokémon with  Mega Launcher  can learn these moves, however they can be called via  Copycat ,  Metronome ,  Mimic ,  Mirror Move , or from a Pokémon that gained the ability (for example by  Skill Swap ). No Pokémon have  Mega Launcher  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/mycelium-might", "name": "Mycelium Might ", "desc": "Status moves go last, but are not affected by the opponent's ability.\n No Pokémon have  Mycelium Might  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/multitype", "name": "Multitype ", "desc": "Multitype  changes the ability-bearer's type if it is holding one of the  Type Plate  items. Moves of the corresponding type receive  STAB . The moves  Gastro Acid ,  Role Play ,  Skill Swap ,  Worry Seed  or the ability  Trace  do not affect a Pokémon with  Multitype . The moves  Covet ,  Knock Off ,  Switcheroo  and  Thief  cannot remove Plates from a Pokémon with  Multitype , but they can remove any other item. The Plates are: In  Generation 4  the moves  Covet ,  Knock Off ,  Switcheroo  and  Thief  (all of which remove items) do not affect Pokémon with  Multitype . No Pokémon have  Multitype  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/magic-bounce", "name": "Magic Bounce ", "desc": "Reflects status- changing moves."},
-{"url": "https://pokemondb.net/ability/magician", "name": "Magician ", "desc": "The Pokémon steals the held item of a Pokémon it hits with a move."},
-{"url": "https://pokemondb.net/ability/magnet-pull", "name": "Magnet Pull ", "desc": "Magnet Pull  prevents  Steel  type Pokémon from switching out of battle or fleeing. If a Pokémon with  Magnet Pull  is the leading party Pokémon, it is 50% more likely that a wild Pokémon encountered will be  Steel  type. No Pokémon have  Magnet Pull  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/magic-guard", "name": "Magic Guard ", "desc": "Magic Guard  protects the Pokémon from indirect damage, including: It does not prevent damage from confusion, trapping moves (e.g.  Bind ) or  Struggle . In  Generation 4  a Pokémon with  Magic Guard  cannot be poisoned from  Toxic Spikes , nor become fully immobile through paralysis (though the Speed drop still occurs)."},
-{"url": "https://pokemondb.net/ability/liquid-voice", "name": "Liquid Voice ", "desc": "Liquid Voice  causes all  sound-based  moves used by the Pokémon to become Water type. Water type Pokémon also gain  STAB  from those moves. It is the signature ability of the  Primarina  evolution line, though other Pokémon may acquire  Liquid Voice  via certain abilities or moves such as  Skill Swap . Attacks shown in  bold  can be learned by  Primarina , though the others can be called via moves such as  Metronome . No Pokémon have the ability  Liquid Voice  as a regular ability."},
-{"url": "https://pokemondb.net/ability/long-reach", "name": "Long Reach ", "desc": "The Pokémon uses its moves without making contact with the target.\n No Pokémon have the ability  Long Reach  as a regular ability."},
-{"url": "https://pokemondb.net/ability/mimicry", "name": "Mimicry ", "desc": "Changes type depending on the terrain.\n No Pokémon have  Mimicry  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/limber", "name": "Limber ", "desc": "The Pokémon is protected from paralysis."},
-{"url": "https://pokemondb.net/ability/lightning-rod", "name": "Lightning Rod ", "desc": "Lightning Rod  forces all single-target  Electric -type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. This includes the status move  Thunder Wave . The ability is most useful in double/triple battles. When hit by the move, it deals no damage to the ability-bearer but raises its Special Attack by one stage. Stats can be raised to a maximum of +6 stages each. Lightning Rod  will activate for an Electric-type  Hidden Power , but not Electric-type  Judgment . The ability is overridden by other Pokémon becoming the  center of attention  from the moves  Follow Me  or  Rage Powder . In  Generations 3-4 ,  Lightning Rod  did not increase Special Attack nor give immunity to Electric-type attacks. It also did not activate for  Hidden Power . In  Generations 3-5 , this ability's name was formatted as  Lightningrod ."},
-{"url": "https://pokemondb.net/ability/merciless", "name": "Merciless ", "desc": "The Pokémon's attacks become critical hits if the target is poisoned.\n No Pokémon have  Merciless  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/light-metal", "name": "Light Metal ", "desc": "Light Metal  halves the Pokémon's weight in battle. Decreasing weight affects these moves:"},
-{"url": "https://pokemondb.net/ability/libero", "name": "Libero ", "desc": "Libero  changes the Pokémon's type to that of its previously used attack. No Pokémon have the ability  Libero  as a regular ability."},
-{"url": "https://pokemondb.net/ability/levitate", "name": "Levitate ", "desc": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/keen-eye", "name": "Keen Eye ", "desc": "Keen Eye  prevents the Pokémon from losing accuracy, for example from moves like  Sand-Attack . If a Pokémon with  Keen Eye  is the leading party Pokémon, wild Pokémon are 50% less likely to be lower level."},
-{"url": "https://pokemondb.net/ability/klutz", "name": "Klutz ", "desc": "The Pokémon can't use any held items."},
-{"url": "https://pokemondb.net/ability/justified", "name": "Justified ", "desc": "Justified  raises the ability-bearer's Attack by one stage when hit by a damaging  Dark -type move. The Attack rises for every hit of the move  Beat Up . Stats can be raised to a maximum of +6 stages each."},
-{"url": "https://pokemondb.net/ability/marvel-scale", "name": "Marvel Scale ", "desc": "Marvel Scale  raises the ability-bearer's Defense by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). All effects of the status condition remain, e.g. losing HP each turn (poison, burn), speed drop (paralysis) or being unable to attack (paralysis, freeze, sleep)."},
-{"url": "https://pokemondb.net/ability/iron-fist", "name": "Iron Fist ", "desc": "Iron Fist  increases the power of all  punching  moves by 20%. The attacks classed as punching moves are shown below with their normal and boosted power: *No Pokémon with  Iron Fist  can learn these moves, however they can be called via  Copycat ,  Metronome ,  Mimic ,  Mirror Move , or from a Pokémon that gained the ability (for example by  Skill Swap )."},
-{"url": "https://pokemondb.net/ability/intimidate", "name": "Intimidate ", "desc": "Intimidate  lower's the Attack of all opponents by one stage when the ability-bearer switches in (including the start of a battle). Stats can be lowered to a minimum of -6 stages each. If a Pokémon with  Intimidate  is the leading party Pokémon, wild Pokémon are 50% less likely to be lower level."},
-{"url": "https://pokemondb.net/ability/intrepid-sword", "name": "Intrepid Sword ", "desc": "Boosts Attack in battle.\n No Pokémon have  Intrepid Sword  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/liquid-ooze", "name": "Liquid Ooze ", "desc": "Damages attackers using any draining move.\n No Pokémon have  Liquid Ooze  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/lingering-aroma", "name": "Lingering Aroma ", "desc": "Contact changes the attacker's Ability to Lingering Aroma.\n No Pokémon have  Lingering Aroma  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/insomnia", "name": "Insomnia ", "desc": "Insomnia  prevents the ability-bearer from falling asleep, both from moves by other Pokémon like  Sing , and self-inflicted sleep like  Rest . If a sleeping Pokémon aquires  Insomnia  (e.g. from  Worry Seed , it will wake up on its next turn."},
-{"url": "https://pokemondb.net/ability/inner-focus", "name": "Inner Focus ", "desc": "Inner Focus  prevents the Pokémon from flinching, for example when attacked by a move like  Headbutt ."},
-{"url": "https://pokemondb.net/ability/infiltrator", "name": "Infiltrator ", "desc": "Infiltrator  ignores the effects of  Reflect ,  Light Screen  and  Safeguard . In other words, if the opponent has used Safeguard,  Toxic  would still badly poison them."},
-{"url": "https://pokemondb.net/ability/innards-out", "name": "Innards Out ", "desc": "When a Pokémon with  Innards Out  faints, it deals damage to the opponent equal to amount of damage it took on the final blow. No Pokémon have  Innards Out  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/leaf-guard", "name": "Leaf Guard ", "desc": "Leaf Guard  prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather. It does not prevent minor status ailments such as Confusion or Infatuation, nor does it prevent self-inflicted status conditions such as from using  Rest ."},
-{"url": "https://pokemondb.net/ability/illusion", "name": "Illusion ", "desc": "When a Pokémon with the  Illusion  ability switches into battle, it takes the form of the Pokémon in last place (6th) of the player's party.  Illusion  will not activate if the Pokémon in last place is the same species or is fainted. The effect is aesthetic only;  Illusion  does not change the Pokémon's type or moves, so for example a  Fighting -type move against a  Zoroark  disguised as  Gengar  would still be super effective. Any direct attack (i.e. not entry hazards, weather conditions etc) will  break the illusion . No Pokémon have  Illusion  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/imposter", "name": "Imposter ", "desc": "It transforms itself into the Pokémon it is facing.\n No Pokémon have the ability  Imposter  as a regular ability."},
-{"url": "https://pokemondb.net/ability/illuminate", "name": "Illuminate ", "desc": "Illuminate  has no effect in battle. If a Pokémon with  Illuminate  is the leading party Pokémon, wild Pokémon are twice as likely to appear. No Pokémon have  Illuminate  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/immunity", "name": "Immunity ", "desc": "Prevents the Pokémon from getting poisoned."},
-{"url": "https://pokemondb.net/ability/iron-barbs", "name": "Iron Barbs ", "desc": "When a Pokémon with  Iron Barbs  is hit by a move that makes contact, the attacker receives damage equal to  1 ⁄ 8  of their maximum HP. Multi-hit moves (e.g.  DoubleSlap ) activate  Iron Barbs  for each strike. No Pokémon have  Iron Barbs  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/ice-body", "name": "Ice Body ", "desc": "A Pokémon with  Ice Body  will recover  1 ⁄ 16  of its maximum HP during hail, after each turn. It also grants immunity to the hailstorm damage, if not already immune."},
-{"url": "https://pokemondb.net/ability/hunger-switch", "name": "Hunger Switch ", "desc": "Hunger Switch  causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode. Morpeko's form also changes the type of its signature move,  Aura Wheel . No Pokémon have  Hunger Switch  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/hyper-cutter", "name": "Hyper Cutter ", "desc": "Hyper Cutter  prevents the bearer's Attack stat from being lowered by other Pokémon, through moves such as  Growl  or abilities such as  Intimidate . It does not prevent self-inflicted decreases, for example from  Superpower . No Pokémon have  Hyper Cutter  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/huge-power", "name": "Huge Power ", "desc": "Raises the Pokémon's Attack stat."},
-{"url": "https://pokemondb.net/ability/heavy-metal", "name": "Heavy Metal ", "desc": "Heavy Metal  doubles the Pokémon's weight in battle. Increasing weight affects these moves:"},
-{"url": "https://pokemondb.net/ability/heatproof", "name": "Heatproof ", "desc": "Heatproof  reduces the damage taken from  Fire -type moves by 50%. It also halves the damage from a burn, from  1 ⁄ 8  to  1 ⁄ 16  of the Pokémon's maximum HP."},
-{"url": "https://pokemondb.net/ability/ice-face", "name": "Ice Face ", "desc": "Ice Face  is the signature ability of  Eiscue . It allows the Pokémon to take a physical attack without taking damage. After the attack,  Eiscue  changes to its  No Ice Face  form, however, it can be restored in hail. No Pokémon have  Ice Face  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/ice-scales", "name": "Ice Scales ", "desc": "Halves damage from Special moves.\n No Pokémon have the ability  Ice Scales  as a regular ability."},
-{"url": "https://pokemondb.net/ability/harvest", "name": "Harvest ", "desc": "May create another Berry after one is used.\n No Pokémon have the ability  Harvest  as a regular ability."},
-{"url": "https://pokemondb.net/ability/hospitality", "name": "Hospitality ", "desc": "When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP. No Pokémon have  Hospitality  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/hydration", "name": "Hydration ", "desc": "A Pokémon with  Hydration  will cure itself of any status conditions during rain, at the end of each turn. This includes self-inflicted conditions such as from using  Rest ."},
-{"url": "https://pokemondb.net/ability/hustle", "name": "Hustle ", "desc": "Hustle  increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%. If a Pokémon with  Hustle  is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level."},
-{"url": "https://pokemondb.net/ability/honey-gather", "name": "Honey Gather ", "desc": "Honey Gather  has no effect in battle. When a battle ends, any party Pokémon with  Honey Gather  may pick up honey as a held item (if they are not already holding an item)."},
-{"url": "https://pokemondb.net/ability/grassy-surge", "name": "Grassy Surge ", "desc": "Grassy Surge  creates a low-lying grassy field, like the move  Grassy Terrain , when the Pokémon enters battle. It restores the HP of grounded Pokémon each turn and increases the power of  Grass  type attacks."},
-{"url": "https://pokemondb.net/ability/guts", "name": "Guts ", "desc": "Guts  raises the ability-bearer's Attack by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If burnt, the Pokémon does not suffer the usual drop in Attack. All other effects of the status condition remain, e.g. losing HP each turn (poison, burn), speed drop (paralysis) or being unable to attack (paralysis, freeze, sleep)."},
-{"url": "https://pokemondb.net/ability/gulp-missile", "name": "Gulp Missile ", "desc": "Gulp Missile  is the signature ability of  Cramorant . If  Cramorant  uses the move  Surf  or  Dive , it returns with a fish in its mouth. If  Cramorant  then takes damage, it retaliates by spitting out the fish, dealing extra damage. Cramorant  may also return carrying a  Pikachu . If  Pikachu  is launched at the opponent they will become paralyzed. No Pokémon have  Gulp Missile  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/gorilla-tactics", "name": "Gorilla Tactics ", "desc": "Boosts the Pokémon's Attack stat but only allows the use of the first selected move.\n No Pokémon have  Gorilla Tactics  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/gooey", "name": "Gooey ", "desc": "Contact with the Pokémon lowers the attacker's Speed stat."},
-{"url": "https://pokemondb.net/ability/gluttony", "name": "Gluttony ", "desc": "A Pokémon with  Gluttony  will use a  pinch berry  when its HP drops to 50%, rather than the usual 25%. Pinch berries are: Figy, Wiki, Mago, Aguav, Iapapa, Liechi, Ganlon, Salac, Petaya, Apicot, Lansat, Starf, Micle and Custap. (Their descriptions state that they work  in a pinch. )"},
-{"url": "https://pokemondb.net/ability/gale-wings", "name": "Gale Wings ", "desc": "Gives priority to Flying-type moves.\n No Pokémon have the ability  Gale Wings  as a regular ability."},
-{"url": "https://pokemondb.net/ability/healer", "name": "Healer ", "desc": "May heal an ally's status conditions."},
-{"url": "https://pokemondb.net/ability/fur-coat", "name": "Fur Coat ", "desc": "Fur Coat  reduces damage taken from physical attacks by 50%. No Pokémon have  Fur Coat  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/full-metal-body", "name": "Full Metal Body ", "desc": "Prevents other Pokémon from lowering its stats.\n No Pokémon have  Full Metal Body  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/hadron-engine", "name": "Hadron Engine ", "desc": "Creates an Electric Terrain when entering battle, and boosts Special Attack while active.\n No Pokémon have  Hadron Engine  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/frisk", "name": "Frisk ", "desc": "The Pokémon can check a foe's held item."},
-{"url": "https://pokemondb.net/ability/friend-guard", "name": "Friend Guard ", "desc": "Reduces damage done to allies."},
-{"url": "https://pokemondb.net/ability/grim-neigh", "name": "Grim Neigh ", "desc": "Boosts Special Attack after knocking out a Pokémon.\n No Pokémon have  Grim Neigh  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/forewarn", "name": "Forewarn ", "desc": "Determines what moves a foe has.\n No Pokémon have  Forewarn  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/guard-dog", "name": "Guard Dog ", "desc": "Boosts Attack if intimidated, and prevents being forced to switch out."},
-{"url": "https://pokemondb.net/ability/fluffy", "name": "Fluffy ", "desc": "Fluffy  reduces damage from contact moves by 50%, but Fire-type moves do double damage. Fire-type moves that make contact do regular damage."},
-{"url": "https://pokemondb.net/ability/grass-pelt", "name": "Grass Pelt ", "desc": "Boosts the Defense stat in Grassy Terrain.\n No Pokémon have the ability  Grass Pelt  as a regular ability."},
-{"url": "https://pokemondb.net/ability/galvanize", "name": "Galvanize ", "desc": "Normal-type moves become Electric-type moves and their power boosted.\n No Pokémon have the ability  Galvanize  as a regular ability."},
-{"url": "https://pokemondb.net/ability/flash-fire", "name": "Flash Fire ", "desc": "When a Pokémon with  Flash Fire  is hit by a Fire-type move, it does not deal damage but instead raises the power of the bearer's Fire-type moves by 50%. Subsequent hits do not raise the power even more, but the effect remains while the ability-bearer is in battle."},
-{"url": "https://pokemondb.net/ability/flame-body", "name": "Flame Body ", "desc": "If a Pokémon with  Flame Body  is hit by a move that makes contact, there is a 30% chance the attacker will become burned. If a Pokémon with  Flame Body  (or  Magma Armor  or  Steam Engine ) and a  Pokémon Egg  are both in the party Pokémon, the number of steps required to hatch the egg are halved."},
-{"url": "https://pokemondb.net/ability/flower-gift", "name": "Flower Gift ", "desc": "Flower Gift  raises the Attack and Special Defense of all party Pokémon by 50% during harsh sunlight. No Pokémon have  Flower Gift  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/flare-boost", "name": "Flare Boost ", "desc": "Powers up special attacks when burned.\n No Pokémon have the ability  Flare Boost  as a regular ability."},
-{"url": "https://pokemondb.net/ability/filter", "name": "Filter ", "desc": "Filter  reduces the damage taken from super-effective attacks by 25%. For example, a Dark-type move used against a Psychic-type Pokémon with  Filter  would deal 1.5× the usual damage instead of 2×. A double weakness would be reduced from 4× to 3×."},
-{"url": "https://pokemondb.net/ability/flower-veil", "name": "Flower Veil ", "desc": "Flower Veil  prevents ally Grass-type Pokémon's stats from being lowered, in double and triple battles. No Pokémon have  Flower Veil  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/embody-aspect", "name": "Embody Aspect ", "desc": "Embody Aspect  boosts a particular stat, depending on the form of a Terastallized  Ogerpon : No Pokémon have the ability  Embody Aspect  as a regular ability."},
-{"url": "https://pokemondb.net/ability/fairy-aura", "name": "Fairy Aura ", "desc": "Fairy Aura  raises the power of Fairy-type moves by 33%, for all Pokémon on the field (not just the ability-bearer). It is the signature ability of  Xerneas . No Pokémon have  Fairy Aura  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/emergency-exit", "name": "Emergency Exit ", "desc": "Switches out when HP falls below 50%.\n No Pokémon have  Emergency Exit  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/effect-spore", "name": "Effect Spore ", "desc": "Contact may poison or cause paralysis or sleep."},
-{"url": "https://pokemondb.net/ability/electric-surge", "name": "Electric Surge ", "desc": "Electric Surge  creates a low-lying electric field, like the move  Electric Terrain , when the Pokémon enters battle. It prevents grounded Pokémon from falling asleep, and increases the power of  Electric  type attacks."},
-{"url": "https://pokemondb.net/ability/dry-skin", "name": "Dry Skin ", "desc": "Dry Skin  causes several effects:"},
-{"url": "https://pokemondb.net/ability/early-bird", "name": "Early Bird ", "desc": "The Pokémon awakens quickly from sleep."},
-{"url": "https://pokemondb.net/ability/drought", "name": "Drought ", "desc": "Drought  creates harsh sunlight when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via  Air Lock  or  Cloud Nine  or replaced by another weather condition. If multiple Pokémon with weather-generating abilities ( Drought ,  Drizzle ,  Sand Stream  or  Snow Warning ) enter the field on the same turn, each weather condition will activate consecutively, fastest Pokémon first. In other words, the resultant weather condition will be that of the slowest Pokémon. Prior to  Generation 6 ,  Drought  lasts indefinitely upon activation."},
-{"url": "https://pokemondb.net/ability/drizzle", "name": "Drizzle ", "desc": "Drizzle  creates a rain shower when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via  Air Lock  or  Cloud Nine  or replaced by another weather condition. If multiple Pokémon with weather-generating abilities ( Drizzle ,  Drought ,  Sand Stream  or  Snow Warning ) enter the field on the same turn, each weather condition will activate consecutively, fastest Pokémon first. In other words, the resultant weather condition will be that of the slowest Pokémon. Prior to  Generation 6 ,  Drizzle  lasts indefinitely upon activation."},
-{"url": "https://pokemondb.net/ability/forecast", "name": "Forecast ", "desc": "Castform transforms with the weather.\n No Pokémon have  Forecast  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/download", "name": "Download ", "desc": "Download  raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses. It raises Attack if the opponent's Defense is lower than its Special Defense, or raises Special Attack if opponent's Special Defense is lower than or equal to its Defense. In double and triple battles,  Download  compares the sum of all opponents' Defense stats and the sum of all opponents' Special Defense stats and uses the lowest total. No Pokémon have  Download  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/disguise", "name": "Disguise ", "desc": "Disguise  allows the bearer to avoid damage for one attack, in a similar way to  Substitute . No Pokémon have  Disguise  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/delta-stream", "name": "Delta Stream ", "desc": "Delta Stream  creates strong winds when the ability is activated (by Rayquaza Mega-Evolving). Strong winds have the following effects: The abilities  Cloud Nine  or  Air Lock  are still able to bypass the effects of  Delta Stream , but  Mold Breaker  is not. No Pokémon have  Delta Stream  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/defiant", "name": "Defiant ", "desc": "Defiant  raises the ability-bearer's Attack by two stages when hit by a stat-lowering move. Stats can be raised to a maximum of +6 stages each."},
-{"url": "https://pokemondb.net/ability/defeatist", "name": "Defeatist ", "desc": "When the HP of a Pokémon with  Defeatist  falls below 50%, its Attack and Special Attack stats are halved. No Pokémon have  Defeatist  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/dazzling", "name": "Dazzling ", "desc": "Dazzling  makes the Pokémon immune to high-priority moves (i.e. those with a priority above 0). No Pokémon have  Dazzling  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/electromorphosis", "name": "Electromorphosis ", "desc": "If a Pokémon with  Electromorphosis  is hit by an attack, the power of the next Electric-type move it uses is doubled. No Pokémon have  Electromorphosis  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/dark-aura", "name": "Dark Aura ", "desc": "Dark Aura  raises the power of Dark-type moves by 33% for all Pokémon on the field (not just the ability-bearer). It is the signature ability of  Yveltal . No Pokémon have  Dark Aura  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/dancer", "name": "Dancer ", "desc": "When another Pokémon on the field uses any  Dance  move,  Dancer  causes the ability-bearer to use that same move immediately afterward. They will still use their own move originally selected, at the usual time (e.g. after the opponent if they are slower). Effects and status conditions apply for both the copied move and original move. For example if the  Dancer  Pokémon is confused, they may hurt themselves in confusion when using their move  and  when copying a Dance move. The moves that  Dancer  can copy are: No Pokémon have  Dancer  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/damp", "name": "Damp ", "desc": "Damp  prevents all Pokémon on the field from using the moves  Selfdestruct  and  Explosion . It also prevents damage (to the  Damp  Pokémon only) from the ability  Aftermath ."},
-{"url": "https://pokemondb.net/ability/desolate-land", "name": "Desolate Land ", "desc": "Desolate Land  creates extremely harsh sunlight when the ability is activated (by Groudon reverting to its Primal form). Extremely harsh sunlight has the same effects as  harsh sunlight  but with some additions: The abilities  Cloud Nine  or  Air Lock  are still able to bypass the effects of  Desolate Land , but  Mold Breaker  is not. No Pokémon have  Desolate Land  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/cute-charm", "name": "Cute Charm ", "desc": "If a Pokémon with  Cute Charm  is hit by a move that makes contact, there is a 30% chance the attacker will become infatuated. It will not infatuate Pokémon of the same gender, genderless Pokémon, nor those with the ability  Oblivious . Infatuated Pokémon have a 50% chance of being  immobilized by love  each turn and unable to attack. If a Pokémon with  Cute Charm  is the leading party Pokémon, the chance of encountering a Pokémon of the opposite gender is  2 ⁄ 3 ."},
-{"url": "https://pokemondb.net/ability/dragons-maw", "name": "Dragon's Maw ", "desc": "Dragon's Maw  increases the power of Dragon-type moves used by this Pokémon by 50%. It is the signature ability of Regidrago. No Pokémon have  Dragon's Maw  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/clear-body", "name": "Clear Body ", "desc": "Prevents other Pokémon from lowering its stats."},
-{"url": "https://pokemondb.net/ability/chlorophyll", "name": "Chlorophyll ", "desc": "Chlorophyll  doubles the ability-bearer's Speed during  bright sunshine ."},
-{"url": "https://pokemondb.net/ability/bulletproof", "name": "Bulletproof ", "desc": "Bulletproof  makes the Pokémon immune to  ball and bomb  moves. In  Generation 6 , Rock Blast is not affected by  Bulletproof ."},
-{"url": "https://pokemondb.net/ability/good-as-gold", "name": "Good as Gold ", "desc": "Gives immunity to status moves.\n No Pokémon have  Good as Gold  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/dauntless-shield", "name": "Dauntless Shield ", "desc": "Boosts Defense in battle.\n No Pokémon have  Dauntless Shield  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/big-pecks", "name": "Big Pecks ", "desc": "Big Pecks  prevents the ability-bearer's Defense stat from being lowered, for example via  Tail Whip ."},
-{"url": "https://pokemondb.net/ability/cloud-nine", "name": "Cloud Nine ", "desc": "Cloud Nine  suppresses  all  effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on."},
-{"url": "https://pokemondb.net/ability/cursed-body", "name": "Cursed Body ", "desc": "May disable a move used on the Pokémon."},
-{"url": "https://pokemondb.net/ability/battle-bond", "name": "Battle Bond ", "desc": "Battle Bond  causes Greninja to transform into Ash-Greninja when it KOs an opponent. Battle Bond  also increases the power of Greninja's signature move  Water Shuriken . No Pokémon have  Battle Bond  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/chilling-neigh", "name": "Chilling Neigh ", "desc": "Boosts Attack after knocking out a Pokémon.\n No Pokémon have  Chilling Neigh  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/cheek-pouch", "name": "Cheek Pouch ", "desc": "Cheek Pouch  restores the bearer's HP when a Berry is consumed, on top of the berry's usual effects. So for example, it may cure a status condition and restore HP, or restore more HP than normal. No Pokémon have  Cheek Pouch  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/battle-armor", "name": "Battle Armor ", "desc": "Battle Armor  prevents the Pokémon from receiving a critical hit."},
-{"url": "https://pokemondb.net/ability/ball-fetch", "name": "Ball Fetch ", "desc": "If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle. No Pokémon have  Ball Fetch  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/blaze", "name": "Blaze ", "desc": "Blaze  increases the power of  Fire -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as  in a pinch )."},
-{"url": "https://pokemondb.net/ability/bad-dreams", "name": "Bad Dreams ", "desc": "Bad Dreams  causes all sleeping opponents to lose  1 ⁄ 8  of their maximum HP at the end of each turn. No Pokémon have  Bad Dreams  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/aura-break", "name": "Aura Break ", "desc": "Aura Break  cancels the effects of the abilities  Fairy Aura  and  Dark Aura  and instead reduces the power of Dark-type and Fairy-type moves by 25%, for all Pokémon on the field. Aura Break  is not affected by the abilities  Mold Breaker ,  Teravolt , or  Turboblaze . Aura Break  is the signature ability of  Zygarde . Similarly, the abilities it reverses are also signature abilities of legendary Pokémon from Pokémon X&Y:  Xerneas  and  Yveltal . No Pokémon have  Aura Break  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/as-one", "name": "As One ", "desc": "Combines Unnerve and Chilling Neigh/Grim Neigh\n No Pokémon have  As One  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/berserk", "name": "Berserk ", "desc": "Berserk  raises the Pokémon's Special Attack by one stage when its HP falls below 50%. No Pokémon have  Berserk  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/armor-tail", "name": "Armor Tail ", "desc": "Armor Tail  prevents the opponent from using any moves that have priority, such as  Quick Attack . No Pokémon have  Armor Tail  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/beast-boost", "name": "Beast Boost ", "desc": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/arena-trap", "name": "Arena Trap ", "desc": "Arena Trap  prevents opponents from fleeing or switching out.  Raised  Pokémon are not affected. Raised Pokémon are any  Flying  types or those under the effects of  Levitate ,  Magnet Rise  or  Telekinesis . Full details in  glossary . If a Pokémon with  Arena Trap  is the leading party Pokémon, wild Pokémon are twice as likely to appear. No Pokémon have  Arena Trap  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/anticipation", "name": "Anticipation ", "desc": "A Pokémon with  Anticipation  will  shudder  upon entering battle, if an opponent has a move that is super-effective against it, or a One-Hit-KO move ( Fissure ,  Horn Drill ,  Guillotine  or  Sheer Cold ). It only activates when the ability-bearer switches in, not when an opponent switches in. Anticipation  does not activate if the opponent has a move that varies in type, such as  Hidden Power ,  Judgment  or  Weather Ball , even if those moves would be super-effective."},
-{"url": "https://pokemondb.net/ability/beads-of-ruin", "name": "Beads of Ruin ", "desc": "Lowers Special Defense of all Pokémon except itself.\n No Pokémon have  Beads of Ruin  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/earth-eater", "name": "Earth Eater ", "desc": "Restores HP when hit by a Ground-type move.\n No Pokémon have  Earth Eater  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/anger-point", "name": "Anger Point ", "desc": "Anger Point  raises the ability-bearer's Attack to its maximum level - +6 stages or 4× usual power - when a move targeting it receives a critical hit."},
-{"url": "https://pokemondb.net/ability/battery", "name": "Battery ", "desc": "Battery  allows the Pokémon to raise the power of teammates' special moves. No Pokémon have  Battery  as a hidden ability."},
-{"url": "https://pokemondb.net/ability/aroma-veil", "name": "Aroma Veil ", "desc": "Protects allies from attacks that limit their move choices."},
-{"url": "https://pokemondb.net/ability/anger-shell", "name": "Anger Shell ", "desc": "When the Pokémon's HP drops below half,  Anger Shell  lowers its Defense and Special Defense but its Attack, Special Attack and Speed are raised. No Pokémon have  Anger Shell  as a hidden ability."}
+    {
+        "url": "https://pokemondb.net/ability/analytic",
+        "name": "Analytic ",
+        "desc": "Boosts move power when the Pokémon moves last.\n No Pokémon have the ability  Analytic  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/aftermath",
+        "name": "Aftermath ",
+        "desc": "If an attacker faints a Pokémon with  Aftermath  using a contact move, the attacker will lose  1 ⁄ 4  of their maximum HP."
+    },
+    {
+        "url": "https://pokemondb.net/ability/adaptability",
+        "name": "Adaptability ",
+        "desc": "Adaptability  increases the effectiveness of  STAB  moves from the usual 1.5× to 2×. For example, a  Water -type Pokémon using  Surf  (base power 90) would normally get an effective power of 135. With  Adaptability  it would be 180 instead."
+    },
+    {
+        "url": "https://pokemondb.net/ability/costar",
+        "name": "Costar ",
+        "desc": "Copies ally's stat changes on entering battle.\n No Pokémon have the ability  Costar  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/cud-chew",
+        "name": "Cud Chew ",
+        "desc": "Cud Chew  causes the Pokémon to reuse an already consumed Berry at the end of the next turn."
+    },
+    {
+        "url": "https://pokemondb.net/ability/air-lock",
+        "name": "Air Lock ",
+        "desc": "Air Lock  suppresses  all  effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on. No Pokémon have  Air Lock  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/corrosion",
+        "name": "Corrosion ",
+        "desc": "Corrosion  allows the bearer to poison any Pokémon, including Steel and Poison types."
+    },
+    {
+        "url": "https://pokemondb.net/ability/aerilate",
+        "name": "Aerilate ",
+        "desc": "Aerilate  causes all  Normal -type attacking moves used by the Pokémon to become  Flying -type, and increase in power by 20%. Flying-type Pokémon also gain  STAB  from those moves (which means an effective increase of 80%). In  Generation 6 ,  Aerilate  increases affected moves' power by 30%. No Pokémon have  Aerilate  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/contrary",
+        "name": "Contrary ",
+        "desc": "Makes stat changes have an opposite effect."
+    },
+    {
+        "url": "https://pokemondb.net/ability/competitive",
+        "name": "Competitive ",
+        "desc": "Competitive  raises the ability-bearer's Special Attack by two stages when hit by a stat-lowering move. Stats can be raised to a maximum of +6 stages each."
+    },
+    {
+        "url": "https://pokemondb.net/ability/comatose",
+        "name": "Comatose ",
+        "desc": "Comatose  causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze). Moves that target sleeping Pokémon (such as  Dream Eater ) work on a Pokémon with  Comatose , and the ability-bearer can use the moves  Sleep Talk  and  Snore . The power of  Hex  and  Wake-Up Slap  still doubles when targeted at a  Comatose  Pokémon (though Wake-Up Slap does not suppress  Comatose ). Comatose  cannot be removed or replaced via moves like  Skill Swap  or the  Mummy  ability. The move  Purify  and the  Chesto Berry  item do not work on a Pokémon with  Comatose . No Pokémon have  Comatose  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/commander",
+        "name": "Commander ",
+        "desc": "Goes inside the mouth of an ally Dondozo if one is on the field.\n No Pokémon have  Commander  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/compound-eyes",
+        "name": "Compound Eyes ",
+        "desc": "Compound Eyes  raises the ability-bearer's accuracy by 30%. In  Generations 3-5 , this ability's name was formatted as  Compoundeyes . If a Pokémon with  Compound Eyes  is first in the party, Pokémon that can be holding items have that chance increase from 50% to 60% (for common items), 5% to 20% (for uncommon items) or 1% to 5% (for rare items)."
+    },
+    {
+        "url": "https://pokemondb.net/ability/color-change",
+        "name": "Color Change ",
+        "desc": "Color Change  changes the ability-bearer's type, when hit by a damage dealing move, to the type of that move. For example being hit by  X Scissor  will change the Pokémon to  Bug -type. Dual-type Pokémon change to single-types. If a Pokémon with  Color Change  has a  Substitute , the ability does not activate.  Color Change  activates for the last strike of a multi-hit move. In  Generations 3-4 ,  Color Change  activates on the first strike of a multi-hit move, thus subsequent hits may be not very effective. No Pokémon have  Color Change  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sand-rush",
+        "name": "Sand Rush ",
+        "desc": "Sand Rush  doubles the ability-bearer's Speed during a  sandstorm ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/tough-claws",
+        "name": "Tough Claws ",
+        "desc": "Tough Claws  increases the power of moves that make contact. Most Physical-category moves are contact moves. No Pokémon have  Tough Claws  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/zero-to-hero",
+        "name": "Zero to Hero ",
+        "desc": "Transforms into its Hero Form when switching out.\n No Pokémon have  Zero to Hero  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/wonder-skin",
+        "name": "Wonder Skin ",
+        "desc": "Wonder Skin  halves the accuracy of all status moves targeted at the ability-bearer. It does not affect  self-inflicted  status moves like  Reflect  or  Swords Dance , nor does it affect the secondary conditions of attacking moves like  Flamethrower ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/zen-mode",
+        "name": "Zen Mode ",
+        "desc": "Zen Mode  changes the ability-bearer's form to  Zen Mode  when their health falls below 50%. Currently it only applies to Darmanitan, whose form change makes it Fire/Psychic type and changes its stats around. No Pokémon have the ability  Zen Mode  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/wonder-guard",
+        "name": "Wonder Guard ",
+        "desc": "Wonder Guard  prevents damage from direct attacks unless they are super-effective. Shedinja is the only Pokémon to have this ability so this means that only  Fire ,  Flying ,  Rock ,  Ghost  and  Dark  moves will have an effect. However, Pokémon protected by  Wonder Guard  are not immune to indirect attacks. Status-category moves still work and all end-of-turn damage will still incur, for example from poisoning, burns, sandstorms or hail. Entry hazards such as  Spikes  or  Stealth Rock  will also damage Pokémon with  Wonder Guard  switching in. Attacks that do not take their type in account will also hit, such as  Struggle ,  Beat Up  or  Future Sight . Since Shedinja only has 1 HP, any of the above damage will result in an instant knockout. No Pokémon have  Wonder Guard  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/weak-armor",
+        "name": "Weak Armor ",
+        "desc": "When a Pokémon with  Weak Armor  is hit by a physical move, its Defense drops one stage, but its Speed increases by one stage. Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each."
+    },
+    {
+        "url": "https://pokemondb.net/ability/wind-power",
+        "name": "Wind Power ",
+        "desc": "If a Pokémon with  Wind Power  is hit by a wind move, the power of the next Electric-type move it uses is doubled. No Pokémon have  Wind Power  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/wimp-out",
+        "name": "Wimp Out ",
+        "desc": "Wimp Out  causes the bearer to switch out (or flee in a wild battle) when its HP falls below 50%. No Pokémon have  Wimp Out  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/well-baked-body",
+        "name": "Well-Baked Body ",
+        "desc": "Immune to Fire-type moves, and Defense is sharply boosted.\n No Pokémon have  Well-Baked Body  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/white-smoke",
+        "name": "White Smoke ",
+        "desc": "Prevents other Pokémon from lowering its stats.\n If a Pokémon with  White Smoke  is the leading party Pokémon, wild Pokémon are only half as likely to appear."
+    },
+    {
+        "url": "https://pokemondb.net/ability/water-veil",
+        "name": "Water Veil ",
+        "desc": "Prevents the Pokémon from getting a burn."
+    },
+    {
+        "url": "https://pokemondb.net/ability/curious-medicine",
+        "name": "Curious Medicine ",
+        "desc": "Resets all stat changes upon entering battlefield.\n No Pokémon have  Curious Medicine  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/cotton-down",
+        "name": "Cotton Down ",
+        "desc": "When a Pokémon with  Cotton Down  is hit by an attack, it lowers the attacker's Speed. No Pokémon have  Cotton Down  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/water-compaction",
+        "name": "Water Compaction ",
+        "desc": "Water Compaction  raises the bearer's Defense by 2 stages when it is hit by a Water-type move. Stats can be raised to a maximum of +6 stages each. No Pokémon have  Water Compaction  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/water-bubble",
+        "name": "Water Bubble ",
+        "desc": "Water Bubble  reduces damage taken from Fire-type moves by 50%, and doubles the power of Water-type moves used by the ability-bearer. It also prevents the Pokémon from being burned. No Pokémon have  Water Bubble  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/volt-absorb",
+        "name": "Volt Absorb ",
+        "desc": "A Pokémon with  Volt Absorb  heals  1 ⁄ 4  of its maximum HP when hit by an  Electric -type attack, including  Thunder Wave . In  Generation 3 ,  Volt Absorb  does not activate for  Thunder Wave ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/wandering-spirit",
+        "name": "Wandering Spirit ",
+        "desc": "Swaps abilities with opponents on contact.\n No Pokémon have  Wandering Spirit  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/vital-spirit",
+        "name": "Vital Spirit ",
+        "desc": "Vital Spirit  prevents the ability-bearer from falling asleep. This means that it also prevents the use of the move  Rest . If a Pokémon with  Vital Spirit  is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level."
+    },
+    {
+        "url": "https://pokemondb.net/ability/unseen-fist",
+        "name": "Unseen Fist ",
+        "desc": "Contact moves can strike through Protect/Detect.\n No Pokémon have  Unseen Fist  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/wind-rider",
+        "name": "Wind Rider ",
+        "desc": "Wind Rider  gives immunity to wind moves, and causes the Pokémon's Attack to increase by one stage when hit by one. No Pokémon have  Wind Rider  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/unnerve",
+        "name": "Unnerve ",
+        "desc": "Makes the foe nervous and unable to eat Berries."
+    },
+    {
+        "url": "https://pokemondb.net/ability/turboblaze",
+        "name": "Turboblaze ",
+        "desc": "Turboblaze  prevents a target's ability from affecting moves that the  Turboblaze  Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves. For example,  Reshiram  would be able to hit  Bronzong  (having  Levitate ) using a  Ground -type move like  Earth Power . Ground type moves would still not affect Flying types. However, using  Dragon Claw  against a Pokémon with  Aftermath  would still receive HP loss as Aftermath did not affect the  Dragon Claw  attack itself. No Pokémon have  Turboblaze  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/truant",
+        "name": "Truant ",
+        "desc": "Truant  causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is  loafing around . If a Pokémon with  Truant  uses a move that requires recharging on the second turn (such as  Hyper Beam ), it will recharge on the same turn the Pokémon loafs around. Moves where the user prepares on the first turn and attacks on the second (such as  Solarbeam  or  Fly ) cannot be used. The moves  Worry Seed ,  Entrainment  and  Simple Beam  do not work on Pokémon with  Truant . Truant  can technically be  Skill Swapped  away, however neither Slakoth, Slaking or Durant learn it."
+    },
+    {
+        "url": "https://pokemondb.net/ability/transistor",
+        "name": "Transistor ",
+        "desc": "Transistor  increases the power of Electric-type moves used by this Pokémon by 50%. It is the signature ability of Regieleki. No Pokémon have  Transistor  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/triage",
+        "name": "Triage ",
+        "desc": "Triage  increases the priority of HP-restoring moves to +3, when used by the ability-bearer. Note: as  Comfey  is currently the only Pokémon with this ability, the only moves affected in practice are  Draining Kiss ,  Floral Healing ,  Rest , and  Synthesis . No Pokémon have  Triage  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/toxic-debris",
+        "name": "Toxic Debris ",
+        "desc": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.\n No Pokémon have  Toxic Debris  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/trace",
+        "name": "Trace ",
+        "desc": "The Pokémon copies a foe's Ability.\n No Pokémon have  Trace  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/victory-star",
+        "name": "Victory Star ",
+        "desc": "Boosts the accuracy of its allies and itself.\n No Pokémon have  Victory Star  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/vessel-of-ruin",
+        "name": "Vessel of Ruin ",
+        "desc": "Lowers Special Attack of all Pokémon except itself.\n No Pokémon have  Vessel of Ruin  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/toxic-chain",
+        "name": "Toxic Chain ",
+        "desc": "Toxic Chain  may cause bad poisoning when the Pokémon hits an opponent with a move. Toxic Chain  is a new ability available in the Scarlet/Violet DLC. No Pokémon have  Toxic Chain  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/tinted-lens",
+        "name": "Tinted Lens ",
+        "desc": "Powers up “not very effective” moves."
+    },
+    {
+        "url": "https://pokemondb.net/ability/torrent",
+        "name": "Torrent ",
+        "desc": "Torrent  increases the power of  Water -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as  in a pinch )."
+    },
+    {
+        "url": "https://pokemondb.net/ability/thick-fat",
+        "name": "Thick Fat ",
+        "desc": "Thick Fat  reduces the damage taken from  Fire -type and  Ice -type moves by 50%. Interestingly, many Pokémon possessing this ability already take reduced damage from those types. A  Dewgong  or  Walrein  with  Thick Fat  would take  1 ⁄ 8  normal damage when hit by an Ice-type move."
+    },
+    {
+        "url": "https://pokemondb.net/ability/unburden",
+        "name": "Unburden ",
+        "desc": "Raises Speed if a held item is used."
+    },
+    {
+        "url": "https://pokemondb.net/ability/teraform-zero",
+        "name": "Teraform Zero ",
+        "desc": "When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero. No Pokémon have  Teraform Zero  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/teravolt",
+        "name": "Teravolt ",
+        "desc": "Teravolt  prevents a target's ability from affecting moves that the  Teravolt  Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves. For example,  Zekrom  would be able to hit  Bronzong  (having  Levitate ) using a  Ground -type move like  Earth Power . Ground type moves would still not affect Flying types. However, using  Dragon Claw  against a Pokémon with  Aftermath  would still receive HP loss as Aftermath did not affect the  Dragon Claw  attack itself. No Pokémon have  Teravolt  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/unaware",
+        "name": "Unaware ",
+        "desc": "Ignores any stat changes in the Pokémon."
+    },
+    {
+        "url": "https://pokemondb.net/ability/tera-shell",
+        "name": "Tera Shell ",
+        "desc": "The Pokémon’s shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective. No Pokémon have  Tera Shell  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/tera-shift",
+        "name": "Tera Shift ",
+        "desc": "When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form. No Pokémon have  Tera Shift  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/technician",
+        "name": "Technician ",
+        "desc": "Technician  increases the power of moves - that are usually base power 60 or below - by 50%. Moves with variable base power are boosted only when it is 60 or below. For example, if  Magnitude  hits at level 6 it will be boosted from 50 to 75, but level 7 will stay at 70 base power. Moves like  Sonic Boom  that deal fixed HP damage are not affected by  Technician ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/telepathy",
+        "name": "Telepathy ",
+        "desc": "Pokémon with the  Telepathy  ability will not take damage from teammates in double and triple battles. This affects moves such as  Surf  and  Earthquake , which normally hit all Pokémon on the field apart from the user."
+    },
+    {
+        "url": "https://pokemondb.net/ability/tangled-feet",
+        "name": "Tangled Feet ",
+        "desc": "Raises evasion if the Pokémon is confused."
+    },
+    {
+        "url": "https://pokemondb.net/ability/synchronize",
+        "name": "Synchronize ",
+        "desc": "If the opponent causes a burn, paralysis, or poisoning of a Pokémon with  Synchronize , the opponent receives the status condition too. Self-inflicted status conditions (for example through the use of an item) are not passed on. In  Generations 3-4 , bad poison is only passed on as regular poison. If a Pokémon with  Synchronize  is the leading party Pokémon, there is a 50% chance of each wild Pokémon encountered having the same nature. No Pokémon have  Synchronize  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/swift-swim",
+        "name": "Swift Swim ",
+        "desc": "Swift Swim  doubles the ability-bearer's Speed during  rain ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/symbiosis",
+        "name": "Symbiosis ",
+        "desc": "The Pokémon can pass an item to an ally.\n No Pokémon have the ability  Symbiosis  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sweet-veil",
+        "name": "Sweet Veil ",
+        "desc": "Sweet Veil  prevents this Pokémon and its allies from falling asleep, for example from moves like  Hypnosis ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/toxic-boost",
+        "name": "Toxic Boost ",
+        "desc": "Powers up physical attacks when poisoned.\n No Pokémon have the ability  Toxic Boost  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/water-absorb",
+        "name": "Water Absorb ",
+        "desc": "A Pokémon with  Water Absorb  heals  1 ⁄ 4  of its maximum HP when hit by a  Water -type attack."
+    },
+    {
+        "url": "https://pokemondb.net/ability/thermal-exchange",
+        "name": "Thermal Exchange ",
+        "desc": "Raises Attack when hit by a Fire-type move. Cannot be burned.\n No Pokémon have  Thermal Exchange  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/swarm",
+        "name": "Swarm ",
+        "desc": "Swarm  increases the power of  Bug -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as  in a pinch ). If a Pokémon with  Swarm  is the leading party Pokémon, wild Pokémon are twice as likely to appear."
+    },
+    {
+        "url": "https://pokemondb.net/ability/tablets-of-ruin",
+        "name": "Tablets of Ruin ",
+        "desc": "Lowers Attack of all Pokémon except itself.\n No Pokémon have  Tablets of Ruin  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/supreme-overlord",
+        "name": "Supreme Overlord ",
+        "desc": "Attack and Special Attack are boosted for each party Pokémon that has been defeated.\n No Pokémon have  Supreme Overlord  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/tangling-hair",
+        "name": "Tangling Hair ",
+        "desc": "Contact with the Pokémon lowers the attacker's Speed stat.\n No Pokémon have  Tangling Hair  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/surge-surfer",
+        "name": "Surge Surfer ",
+        "desc": "Surge Surfer  doubles the bearer's Speed when  Electric Terrain  is active. No Pokémon have  Surge Surfer  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sword-of-ruin",
+        "name": "Sword of Ruin ",
+        "desc": "Lowers Defense of all Pokémon except itself.\n No Pokémon have  Sword of Ruin  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sticky-hold",
+        "name": "Sticky Hold ",
+        "desc": "Sticky Hold  prevents held items from being taken or switched. If a Pokémon with  Sticky Hold  is the leading party Pokémon, the chance of hooking a Pokémon during fishing increases."
+    },
+    {
+        "url": "https://pokemondb.net/ability/suction-cups",
+        "name": "Suction Cups ",
+        "desc": "Suction Cups  prevents opponents forcing the ability-bearer to switch out or flee via the moves  Roar ,  Whirlwind ,  Circle Throw , or  Dragon Tail , or the item  Red Card . If a Pokémon with  Suction Cups  is the leading party Pokémon, the chance of hooking a Pokémon during fishing increases. No Pokémon have  Suction Cups  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/strong-jaw",
+        "name": "Strong Jaw ",
+        "desc": "Strong Jaw  increases the power of all  biting  moves by 50%. The attacks classed as biting moves are shown below with their normal and boosted power: No Pokémon have  Strong Jaw  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sturdy",
+        "name": "Sturdy ",
+        "desc": "Sturdy  allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves ( Fissure ,  Horn Drill ,  Guillotine  or  Sheer Cold ). If  Sturdy  activates before the final hit of a multi-hit move (such as  Fury Swipes ), the subsequent hit will still deal damage and therefore cause the Pokémon to faint. Sturdy  does not prevent self-inflicted KO moves such as  Selfdestruct ,  Explosion  and  Final Gambit ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/stench",
+        "name": "Stench ",
+        "desc": "A Pokémon with  Stench  has a 10% chance of causing the opponent to flinch when hit by a damaging move (provided the ability-bearer strikes first as usual). Stench  does not stack with the items  King's Rock  or  Razor Fang , so an ability-bearer holding either item will keep the flinch chance at 10%. In  Generations 3-4 ,  Stench  has no effect in battle. If a Pokémon with  Stench  is the leading party Pokémon, wild Pokémon are only half as likely to appear."
+    },
+    {
+        "url": "https://pokemondb.net/ability/super-luck",
+        "name": "Super Luck ",
+        "desc": "Super Luck  raises the ability-bearer's critical-hit ratio by one stage (for most moves this increases from a  1 ⁄ 16  chance to  1 ⁄ 8 )."
+    },
+    {
+        "url": "https://pokemondb.net/ability/supersweet-syrup",
+        "name": "Supersweet Syrup ",
+        "desc": "A sickly sweet scent spreads across the field the first time the Pokémon enters a battle, lowering the evasiveness of opposing Pokémon. No Pokémon have  Supersweet Syrup  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/steadfast",
+        "name": "Steadfast ",
+        "desc": "Raises Speed each time the Pokémon flinches."
+    },
+    {
+        "url": "https://pokemondb.net/ability/static",
+        "name": "Static ",
+        "desc": "If a Pokémon with  Static  is hit by a move making contact, there is a 30% chance the foe will become paralyzed. If a Pokémon with  Static  is the leading party Pokémon, it is 50% more likely that a wild Pokémon encountered will be  Electric  type."
+    },
+    {
+        "url": "https://pokemondb.net/ability/stalwart",
+        "name": "Stalwart ",
+        "desc": "Ignores moves and abilities that draw in moves.\n No Pokémon have the ability  Stalwart  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/stance-change",
+        "name": "Stance Change ",
+        "desc": "Stance Change  is exclusive to  Aegislash . When using a damage-dealing move,  Aegislash  switches to its Blade Forme. When using the move  King's Shield ,  Aegislash  switches to its Shield Forme. The form change occurs when the appropriate move is selected, regardless of whether the attack goes ahead (e.g. prevented by paralysis). No Pokémon have  Stance Change  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/stall",
+        "name": "Stall ",
+        "desc": "The Pokémon moves after all other Pokémon do.\n No Pokémon have  Stall  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/storm-drain",
+        "name": "Storm Drain ",
+        "desc": "Storm Drain  forces all single-target  Water -type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. The ability is most useful in double/triple battles. When hit by the move, it deals no damage to the ability-bearer but raises its Special Attack by one stage. Stats can be raised to a maximum of +6 stages each. Storm Drain  will activate for an Water-type  Hidden Power , but not Water-type  Judgment . The ability is overridden by other Pokémon becoming the  center of attention  from the moves  Follow Me  or  Rage Powder . In  Generation 4 ,  Storm Drain  did not increase Special Attack nor give immunity to Water-type attacks. It also did not activate for  Hidden Power ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/speed-boost",
+        "name": "Speed Boost ",
+        "desc": "Its Speed stat is gradually boosted."
+    },
+    {
+        "url": "https://pokemondb.net/ability/soundproof",
+        "name": "Soundproof ",
+        "desc": "Soundproof  grants the Pokémon immunity to all  sound-based  moves, preventing all damage and effects. In  Generation 5  only, Pokémon with  Soundproof  could be cured of status conditions by  Heal Bell ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/steelworker",
+        "name": "Steelworker ",
+        "desc": "Steelworker  increases the power of Steel-type moves used by this Pokémon by 50%. No Pokémon have  Steelworker  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/soul-heart",
+        "name": "Soul-Heart ",
+        "desc": "Soul-Heart  raises the bearer's Special Attack one stage when any Pokémon on the field faints. Stats can be raised to a maximum of +6 stages each. No Pokémon have  Soul-Heart  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/solid-rock",
+        "name": "Solid Rock ",
+        "desc": "Solid Rock  reduces the damage taken from super-effective attacks by 25%. For example, a Water-type move used against a Rock-type Pokémon with  Solid Rock  would deal 1.5× the usual damage instead of 2×. A double weakness would be reduced from 4× to 3×. No Pokémon have  Solid Rock  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/solar-power",
+        "name": "Solar Power ",
+        "desc": "During harsh sunlight,  Solar Power  raises the ability-bearer's Special Attack by 50%, but it also loses  1 ⁄ 8  of its maximum HP after each turn."
+    },
+    {
+        "url": "https://pokemondb.net/ability/steely-spirit",
+        "name": "Steely Spirit ",
+        "desc": "Powers up ally Pokémon's Steel-type moves.\n No Pokémon have the ability  Steely Spirit  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/stamina",
+        "name": "Stamina ",
+        "desc": "Stamina  raises the bearer's Defense by one stage when it is attacked by any move. Stats can be raised to a maximum of +6 stages each. No Pokémon have  Stamina  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/steam-engine",
+        "name": "Steam Engine ",
+        "desc": "Steam Engine  raises the user's Speed by three stages when it is hit by a Fire- or Water-type attack. The attack still deals damage. Stats can be raised to a maximum of +6 stages each. If a Pokémon with  Steam Engine  (or  Flame Body  or  Magma Armor ) and a  Pokémon Egg  are both in the party Pokémon, the number of steps required to hatch the egg are halved. No Pokémon have  Steam Engine  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/snow-cloak",
+        "name": "Snow Cloak ",
+        "desc": "Snow Cloak  raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being  Ice  type). If a Pokémon with  Snow Cloak  is the leading party Pokémon while travelling in a hail storm/blizzard, wild Pokémon are only half as likely to appear."
+    },
+    {
+        "url": "https://pokemondb.net/ability/snow-warning",
+        "name": "Snow Warning ",
+        "desc": "Snow Warning  creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via  Air Lock  or  Cloud Nine  or replaced by another weather condition. If multiple Pokémon with weather-generating abilities ( Snow Warning ,  Drizzle ,  Drought  or  Sand Stream ) enter the field on the same turn, each weather condition will activate consecutively, fastest Pokémon first. In other words, the resultant weather condition will be that of the slowest Pokémon. Prior to  Generation 6 ,  Snow Warning  lasts indefinitely upon activation."
+    },
+    {
+        "url": "https://pokemondb.net/ability/stakeout",
+        "name": "Stakeout ",
+        "desc": "Stakeout  enables the Pokémon to deal twice the normal damage to any Pokémon that switches in or enters the field mid-battle."
+    },
+    {
+        "url": "https://pokemondb.net/ability/slow-start",
+        "name": "Slow Start ",
+        "desc": "Temporarily halves Attack and Speed."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sniper",
+        "name": "Sniper ",
+        "desc": "Sniper  increases the power of critical hits by 1.5×. This means a critical hit will deal  2.25×  normal damage instead of 1.5×. In  Generations 1-5  critical hits deal 2× normal damage, so  Sniper  inflicts  3×  normal damage."
+    },
+    {
+        "url": "https://pokemondb.net/ability/skill-link",
+        "name": "Skill Link ",
+        "desc": "Skill Link  causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as  Double Kick  that always strike the same number of times are not affected. In  Generation 4 ,  Triple Kick  is not affected by  Skill Link ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/simple",
+        "name": "Simple ",
+        "desc": "The  Simple  ability doubles the number of stages of all stat changes. Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each. For example, using  Swords Dance  would increase the Pokémon's attack by 4 stages instead of the usual 2. If  Tail Whip  was targeted at a Pokémon with  Simple , its Defense would drop 2 stages instead of 1. The move  Simple Beam  can change a Pokémon's ability to  Simple . In  Generation 4 ,  Simple  doubles the effects of stat changes but does not increase the actual number of stages. Stat increases are capped at the same multiplier of ×4, as per the table below. However, the resulting effect is exactly the same as current games."
+    },
+    {
+        "url": "https://pokemondb.net/ability/shield-dust",
+        "name": "Shield Dust ",
+        "desc": "Blocks the added effects of attacks taken.\n No Pokémon have  Shield Dust  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/shed-skin",
+        "name": "Shed Skin ",
+        "desc": "The Pokémon may heal its own status problems."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sharpness",
+        "name": "Sharpness ",
+        "desc": "Sharpness  increases the power of all  slicing  moves by 50%. The attacks classed as slicing moves are shown below with their normal and boosted power: *No Pokémon with  Sharpness  can learn these moves, however they can be called via  Copycat ,  Metronome ,  Mimic ,  Mirror Move , or from a Pokémon that gained the ability (for example by  Skill Swap )."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sheer-force",
+        "name": "Sheer Force ",
+        "desc": "Sheer Force  increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects. Beneficial  effects are defined as those that are positive for the user, such as: Non-beneficial effects, that  Sheer Force  will not activate for, include: If the user is holding a  Life Orb  and uses an attack that activates  Sheer Force , it will not receive the 10% damage from  Life Orb , but it gets boosts from both  Life Orb  and  Sheer Force  (total of 69% base power increase). Flamethrower  normally has a 10% chance to burn the opponent. With  Sheer Force , Flamethrower's base power is boosted from 95 to 124, but it will never cause a burn. Note that if a move has an advantageous  and  disadvantageous side-effect,  Sheer Force  still boosts the move but only the advantageous effect is removed. For example,  Flare Blitz  may cause a burn but also has recoil damage. A Pokémon with  Sheer Force  using the move would gain the power increase and still receive recoil damage, but it would never cause a burn. Here are the moves that increase in power under  Sheer Force , listed alphabetically:"
+    },
+    {
+        "url": "https://pokemondb.net/ability/shadow-tag",
+        "name": "Shadow Tag ",
+        "desc": "Prevents the foe from escaping."
+    },
+    {
+        "url": "https://pokemondb.net/ability/serene-grace",
+        "name": "Serene Grace ",
+        "desc": "Serene Grace  doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items  King's Rock  and  Razor Fang  from 10% to 20% (however, note that those items do not affect moves that already have a flinch chance). Serene Grace  does not affect status moves or the Pokémon's critical hit ratio. Shadow Ball  normally has a 20% chance of lowering Special Defense; with  Serene Grace  it is boosted to a 40% chance. Air Slash  has a 30% of causing the target to flinch; with  Serene Grace  it is boosted to a 60% chance. If the item  King's Rock  is held it does not increase that percentage, but rather if the move does not cause flinching (40% chance), then there is now a further 20% chance the target will flinch from  King's Rock . This means  Serene Grace  with  Air Slash  and  King's Rock  gives a total probability of 68% (1 - 0.4*0.8) that the opponent will flinch. In  Generations 3-4   Serene Grace  does not increase the flinch chance of  King's Rock  or Razor Fang. In  Generations 3-5   Serene Grace  does not affect the move  Secret Power ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/shadow-shield",
+        "name": "Shadow Shield ",
+        "desc": "Reduces damage when HP is full.\n No Pokémon have  Shadow Shield  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/scrappy",
+        "name": "Scrappy ",
+        "desc": "Enables moves to hit Ghost-type Pokémon."
+    },
+    {
+        "url": "https://pokemondb.net/ability/schooling",
+        "name": "Schooling ",
+        "desc": "Schooling  changes Wishiwashi into its School Form, if its HP is above 25% and Wishiwashi is at least level 20. If its HP falls below 25%, Wishiwashi will revert back to Solo Form. Schooling  cannot be removed or replaced via moves like  Skill Swap  or the  Mummy  ability. No Pokémon have  Schooling  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/slush-rush",
+        "name": "Slush Rush ",
+        "desc": "Boosts the Pokémon's Speed stat in a hailstorm."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sand-veil",
+        "name": "Sand Veil ",
+        "desc": "Sand Veil  raises the ability-bearer's evasion by 20% in a  sandstorm . It also gives immunity to sandstorm damage (if they are not already protected by being  Ground / Rock / Steel  type). If a Pokémon with  Sand Veil  is the leading party Pokémon while travelling in a sandstorm, wild Pokémon are only half as likely to appear."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sap-sipper",
+        "name": "Sap Sipper ",
+        "desc": "Boosts Attack when hit by a Grass-type move."
+    },
+    {
+        "url": "https://pokemondb.net/ability/shell-armor",
+        "name": "Shell Armor ",
+        "desc": "Shell Armor  prevents the Pokémon from receiving a critical hit."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sand-stream",
+        "name": "Sand Stream ",
+        "desc": "Sand Stream  creates a sandstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via  Air Lock  or  Cloud Nine  or replaced by another weather condition. If multiple Pokémon with weather-generating abilities ( Sand Stream ,  Drizzle ,  Drought  or  Snow Warning ) enter the field on the same turn, each weather condition will activate consecutively, fastest Pokémon first. In other words, the resultant weather condition will be that of the slowest Pokémon. Prior to  Generation 6 ,  Sand Stream  lasts indefinitely upon activation. No Pokémon have  Sand Stream  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sand-force",
+        "name": "Sand Force ",
+        "desc": "Sand Force  raises the power of  Ground ,  Rock  and  Steel  type moves by 30% during a  sandstorm . It also grants immunity to the sandstorm damage, if not already immune (currently this only applies to Shellos since all other Pokémon with the ability are already immune)."
+    },
+    {
+        "url": "https://pokemondb.net/ability/rough-skin",
+        "name": "Rough Skin ",
+        "desc": "When a Pokémon with  Rough Skin  is hit by a move that makes contact, the attacker receives damage equal to  1 ⁄ 8  of their maximum HP. Multi-hit moves (e.g.  DoubleSlap ) activate  Rough Skin  for each strike. In  Generation 3 , the damage from  Rough Skin  is  1 ⁄ 16  of the maximum HP."
+    },
+    {
+        "url": "https://pokemondb.net/ability/run-away",
+        "name": "Run Away ",
+        "desc": "Run Away  allows the bearer to flee a battle with a wild Pokémon without fail, even if the opposing Pokémon has used a move like  Mean Look  or  Bind , or has an ability such as  Arena Trap . Pokémon with  Run Away  cannot switch out for another Pokémon, only flee. It does not allow the Pokémon to flee from Trainer battles."
+    },
+    {
+        "url": "https://pokemondb.net/ability/rocky-payload",
+        "name": "Rocky Payload ",
+        "desc": "Rocky Payload  increases the power of Rock-type moves used by this Pokémon by 50%. No Pokémon have the ability  Rocky Payload  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/shields-down",
+        "name": "Shields Down ",
+        "desc": "Shields Down  causes the Pokémon to changes its appearance and stats depending on its remaining HP. When the Pokémon's HP is over 50%, it has higher defenses and is immune to status conditions. When its HP falls below 50%, the outer shell breaks and the Pokémon has higher attack. No Pokémon have  Shields Down  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/seed-sower",
+        "name": "Seed Sower ",
+        "desc": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.\n No Pokémon have  Seed Sower  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/screen-cleaner",
+        "name": "Screen Cleaner ",
+        "desc": "Nullifies effects of Light Screen, Reflect, and Aurora Veil.\n No Pokémon have  Screen Cleaner  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/rock-head",
+        "name": "Rock Head ",
+        "desc": "Protects the Pokémon from recoil damage."
+    },
+    {
+        "url": "https://pokemondb.net/ability/regenerator",
+        "name": "Regenerator ",
+        "desc": "A Pokémon with  Regenerator  restores  1 ⁄ 3  of its maximum HP when switching out."
+    },
+    {
+        "url": "https://pokemondb.net/ability/rks-system",
+        "name": "RKS System ",
+        "desc": "Changes type depending on held item.\n No Pokémon have  RKS System  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/rivalry",
+        "name": "Rivalry ",
+        "desc": "Deals more damage to a Pokémon of same gender."
+    },
+    {
+        "url": "https://pokemondb.net/ability/reckless",
+        "name": "Reckless ",
+        "desc": "Reckless  increases the power of  recoil  moves by 20%. By extension, this means the amount of recoil damage taken will increase as more damage is dealt (except for  High Jump Kick  and  Jump Kick  which are based on the user's HP). The attacks classed as punching moves are shown below with their normal and boosted power: * No Pokémon with  Reckless  can learn these moves."
+    },
+    {
+        "url": "https://pokemondb.net/ability/refrigerate",
+        "name": "Refrigerate ",
+        "desc": "Refrigerate  causes all  Normal -type attacking moves used by the Pokémon to become  Ice -type, and increase in power by 20%. Ice-type Pokémon also gain  STAB  from those moves (which means an effective increase of 80%). In  Generation 6 ,  Refrigerate  increases affected moves' power by 30%. No Pokémon have  Refrigerate  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/sand-spit",
+        "name": "Sand Spit ",
+        "desc": "Creates a sandstorm when hit by an attack.\n No Pokémon have  Sand Spit  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/quick-feet",
+        "name": "Quick Feet ",
+        "desc": "Quick Feet  raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pokémon does not suffer the usual drop in Speed. All other effects of the status condition remain, e.g. losing HP each turn (poison, burn), or being unable to attack (paralysis, freeze, sleep). If a Pokémon with  Quick Feet  is the leading party Pokémon, wild Pokémon are only half as likely to appear."
+    },
+    {
+        "url": "https://pokemondb.net/ability/quick-draw",
+        "name": "Quick Draw ",
+        "desc": "No Pokémon have  Quick Draw  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/pure-power",
+        "name": "Pure Power ",
+        "desc": "Raises the Pokémon's Attack stat.\n No Pokémon have  Pure Power  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/purifying-salt",
+        "name": "Purifying Salt ",
+        "desc": "Protects from status conditions and halves damage from Ghost-type moves.\n No Pokémon have  Purifying Salt  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/quark-drive",
+        "name": "Quark Drive ",
+        "desc": "Raises highest stat on Electric Terrain, or if holding Booster Energy.\n No Pokémon have  Quark Drive  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/ripen",
+        "name": "Ripen ",
+        "desc": "Doubles the effect of berries.\n No Pokémon have  Ripen  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/protosynthesis",
+        "name": "Protosynthesis ",
+        "desc": "Raises highest stat in harsh sunlight, or if holding Booster Energy.\n No Pokémon have  Protosynthesis  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/receiver",
+        "name": "Receiver ",
+        "desc": "A Pokémon with  Receiver  will inherit the ability of a teammate in a double/triple battle when that teammate faints. Abilities that activate upon entering the field, such as  Intimidate , will activate when the Pokémon with  Receiver  inherits it. No Pokémon have  Receiver  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/protean",
+        "name": "Protean ",
+        "desc": "Protean  changes the Pokémon's type to that of its previously used attack. No Pokémon have the ability  Protean  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/rattled",
+        "name": "Rattled ",
+        "desc": "When a Pokémon with  Rattled  is hit by a  Bug ,  Ghost  or  Dark  type move, its Speed is raised one stage (up to the usual maximum of +6 stages)."
+    },
+    {
+        "url": "https://pokemondb.net/ability/rain-dish",
+        "name": "Rain Dish ",
+        "desc": "A Pokémon with  Rain Dish  will recover  1 ⁄ 16  of its maximum HP during rain, after each turn."
+    },
+    {
+        "url": "https://pokemondb.net/ability/prism-armor",
+        "name": "Prism Armor ",
+        "desc": "Prism Armor  reduces the damage taken from super-effective attacks by 25%. It is not affected by the abilities  Mold Breaker ,  Teravolt , or  Turboblaze . For example, a Dark-type move used against a Psychic-type Pokémon with  Prism Armor  would deal 1.5× the usual damage instead of 2×. A double weakness would be reduced from 4× to 3×. No Pokémon have  Prism Armor  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/queenly-majesty",
+        "name": "Queenly Majesty ",
+        "desc": "Prevents use of priority moves.\n No Pokémon have  Queenly Majesty  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/pressure",
+        "name": "Pressure ",
+        "desc": "Pressure  makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1. If a Pokémon with  Pressure  is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level."
+    },
+    {
+        "url": "https://pokemondb.net/ability/prankster",
+        "name": "Prankster ",
+        "desc": "Prankster  increases the priority of status moves by +1. This means that a slower Pokémon with  Prankster  can use a status move before the opponent uses a regular move. Or if the ability-bearer is faster, it could use a status move before the opponent uses a priority move like  Aqua Jet . The move  Quick Guard  does not block moves whose priority is increased by  Prankster  (but it does block moves that already have increased priority)."
+    },
+    {
+        "url": "https://pokemondb.net/ability/psychic-surge",
+        "name": "Psychic Surge ",
+        "desc": "Psychic Surge  creates a low-lying psychic field, like the move  Psychic Terrain , when the Pokémon enters battle. It prevents high-priority moves being used and increases the power of  Psychic  type attacks."
+    },
+    {
+        "url": "https://pokemondb.net/ability/power-construct",
+        "name": "Power Construct ",
+        "desc": "Power Construct  is unique to Zygarde. When Zygarde 10% Forme or Zygarde 50% Forme falls below half HP, it changes into Zygarde Complete Forme. As Complete Forme has a higher base HP than the other two Formes, its HP is also restored by the same amount the maximum HP increased. No Pokémon have  Power Construct  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/propeller-tail",
+        "name": "Propeller Tail ",
+        "desc": "Ignores moves and abilities that draw in moves.\n No Pokémon have the ability  Propeller Tail  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/poison-touch",
+        "name": "Poison Touch ",
+        "desc": "May poison targets when a Pokémon makes contact."
+    },
+    {
+        "url": "https://pokemondb.net/ability/poison-puppeteer",
+        "name": "Poison Puppeteer ",
+        "desc": "Pokémon poisoned by Pecharunt’s moves will also become confused. No Pokémon have  Poison Puppeteer  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/pixilate",
+        "name": "Pixilate ",
+        "desc": "Pixilate  causes all  Normal -type attacking moves used by the Pokémon to become  Fairy -type, and increase in power by 20%. Fairy-type Pokémon also gain  STAB  from those moves (which means an effective increase of 80%). In  Generation 6 ,  Pixilate  increases affected moves' power by 30%."
+    },
+    {
+        "url": "https://pokemondb.net/ability/primordial-sea",
+        "name": "Primordial Sea ",
+        "desc": "Primordial Sea  creates heavy rain when the ability is activated (by Kyogre reverting to its Primal form). Heavy rain has the same effects as  regular rain  but with some additions: The abilities  Cloud Nine  or  Air Lock  are still able to bypass the effects of  Primordial Sea , but  Mold Breaker  is not. No Pokémon have  Primordial Sea  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/poison-point",
+        "name": "Poison Point ",
+        "desc": "Contact with the Pokémon may poison the attacker.\n No Pokémon have  Poison Point  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/poison-heal",
+        "name": "Poison Heal ",
+        "desc": "Restores HP if the Pokémon is poisoned."
+    },
+    {
+        "url": "https://pokemondb.net/ability/pickpocket",
+        "name": "Pickpocket ",
+        "desc": "Steals an item when hit by another Pokémon."
+    },
+    {
+        "url": "https://pokemondb.net/ability/pickup",
+        "name": "Pickup ",
+        "desc": "When another Pokémon on the field uses a single-use held item, a Pokémon with  Pickup  will obtain the used item (if they are not already holding anything) and it can be used again. Pokémon with  Pickup  will also obtain an item thrown at them with  Fling  (if they are not already holding anything). In  Generations 3-4 ,  Pickup  has no effect in battle. When a battle ends, any party Pokémon with  Pickup  has a 10% chance of picking up an item (if they are not already holding an item). Items picked up range from Potions, Great Balls, Ultra Balls and Rare Candies up to Leftovers and some TMs. Better items have a lower chance of being found; furthermore, higher-level Pokémon will obtain better items."
+    },
+    {
+        "url": "https://pokemondb.net/ability/punk-rock",
+        "name": "Punk Rock ",
+        "desc": "Boosts sound-based moves and halves damage from the same moves.\n No Pokémon have  Punk Rock  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/power-spot",
+        "name": "Power Spot ",
+        "desc": "Just being next to the Pokémon powers up moves.\n No Pokémon have  Power Spot  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/parental-bond",
+        "name": "Parental Bond ",
+        "desc": "Parental Bond  allows the ability-bearer to attack twice. The second attack hits with 25% of the power, so in effect it is equivalent to a 25% boost to all attacks. Parental Bond  is the signature ability of  Mega Kangaskhan . When the ability is in use, the mother and child each attack. In  Generation 6 , the second attack of  Parental Bond  hits with 50% power of the first. No Pokémon have  Parental Bond  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/own-tempo",
+        "name": "Own Tempo ",
+        "desc": "Prevents the Pokémon from becoming confused."
+    },
+    {
+        "url": "https://pokemondb.net/ability/power-of-alchemy",
+        "name": "Power of Alchemy ",
+        "desc": "The Pokémon copies the Ability of a defeated ally.\n No Pokémon have the ability  Power of Alchemy  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/overgrow",
+        "name": "Overgrow ",
+        "desc": "Overgrow  increases the power of  Grass -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as  in a pinch )."
+    },
+    {
+        "url": "https://pokemondb.net/ability/overcoat",
+        "name": "Overcoat ",
+        "desc": "Overcoat  makes the Pokémon immune to residual damage from weather conditions (specifically  Hail  and  Sandstorm )."
+    },
+    {
+        "url": "https://pokemondb.net/ability/opportunist",
+        "name": "Opportunist ",
+        "desc": "Copies stat boosts by the opponent.\n No Pokémon have  Opportunist  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/orichalcum-pulse",
+        "name": "Orichalcum Pulse ",
+        "desc": "Turns the sunlight harsh when entering battle, and boosts Attack while active.\n No Pokémon have  Orichalcum Pulse  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/oblivious",
+        "name": "Oblivious ",
+        "desc": "Oblivious  makes the Pokémon immune to gender-based moves and abilities, specifically  Attract ,  Captivate  and  Cute Charm ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/normalize",
+        "name": "Normalize ",
+        "desc": "Normalize  causes all moves used by the Pokémon to become  Normal -type, and attacking moves increase in power by 20%. Normal-type Pokémon also gain  STAB  from those moves (which means an effective increase of 80%). The following moves are not affected by  Normalize :  Hidden Power ,  Judgment ,  Multi-Attack ,  Natural Gift ,  Revelation Dance ,  Struggle ,  Techno Blast ,  Weather Ball , and damaging Z-Moves. The move  Flying Press  deals Normal/Flying type damage instead of Fighting/Flying.  Freeze-Dry  remains super-effective against Water-types, but follows the Normal type chart against other types (e.g. neutral against Grass-types). In  Generations 4-6 ,  Normalize  did not increase damage (besides any usual boosts like  STAB ). All moves listed above except Struggle  are  affected by  Normalize . No Pokémon have  Normalize  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/plus",
+        "name": "Plus ",
+        "desc": "Ups Sp. Atk if another Pokémon has Plus or Minus."
+    },
+    {
+        "url": "https://pokemondb.net/ability/no-guard",
+        "name": "No Guard ",
+        "desc": "No Guard  ensures that all attacks used by, and targeted at, the ability-bearer hit without fail. This includes moves used on a Pokémon in the  hidden  stages of the moves  Fly ,  Dive ,  Dig  and  Shadow Force . If a Pokémon with  No Guard  is the leading party Pokémon, wild Pokémon are twice as likely to appear."
+    },
+    {
+        "url": "https://pokemondb.net/ability/neutralizing-gas",
+        "name": "Neutralizing Gas ",
+        "desc": "Neutralizes abilities of all Pokémon in battle.\n No Pokémon have  Neutralizing Gas  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/pastel-veil",
+        "name": "Pastel Veil ",
+        "desc": "Pastel Veil  prevents the Pokémon and its teammates from being poisoned. It also cures teammates of poisoning when it enters the battlefield. No Pokémon have  Pastel Veil  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/neuroforce",
+        "name": "Neuroforce ",
+        "desc": "Powers up moves that are super effective.\n No Pokémon have  Neuroforce  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/multiscale",
+        "name": "Multiscale ",
+        "desc": "Reduces damage when HP is full.\n No Pokémon have the ability  Multiscale  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/perish-body",
+        "name": "Perish Body ",
+        "desc": "When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle.\n No Pokémon have the ability  Perish Body  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/natural-cure",
+        "name": "Natural Cure ",
+        "desc": "All status problems heal when it switches out."
+    },
+    {
+        "url": "https://pokemondb.net/ability/mummy",
+        "name": "Mummy ",
+        "desc": "Contact with this Pokémon spreads this Ability.\n No Pokémon have  Mummy  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/mold-breaker",
+        "name": "Mold Breaker ",
+        "desc": "Mold Breaker  prevents a target's ability from affecting moves that the  Mold Breaker  Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves. For example, a  Haxorus  with  Mold Breaker  would be able to hit a  Bronzong  (having  Levitate ) using a Ground type move like  Earthquake . Ground type moves would still not affect Flying types. However, if  Dragon Claw  KOs a Pokémon with  Aftermath , a  Mold Breaker  Pokémon would still lose HP as Aftermath did not affect the  Dragon Claw  attack itself."
+    },
+    {
+        "url": "https://pokemondb.net/ability/moody",
+        "name": "Moody ",
+        "desc": "Raises one stat and lowers another.\n No Pokémon have the ability  Moody  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/motor-drive",
+        "name": "Motor Drive ",
+        "desc": "Raises Speed if hit by an Electric-type move."
+    },
+    {
+        "url": "https://pokemondb.net/ability/misty-surge",
+        "name": "Misty Surge ",
+        "desc": "Misty Surge  creates a low-lying mist, like the move  Misty Terrain , when the bearer enters battle. It protects all grounded Pokémon from status conditions and halves the power of  Dragon  type attacks."
+    },
+    {
+        "url": "https://pokemondb.net/ability/moxie",
+        "name": "Moxie ",
+        "desc": "Moxie  increases the user's Attack one stage upon fainting an opponent. Stats can be raised to a maximum of +6 stages each."
+    },
+    {
+        "url": "https://pokemondb.net/ability/mirror-armor",
+        "name": "Mirror Armor ",
+        "desc": "Reflects any stat-lowering effects.\n No Pokémon have the ability  Mirror Armor  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/minds-eye",
+        "name": "Mind's Eye ",
+        "desc": "The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal- and Fighting-type moves. No Pokémon have  Mind's Eye  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/minus",
+        "name": "Minus ",
+        "desc": "Ups Sp. Atk if another Pokémon has Plus or Minus."
+    },
+    {
+        "url": "https://pokemondb.net/ability/magma-armor",
+        "name": "Magma Armor ",
+        "desc": "Magma Armor  prevents the Pokémon from becoming frozen, for example from moves like  Blizzard . If a Pokémon with  Magma Armor  (or  Flame Body  or  Steam Engine ) and a  Pokémon Egg  are amongst the party Pokémon, the number of steps required to hatch the egg are halved. No Pokémon have  Magma Armor  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/mega-launcher",
+        "name": "Mega Launcher ",
+        "desc": "Mega Launcher  increases the power of all  aura and pulse  moves by 50%.  Heal Pulse  boosts the HP restored by 50%. The attacks classed as aura and pulse moves are shown below with their normal and boosted power: *No Pokémon with  Mega Launcher  can learn these moves, however they can be called via  Copycat ,  Metronome ,  Mimic ,  Mirror Move , or from a Pokémon that gained the ability (for example by  Skill Swap ). No Pokémon have  Mega Launcher  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/mycelium-might",
+        "name": "Mycelium Might ",
+        "desc": "Status moves go last, but are not affected by the opponent's ability.\n No Pokémon have  Mycelium Might  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/multitype",
+        "name": "Multitype ",
+        "desc": "Multitype  changes the ability-bearer's type if it is holding one of the  Type Plate  items. Moves of the corresponding type receive  STAB . The moves  Gastro Acid ,  Role Play ,  Skill Swap ,  Worry Seed  or the ability  Trace  do not affect a Pokémon with  Multitype . The moves  Covet ,  Knock Off ,  Switcheroo  and  Thief  cannot remove Plates from a Pokémon with  Multitype , but they can remove any other item. The Plates are: In  Generation 4  the moves  Covet ,  Knock Off ,  Switcheroo  and  Thief  (all of which remove items) do not affect Pokémon with  Multitype . No Pokémon have  Multitype  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/magic-bounce",
+        "name": "Magic Bounce ",
+        "desc": "Reflects status- changing moves."
+    },
+    {
+        "url": "https://pokemondb.net/ability/magician",
+        "name": "Magician ",
+        "desc": "The Pokémon steals the held item of a Pokémon it hits with a move."
+    },
+    {
+        "url": "https://pokemondb.net/ability/magnet-pull",
+        "name": "Magnet Pull ",
+        "desc": "Magnet Pull  prevents  Steel  type Pokémon from switching out of battle or fleeing. If a Pokémon with  Magnet Pull  is the leading party Pokémon, it is 50% more likely that a wild Pokémon encountered will be  Steel  type. No Pokémon have  Magnet Pull  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/magic-guard",
+        "name": "Magic Guard ",
+        "desc": "Magic Guard  protects the Pokémon from indirect damage, including: It does not prevent damage from confusion, trapping moves (e.g.  Bind ) or  Struggle . In  Generation 4  a Pokémon with  Magic Guard  cannot be poisoned from  Toxic Spikes , nor become fully immobile through paralysis (though the Speed drop still occurs)."
+    },
+    {
+        "url": "https://pokemondb.net/ability/liquid-voice",
+        "name": "Liquid Voice ",
+        "desc": "Liquid Voice  causes all  sound-based  moves used by the Pokémon to become Water type. Water type Pokémon also gain  STAB  from those moves. It is the signature ability of the  Primarina  evolution line, though other Pokémon may acquire  Liquid Voice  via certain abilities or moves such as  Skill Swap . Attacks shown in  bold  can be learned by  Primarina , though the others can be called via moves such as  Metronome . No Pokémon have the ability  Liquid Voice  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/long-reach",
+        "name": "Long Reach ",
+        "desc": "The Pokémon uses its moves without making contact with the target.\n No Pokémon have the ability  Long Reach  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/mimicry",
+        "name": "Mimicry ",
+        "desc": "Changes type depending on the terrain.\n No Pokémon have  Mimicry  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/limber",
+        "name": "Limber ",
+        "desc": "The Pokémon is protected from paralysis."
+    },
+    {
+        "url": "https://pokemondb.net/ability/lightning-rod",
+        "name": "Lightning Rod ",
+        "desc": "Lightning Rod  forces all single-target  Electric -type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. This includes the status move  Thunder Wave . The ability is most useful in double/triple battles. When hit by the move, it deals no damage to the ability-bearer but raises its Special Attack by one stage. Stats can be raised to a maximum of +6 stages each. Lightning Rod  will activate for an Electric-type  Hidden Power , but not Electric-type  Judgment . The ability is overridden by other Pokémon becoming the  center of attention  from the moves  Follow Me  or  Rage Powder . In  Generations 3-4 ,  Lightning Rod  did not increase Special Attack nor give immunity to Electric-type attacks. It also did not activate for  Hidden Power . In  Generations 3-5 , this ability's name was formatted as  Lightningrod ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/merciless",
+        "name": "Merciless ",
+        "desc": "The Pokémon's attacks become critical hits if the target is poisoned.\n No Pokémon have  Merciless  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/light-metal",
+        "name": "Light Metal ",
+        "desc": "Light Metal  halves the Pokémon's weight in battle. Decreasing weight affects these moves:"
+    },
+    {
+        "url": "https://pokemondb.net/ability/libero",
+        "name": "Libero ",
+        "desc": "Libero  changes the Pokémon's type to that of its previously used attack. No Pokémon have the ability  Libero  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/levitate",
+        "name": "Levitate ",
+        "desc": "Levitate  causes the Pokémon to be  raised  (like  Flying -type Pokémon). Raised Pokémon are not affected by  Ground -type moves,  Spikes ,  Toxic Spikes  nor  Arena Trap . Full details in  glossary . No Pokémon have  Levitate  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/keen-eye",
+        "name": "Keen Eye ",
+        "desc": "Keen Eye  prevents the Pokémon from losing accuracy, for example from moves like  Sand-Attack . If a Pokémon with  Keen Eye  is the leading party Pokémon, wild Pokémon are 50% less likely to be lower level."
+    },
+    {
+        "url": "https://pokemondb.net/ability/klutz",
+        "name": "Klutz ",
+        "desc": "The Pokémon can't use any held items."
+    },
+    {
+        "url": "https://pokemondb.net/ability/justified",
+        "name": "Justified ",
+        "desc": "Justified  raises the ability-bearer's Attack by one stage when hit by a damaging  Dark -type move. The Attack rises for every hit of the move  Beat Up . Stats can be raised to a maximum of +6 stages each."
+    },
+    {
+        "url": "https://pokemondb.net/ability/marvel-scale",
+        "name": "Marvel Scale ",
+        "desc": "Marvel Scale  raises the ability-bearer's Defense by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). All effects of the status condition remain, e.g. losing HP each turn (poison, burn), speed drop (paralysis) or being unable to attack (paralysis, freeze, sleep)."
+    },
+    {
+        "url": "https://pokemondb.net/ability/iron-fist",
+        "name": "Iron Fist ",
+        "desc": "Iron Fist  increases the power of all  punching  moves by 20%. The attacks classed as punching moves are shown below with their normal and boosted power: *No Pokémon with  Iron Fist  can learn these moves, however they can be called via  Copycat ,  Metronome ,  Mimic ,  Mirror Move , or from a Pokémon that gained the ability (for example by  Skill Swap )."
+    },
+    {
+        "url": "https://pokemondb.net/ability/intimidate",
+        "name": "Intimidate ",
+        "desc": "Intimidate  lower's the Attack of all opponents by one stage when the ability-bearer switches in (including the start of a battle). Stats can be lowered to a minimum of -6 stages each. If a Pokémon with  Intimidate  is the leading party Pokémon, wild Pokémon are 50% less likely to be lower level."
+    },
+    {
+        "url": "https://pokemondb.net/ability/intrepid-sword",
+        "name": "Intrepid Sword ",
+        "desc": "Boosts Attack in battle.\n No Pokémon have  Intrepid Sword  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/liquid-ooze",
+        "name": "Liquid Ooze ",
+        "desc": "Damages attackers using any draining move.\n No Pokémon have  Liquid Ooze  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/lingering-aroma",
+        "name": "Lingering Aroma ",
+        "desc": "Contact changes the attacker's Ability to Lingering Aroma.\n No Pokémon have  Lingering Aroma  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/insomnia",
+        "name": "Insomnia ",
+        "desc": "Insomnia  prevents the ability-bearer from falling asleep, both from moves by other Pokémon like  Sing , and self-inflicted sleep like  Rest . If a sleeping Pokémon aquires  Insomnia  (e.g. from  Worry Seed , it will wake up on its next turn."
+    },
+    {
+        "url": "https://pokemondb.net/ability/inner-focus",
+        "name": "Inner Focus ",
+        "desc": "Inner Focus  prevents the Pokémon from flinching, for example when attacked by a move like  Headbutt ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/infiltrator",
+        "name": "Infiltrator ",
+        "desc": "Infiltrator  ignores the effects of  Reflect ,  Light Screen  and  Safeguard . In other words, if the opponent has used Safeguard,  Toxic  would still badly poison them."
+    },
+    {
+        "url": "https://pokemondb.net/ability/innards-out",
+        "name": "Innards Out ",
+        "desc": "When a Pokémon with  Innards Out  faints, it deals damage to the opponent equal to amount of damage it took on the final blow. No Pokémon have  Innards Out  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/leaf-guard",
+        "name": "Leaf Guard ",
+        "desc": "Leaf Guard  prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather. It does not prevent minor status ailments such as Confusion or Infatuation, nor does it prevent self-inflicted status conditions such as from using  Rest ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/illusion",
+        "name": "Illusion ",
+        "desc": "When a Pokémon with the  Illusion  ability switches into battle, it takes the form of the Pokémon in last place (6th) of the player's party.  Illusion  will not activate if the Pokémon in last place is the same species or is fainted. The effect is aesthetic only;  Illusion  does not change the Pokémon's type or moves, so for example a  Fighting -type move against a  Zoroark  disguised as  Gengar  would still be super effective. Any direct attack (i.e. not entry hazards, weather conditions etc) will  break the illusion . No Pokémon have  Illusion  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/imposter",
+        "name": "Imposter ",
+        "desc": "It transforms itself into the Pokémon it is facing.\n No Pokémon have the ability  Imposter  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/illuminate",
+        "name": "Illuminate ",
+        "desc": "Illuminate  has no effect in battle. If a Pokémon with  Illuminate  is the leading party Pokémon, wild Pokémon are twice as likely to appear. No Pokémon have  Illuminate  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/immunity",
+        "name": "Immunity ",
+        "desc": "Prevents the Pokémon from getting poisoned."
+    },
+    {
+        "url": "https://pokemondb.net/ability/iron-barbs",
+        "name": "Iron Barbs ",
+        "desc": "When a Pokémon with  Iron Barbs  is hit by a move that makes contact, the attacker receives damage equal to  1 ⁄ 8  of their maximum HP. Multi-hit moves (e.g.  DoubleSlap ) activate  Iron Barbs  for each strike. No Pokémon have  Iron Barbs  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/ice-body",
+        "name": "Ice Body ",
+        "desc": "A Pokémon with  Ice Body  will recover  1 ⁄ 16  of its maximum HP during hail, after each turn. It also grants immunity to the hailstorm damage, if not already immune."
+    },
+    {
+        "url": "https://pokemondb.net/ability/hunger-switch",
+        "name": "Hunger Switch ",
+        "desc": "Hunger Switch  causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode. Morpeko's form also changes the type of its signature move,  Aura Wheel . No Pokémon have  Hunger Switch  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/hyper-cutter",
+        "name": "Hyper Cutter ",
+        "desc": "Hyper Cutter  prevents the bearer's Attack stat from being lowered by other Pokémon, through moves such as  Growl  or abilities such as  Intimidate . It does not prevent self-inflicted decreases, for example from  Superpower . No Pokémon have  Hyper Cutter  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/huge-power",
+        "name": "Huge Power ",
+        "desc": "Raises the Pokémon's Attack stat."
+    },
+    {
+        "url": "https://pokemondb.net/ability/heavy-metal",
+        "name": "Heavy Metal ",
+        "desc": "Heavy Metal  doubles the Pokémon's weight in battle. Increasing weight affects these moves:"
+    },
+    {
+        "url": "https://pokemondb.net/ability/heatproof",
+        "name": "Heatproof ",
+        "desc": "Heatproof  reduces the damage taken from  Fire -type moves by 50%. It also halves the damage from a burn, from  1 ⁄ 8  to  1 ⁄ 16  of the Pokémon's maximum HP."
+    },
+    {
+        "url": "https://pokemondb.net/ability/ice-face",
+        "name": "Ice Face ",
+        "desc": "Ice Face  is the signature ability of  Eiscue . It allows the Pokémon to take a physical attack without taking damage. After the attack,  Eiscue  changes to its  No Ice Face  form, however, it can be restored in hail. No Pokémon have  Ice Face  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/ice-scales",
+        "name": "Ice Scales ",
+        "desc": "Halves damage from Special moves.\n No Pokémon have the ability  Ice Scales  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/harvest",
+        "name": "Harvest ",
+        "desc": "May create another Berry after one is used.\n No Pokémon have the ability  Harvest  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/hospitality",
+        "name": "Hospitality ",
+        "desc": "When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP. No Pokémon have  Hospitality  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/hydration",
+        "name": "Hydration ",
+        "desc": "A Pokémon with  Hydration  will cure itself of any status conditions during rain, at the end of each turn. This includes self-inflicted conditions such as from using  Rest ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/hustle",
+        "name": "Hustle ",
+        "desc": "Hustle  increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%. If a Pokémon with  Hustle  is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level."
+    },
+    {
+        "url": "https://pokemondb.net/ability/honey-gather",
+        "name": "Honey Gather ",
+        "desc": "Honey Gather  has no effect in battle. When a battle ends, any party Pokémon with  Honey Gather  may pick up honey as a held item (if they are not already holding an item)."
+    },
+    {
+        "url": "https://pokemondb.net/ability/grassy-surge",
+        "name": "Grassy Surge ",
+        "desc": "Grassy Surge  creates a low-lying grassy field, like the move  Grassy Terrain , when the Pokémon enters battle. It restores the HP of grounded Pokémon each turn and increases the power of  Grass  type attacks."
+    },
+    {
+        "url": "https://pokemondb.net/ability/guts",
+        "name": "Guts ",
+        "desc": "Guts  raises the ability-bearer's Attack by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If burnt, the Pokémon does not suffer the usual drop in Attack. All other effects of the status condition remain, e.g. losing HP each turn (poison, burn), speed drop (paralysis) or being unable to attack (paralysis, freeze, sleep)."
+    },
+    {
+        "url": "https://pokemondb.net/ability/gulp-missile",
+        "name": "Gulp Missile ",
+        "desc": "Gulp Missile  is the signature ability of  Cramorant . If  Cramorant  uses the move  Surf  or  Dive , it returns with a fish in its mouth. If  Cramorant  then takes damage, it retaliates by spitting out the fish, dealing extra damage. Cramorant  may also return carrying a  Pikachu . If  Pikachu  is launched at the opponent they will become paralyzed. No Pokémon have  Gulp Missile  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/gorilla-tactics",
+        "name": "Gorilla Tactics ",
+        "desc": "Boosts the Pokémon's Attack stat but only allows the use of the first selected move.\n No Pokémon have  Gorilla Tactics  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/gooey",
+        "name": "Gooey ",
+        "desc": "Contact with the Pokémon lowers the attacker's Speed stat."
+    },
+    {
+        "url": "https://pokemondb.net/ability/gluttony",
+        "name": "Gluttony ",
+        "desc": "A Pokémon with  Gluttony  will use a  pinch berry  when its HP drops to 50%, rather than the usual 25%. Pinch berries are: Figy, Wiki, Mago, Aguav, Iapapa, Liechi, Ganlon, Salac, Petaya, Apicot, Lansat, Starf, Micle and Custap. (Their descriptions state that they work  in a pinch. )"
+    },
+    {
+        "url": "https://pokemondb.net/ability/gale-wings",
+        "name": "Gale Wings ",
+        "desc": "Gives priority to Flying-type moves.\n No Pokémon have the ability  Gale Wings  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/healer",
+        "name": "Healer ",
+        "desc": "May heal an ally's status conditions."
+    },
+    {
+        "url": "https://pokemondb.net/ability/fur-coat",
+        "name": "Fur Coat ",
+        "desc": "Fur Coat  reduces damage taken from physical attacks by 50%. No Pokémon have  Fur Coat  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/full-metal-body",
+        "name": "Full Metal Body ",
+        "desc": "Prevents other Pokémon from lowering its stats.\n No Pokémon have  Full Metal Body  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/hadron-engine",
+        "name": "Hadron Engine ",
+        "desc": "Creates an Electric Terrain when entering battle, and boosts Special Attack while active.\n No Pokémon have  Hadron Engine  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/frisk",
+        "name": "Frisk ",
+        "desc": "The Pokémon can check a foe's held item."
+    },
+    {
+        "url": "https://pokemondb.net/ability/friend-guard",
+        "name": "Friend Guard ",
+        "desc": "Reduces damage done to allies."
+    },
+    {
+        "url": "https://pokemondb.net/ability/grim-neigh",
+        "name": "Grim Neigh ",
+        "desc": "Boosts Special Attack after knocking out a Pokémon.\n No Pokémon have  Grim Neigh  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/forewarn",
+        "name": "Forewarn ",
+        "desc": "Determines what moves a foe has.\n No Pokémon have  Forewarn  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/guard-dog",
+        "name": "Guard Dog ",
+        "desc": "Boosts Attack if intimidated, and prevents being forced to switch out."
+    },
+    {
+        "url": "https://pokemondb.net/ability/fluffy",
+        "name": "Fluffy ",
+        "desc": "Fluffy  reduces damage from contact moves by 50%, but Fire-type moves do double damage. Fire-type moves that make contact do regular damage."
+    },
+    {
+        "url": "https://pokemondb.net/ability/grass-pelt",
+        "name": "Grass Pelt ",
+        "desc": "Boosts the Defense stat in Grassy Terrain.\n No Pokémon have the ability  Grass Pelt  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/galvanize",
+        "name": "Galvanize ",
+        "desc": "Normal-type moves become Electric-type moves and their power boosted.\n No Pokémon have the ability  Galvanize  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/flash-fire",
+        "name": "Flash Fire ",
+        "desc": "When a Pokémon with  Flash Fire  is hit by a Fire-type move, it does not deal damage but instead raises the power of the bearer's Fire-type moves by 50%. Subsequent hits do not raise the power even more, but the effect remains while the ability-bearer is in battle."
+    },
+    {
+        "url": "https://pokemondb.net/ability/flame-body",
+        "name": "Flame Body ",
+        "desc": "If a Pokémon with  Flame Body  is hit by a move that makes contact, there is a 30% chance the attacker will become burned. If a Pokémon with  Flame Body  (or  Magma Armor  or  Steam Engine ) and a  Pokémon Egg  are both in the party Pokémon, the number of steps required to hatch the egg are halved."
+    },
+    {
+        "url": "https://pokemondb.net/ability/flower-gift",
+        "name": "Flower Gift ",
+        "desc": "Flower Gift  raises the Attack and Special Defense of all party Pokémon by 50% during harsh sunlight. No Pokémon have  Flower Gift  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/flare-boost",
+        "name": "Flare Boost ",
+        "desc": "Powers up special attacks when burned.\n No Pokémon have the ability  Flare Boost  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/filter",
+        "name": "Filter ",
+        "desc": "Filter  reduces the damage taken from super-effective attacks by 25%. For example, a Dark-type move used against a Psychic-type Pokémon with  Filter  would deal 1.5× the usual damage instead of 2×. A double weakness would be reduced from 4× to 3×."
+    },
+    {
+        "url": "https://pokemondb.net/ability/flower-veil",
+        "name": "Flower Veil ",
+        "desc": "Flower Veil  prevents ally Grass-type Pokémon's stats from being lowered, in double and triple battles. No Pokémon have  Flower Veil  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/embody-aspect",
+        "name": "Embody Aspect ",
+        "desc": "Embody Aspect  boosts a particular stat, depending on the form of a Terastallized  Ogerpon : No Pokémon have the ability  Embody Aspect  as a regular ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/fairy-aura",
+        "name": "Fairy Aura ",
+        "desc": "Fairy Aura  raises the power of Fairy-type moves by 33%, for all Pokémon on the field (not just the ability-bearer). It is the signature ability of  Xerneas . No Pokémon have  Fairy Aura  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/emergency-exit",
+        "name": "Emergency Exit ",
+        "desc": "Switches out when HP falls below 50%.\n No Pokémon have  Emergency Exit  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/effect-spore",
+        "name": "Effect Spore ",
+        "desc": "Contact may poison or cause paralysis or sleep."
+    },
+    {
+        "url": "https://pokemondb.net/ability/electric-surge",
+        "name": "Electric Surge ",
+        "desc": "Electric Surge  creates a low-lying electric field, like the move  Electric Terrain , when the Pokémon enters battle. It prevents grounded Pokémon from falling asleep, and increases the power of  Electric  type attacks."
+    },
+    {
+        "url": "https://pokemondb.net/ability/dry-skin",
+        "name": "Dry Skin ",
+        "desc": "Dry Skin  causes several effects:"
+    },
+    {
+        "url": "https://pokemondb.net/ability/early-bird",
+        "name": "Early Bird ",
+        "desc": "The Pokémon awakens quickly from sleep."
+    },
+    {
+        "url": "https://pokemondb.net/ability/drought",
+        "name": "Drought ",
+        "desc": "Drought  creates harsh sunlight when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via  Air Lock  or  Cloud Nine  or replaced by another weather condition. If multiple Pokémon with weather-generating abilities ( Drought ,  Drizzle ,  Sand Stream  or  Snow Warning ) enter the field on the same turn, each weather condition will activate consecutively, fastest Pokémon first. In other words, the resultant weather condition will be that of the slowest Pokémon. Prior to  Generation 6 ,  Drought  lasts indefinitely upon activation."
+    },
+    {
+        "url": "https://pokemondb.net/ability/drizzle",
+        "name": "Drizzle ",
+        "desc": "Drizzle  creates a rain shower when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via  Air Lock  or  Cloud Nine  or replaced by another weather condition. If multiple Pokémon with weather-generating abilities ( Drizzle ,  Drought ,  Sand Stream  or  Snow Warning ) enter the field on the same turn, each weather condition will activate consecutively, fastest Pokémon first. In other words, the resultant weather condition will be that of the slowest Pokémon. Prior to  Generation 6 ,  Drizzle  lasts indefinitely upon activation."
+    },
+    {
+        "url": "https://pokemondb.net/ability/forecast",
+        "name": "Forecast ",
+        "desc": "Castform transforms with the weather.\n No Pokémon have  Forecast  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/download",
+        "name": "Download ",
+        "desc": "Download  raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses. It raises Attack if the opponent's Defense is lower than its Special Defense, or raises Special Attack if opponent's Special Defense is lower than or equal to its Defense. In double and triple battles,  Download  compares the sum of all opponents' Defense stats and the sum of all opponents' Special Defense stats and uses the lowest total. No Pokémon have  Download  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/disguise",
+        "name": "Disguise ",
+        "desc": "Disguise  allows the bearer to avoid damage for one attack, in a similar way to  Substitute . No Pokémon have  Disguise  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/delta-stream",
+        "name": "Delta Stream ",
+        "desc": "Delta Stream  creates strong winds when the ability is activated (by Rayquaza Mega-Evolving). Strong winds have the following effects: The abilities  Cloud Nine  or  Air Lock  are still able to bypass the effects of  Delta Stream , but  Mold Breaker  is not. No Pokémon have  Delta Stream  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/defiant",
+        "name": "Defiant ",
+        "desc": "Defiant  raises the ability-bearer's Attack by two stages when hit by a stat-lowering move. Stats can be raised to a maximum of +6 stages each."
+    },
+    {
+        "url": "https://pokemondb.net/ability/defeatist",
+        "name": "Defeatist ",
+        "desc": "When the HP of a Pokémon with  Defeatist  falls below 50%, its Attack and Special Attack stats are halved. No Pokémon have  Defeatist  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/dazzling",
+        "name": "Dazzling ",
+        "desc": "Dazzling  makes the Pokémon immune to high-priority moves (i.e. those with a priority above 0). No Pokémon have  Dazzling  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/electromorphosis",
+        "name": "Electromorphosis ",
+        "desc": "If a Pokémon with  Electromorphosis  is hit by an attack, the power of the next Electric-type move it uses is doubled. No Pokémon have  Electromorphosis  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/dark-aura",
+        "name": "Dark Aura ",
+        "desc": "Dark Aura  raises the power of Dark-type moves by 33% for all Pokémon on the field (not just the ability-bearer). It is the signature ability of  Yveltal . No Pokémon have  Dark Aura  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/dancer",
+        "name": "Dancer ",
+        "desc": "When another Pokémon on the field uses any  Dance  move,  Dancer  causes the ability-bearer to use that same move immediately afterward. They will still use their own move originally selected, at the usual time (e.g. after the opponent if they are slower). Effects and status conditions apply for both the copied move and original move. For example if the  Dancer  Pokémon is confused, they may hurt themselves in confusion when using their move  and  when copying a Dance move. The moves that  Dancer  can copy are: No Pokémon have  Dancer  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/damp",
+        "name": "Damp ",
+        "desc": "Damp  prevents all Pokémon on the field from using the moves  Selfdestruct  and  Explosion . It also prevents damage (to the  Damp  Pokémon only) from the ability  Aftermath ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/desolate-land",
+        "name": "Desolate Land ",
+        "desc": "Desolate Land  creates extremely harsh sunlight when the ability is activated (by Groudon reverting to its Primal form). Extremely harsh sunlight has the same effects as  harsh sunlight  but with some additions: The abilities  Cloud Nine  or  Air Lock  are still able to bypass the effects of  Desolate Land , but  Mold Breaker  is not. No Pokémon have  Desolate Land  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/cute-charm",
+        "name": "Cute Charm ",
+        "desc": "If a Pokémon with  Cute Charm  is hit by a move that makes contact, there is a 30% chance the attacker will become infatuated. It will not infatuate Pokémon of the same gender, genderless Pokémon, nor those with the ability  Oblivious . Infatuated Pokémon have a 50% chance of being  immobilized by love  each turn and unable to attack. If a Pokémon with  Cute Charm  is the leading party Pokémon, the chance of encountering a Pokémon of the opposite gender is  2 ⁄ 3 ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/dragons-maw",
+        "name": "Dragon's Maw ",
+        "desc": "Dragon's Maw  increases the power of Dragon-type moves used by this Pokémon by 50%. It is the signature ability of Regidrago. No Pokémon have  Dragon's Maw  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/clear-body",
+        "name": "Clear Body ",
+        "desc": "Prevents other Pokémon from lowering its stats."
+    },
+    {
+        "url": "https://pokemondb.net/ability/chlorophyll",
+        "name": "Chlorophyll ",
+        "desc": "Chlorophyll  doubles the ability-bearer's Speed during  bright sunshine ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/bulletproof",
+        "name": "Bulletproof ",
+        "desc": "Bulletproof  makes the Pokémon immune to  ball and bomb  moves. In  Generation 6 , Rock Blast is not affected by  Bulletproof ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/good-as-gold",
+        "name": "Good as Gold ",
+        "desc": "Gives immunity to status moves.\n No Pokémon have  Good as Gold  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/dauntless-shield",
+        "name": "Dauntless Shield ",
+        "desc": "Boosts Defense in battle.\n No Pokémon have  Dauntless Shield  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/big-pecks",
+        "name": "Big Pecks ",
+        "desc": "Big Pecks  prevents the ability-bearer's Defense stat from being lowered, for example via  Tail Whip ."
+    },
+    {
+        "url": "https://pokemondb.net/ability/cloud-nine",
+        "name": "Cloud Nine ",
+        "desc": "Cloud Nine  suppresses  all  effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on."
+    },
+    {
+        "url": "https://pokemondb.net/ability/cursed-body",
+        "name": "Cursed Body ",
+        "desc": "May disable a move used on the Pokémon."
+    },
+    {
+        "url": "https://pokemondb.net/ability/battle-bond",
+        "name": "Battle Bond ",
+        "desc": "Battle Bond  causes Greninja to transform into Ash-Greninja when it KOs an opponent. Battle Bond  also increases the power of Greninja's signature move  Water Shuriken . No Pokémon have  Battle Bond  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/chilling-neigh",
+        "name": "Chilling Neigh ",
+        "desc": "Boosts Attack after knocking out a Pokémon.\n No Pokémon have  Chilling Neigh  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/cheek-pouch",
+        "name": "Cheek Pouch ",
+        "desc": "Cheek Pouch  restores the bearer's HP when a Berry is consumed, on top of the berry's usual effects. So for example, it may cure a status condition and restore HP, or restore more HP than normal. No Pokémon have  Cheek Pouch  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/battle-armor",
+        "name": "Battle Armor ",
+        "desc": "Battle Armor  prevents the Pokémon from receiving a critical hit."
+    },
+    {
+        "url": "https://pokemondb.net/ability/ball-fetch",
+        "name": "Ball Fetch ",
+        "desc": "If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle. No Pokémon have  Ball Fetch  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/blaze",
+        "name": "Blaze ",
+        "desc": "Blaze  increases the power of  Fire -type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as  in a pinch )."
+    },
+    {
+        "url": "https://pokemondb.net/ability/bad-dreams",
+        "name": "Bad Dreams ",
+        "desc": "Bad Dreams  causes all sleeping opponents to lose  1 ⁄ 8  of their maximum HP at the end of each turn. No Pokémon have  Bad Dreams  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/aura-break",
+        "name": "Aura Break ",
+        "desc": "Aura Break  cancels the effects of the abilities  Fairy Aura  and  Dark Aura  and instead reduces the power of Dark-type and Fairy-type moves by 25%, for all Pokémon on the field. Aura Break  is not affected by the abilities  Mold Breaker ,  Teravolt , or  Turboblaze . Aura Break  is the signature ability of  Zygarde . Similarly, the abilities it reverses are also signature abilities of legendary Pokémon from Pokémon X&Y:  Xerneas  and  Yveltal . No Pokémon have  Aura Break  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/as-one",
+        "name": "As One ",
+        "desc": "Combines Unnerve and Chilling Neigh/Grim Neigh\n No Pokémon have  As One  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/berserk",
+        "name": "Berserk ",
+        "desc": "Berserk  raises the Pokémon's Special Attack by one stage when its HP falls below 50%. No Pokémon have  Berserk  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/armor-tail",
+        "name": "Armor Tail ",
+        "desc": "Armor Tail  prevents the opponent from using any moves that have priority, such as  Quick Attack . No Pokémon have  Armor Tail  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/beast-boost",
+        "name": "Beast Boost ",
+        "desc": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.\n No Pokémon have  Beast Boost  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/arena-trap",
+        "name": "Arena Trap ",
+        "desc": "Arena Trap  prevents opponents from fleeing or switching out.  Raised  Pokémon are not affected. Raised Pokémon are any  Flying  types or those under the effects of  Levitate ,  Magnet Rise  or  Telekinesis . Full details in  glossary . If a Pokémon with  Arena Trap  is the leading party Pokémon, wild Pokémon are twice as likely to appear. No Pokémon have  Arena Trap  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/anticipation",
+        "name": "Anticipation ",
+        "desc": "A Pokémon with  Anticipation  will  shudder  upon entering battle, if an opponent has a move that is super-effective against it, or a One-Hit-KO move ( Fissure ,  Horn Drill ,  Guillotine  or  Sheer Cold ). It only activates when the ability-bearer switches in, not when an opponent switches in. Anticipation  does not activate if the opponent has a move that varies in type, such as  Hidden Power ,  Judgment  or  Weather Ball , even if those moves would be super-effective."
+    },
+    {
+        "url": "https://pokemondb.net/ability/beads-of-ruin",
+        "name": "Beads of Ruin ",
+        "desc": "Lowers Special Defense of all Pokémon except itself.\n No Pokémon have  Beads of Ruin  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/earth-eater",
+        "name": "Earth Eater ",
+        "desc": "Restores HP when hit by a Ground-type move.\n No Pokémon have  Earth Eater  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/anger-point",
+        "name": "Anger Point ",
+        "desc": "Anger Point  raises the ability-bearer's Attack to its maximum level - +6 stages or 4× usual power - when a move targeting it receives a critical hit."
+    },
+    {
+        "url": "https://pokemondb.net/ability/battery",
+        "name": "Battery ",
+        "desc": "Battery  allows the Pokémon to raise the power of teammates' special moves. No Pokémon have  Battery  as a hidden ability."
+    },
+    {
+        "url": "https://pokemondb.net/ability/aroma-veil",
+        "name": "Aroma Veil ",
+        "desc": "Protects allies from attacks that limit their move choices."
+    },
+    {
+        "url": "https://pokemondb.net/ability/anger-shell",
+        "name": "Anger Shell ",
+        "desc": "When the Pokémon's HP drops below half,  Anger Shell  lowers its Defense and Special Defense but its Attack, Special Attack and Speed are raised. No Pokémon have  Anger Shell  as a hidden ability."
+    }
 ]

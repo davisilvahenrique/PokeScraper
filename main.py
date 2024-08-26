@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import html
+import re
 
 def decode_text(text):
     return html.unescape(text)
@@ -13,7 +14,6 @@ pokemon_data['number'] = pokemon_data['number'].astype(str).apply(lambda x: x.zf
 pokemon_dict = pokemon_data.set_index('number').T.to_dict('index')
 abilities_dict = abilities_data.set_index('url').T.to_dict('index')
 
-eevee_evolutions = []
 def process_pokemon(pokemon):
     number = pokemon['number']
     url = pokemon['url']
@@ -28,33 +28,20 @@ def process_pokemon(pokemon):
         types.append(pokemon['type 2'])
     
     next_evolutions = []
-    for i in range(1, 4):
-        evolution_number = pokemon.get(f'next_evolutions_{i}')
-        if evolution_number:
-            evolution_number = evolution_number.lstrip('#')
-            evolution_name = pokemon_dict['name'].get(evolution_number, 'Nome não disponível')
-            evolution_url = pokemon_dict['url'].get(evolution_number, 'Url não disponível')
-            next_evolutions.append({
-                'number': evolution_number,
-                'name': evolution_name,
-                'url': evolution_url
-            })
-            if (name == 'Eevee'):
-                seen = set()
-                unique_evolutions = []
-                for pokemon in eevee_evolutions:
-                    identifier = (pokemon['number'], pokemon['name'], pokemon['url'])
-                    if identifier not in seen:
-                        unique_evolutions.append(pokemon)
-                        seen.add(identifier)
-                next_evolutions += unique_evolutions
-
-    if (pokemon.get('next_evolutions_1') == '#0133' and name != 'Eevee'):
-        eevee_evolutions.append({
-                'number': number,
-                'name': name,
-                'url': url
-            })
+        
+    for i in range(1, 15):
+        evolution = pokemon.get(f'next_evolutions {i}')
+        if evolution:
+            evolution_number = evolution.get('number')
+            if evolution_number:
+                evolution_number = evolution_number.lstrip('#')
+                current_evolution_index = int(re.search(r'next_evolutions (\d+)', f'next_evolutions {i}').group(1))
+                if not any(e['number'] == evolution_number for e in next_evolutions) and (evolution_number != number) and current_evolution_index:
+                    next_evolutions.append({
+                        'number': evolution_number,
+                        'name': evolution['name'],
+                        'url': evolution['url']
+                    })
 
     abilities = []
     for i in range(1, 3):
