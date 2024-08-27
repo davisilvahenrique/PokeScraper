@@ -27,34 +27,33 @@ def process_pokemon(pokemon):
     if pokemon['type 2']:
         types.append(pokemon['type 2'])
     
-    next_evolutions = []
-        
-    for i in range(1, 15):
-        evolution = pokemon.get(f'next_evolutions {i}')
-        if evolution:
-            evolution_number = evolution.get('number')
-            if evolution_number:
-                evolution_number = evolution_number.lstrip('#')
-                current_evolution_index = int(re.search(r'next_evolutions (\d+)', f'next_evolutions {i}').group(1))
-                if not any(e['number'] == evolution_number for e in next_evolutions) and (evolution_number != number) and current_evolution_index:
-                    next_evolutions.append({
-                        'number': evolution_number,
-                        'name': evolution['name'],
-                        'url': evolution['url']
-                    })
+    next_evolutions = pokemon['evolutions']
+    # for i in range(1, 15):
+    #     evolution = pokemon.get(f'next_evolutions {i}')
+    #     if evolution:
+    #         evolution_number = evolution.get('number')
+    #         if evolution_number:
+    #             evolution_number = evolution_number.lstrip('#')
+    #             current_evolution_index = int(re.search(r'next_evolutions (\d+)', f'next_evolutions {i}').group(1))
+    #             if not any(e['number'] == evolution_number for e in next_evolutions) and (evolution_number != number) and current_evolution_index:
+    #                 next_evolutions.append({
+    #                     'number': evolution_number,
+    #                     'name': evolution['name'],
+    #                     'url': evolution['url']
+    #                 })
 
-    abilities = []
-    for i in range(1, 3):
-        ability = pokemon.get(f'abilities {i}')
-        if ability:
-            description = abilities_dict['desc'].get(ability['url'], 'Descrição não disponível')
-            description = decode_text(description)
-            if ability['url'] and ability['name'] and description:
-                abilities.append({
-                    'url': ability['url'],
-                    'name': ability['name'],
-                    'description': description
-                })
+    abilities = pokemon['abilities']
+    # for i in range(1, 3):
+    #     ability = pokemon.get(f'abilities {i}')
+    #     if ability:
+    #         description = abilities_dict['desc'].get(ability['url'], 'Descrição não disponível')
+    #         description = decode_text(description)
+    #         if ability['url'] and ability['name'] and description:
+    #             abilities.append({
+    #                 'url': ability['url'],
+    #                 'name': ability['name'],
+    #                 'description': description
+    #             })
     
     return {
         'number': number,
