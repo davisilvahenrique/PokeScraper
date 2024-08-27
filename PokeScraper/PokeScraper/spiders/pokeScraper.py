@@ -19,18 +19,43 @@ class AbilityScrapper(scrapy.Spider):
         'desc': ' '.join(response.css('.grid-row > div > p ::text').getall()).strip()
     }   
 
+class PokemonTree:
+
+    def resolve(input: scrapy.Spider, name: str):
+        nextSingle = input.css('div.infocard + span.infocard.infocard-arrow + div.infocard').get()
+        ret = []
+        if nextSingle is not None:
+            evo_name = input.css('span:nth-child(2) > a::text').get()        
+            evo_number = input.css('span:nth-child(2) > small::text').get()
+            evo_url = input.css('a::attr(href)').get()
+            return ret.append([Pokemon(evo_name, evo_number, evo_url)])
+        nextMulti = input.css('div.infocard + span.infocard-evo-split > div.infocard-list-evo')
+        for one in nextMulti:
+            pok = one.css('div.infocard')
+            evo_name = pok.css('span:nth-child(2) > a::text').get()        
+            evo_number = pok.css('span:nth-child(2) > small::text').get()
+            evo_url = pok.css('a::attr(href)').get()
+            ret.append(Pokemon(evo_name, evo_number, evo_url))
+        # print("####################")
+        # # print(name)
+        # print(nextMulti)
+        return ret
+class Pokemon():
+    
+    def __init__(self, name, number, url):
+        self.name = name
+        self.number = number
+        self.url = url
+
+
 class PokemonScrapper(scrapy.Spider):
     name = 'pokemon_scrapper'
     domain = "https://pokemondb.net"
     start_urls = ["https://pokemondb.net/pokedex/all"]
 
-    custom_settings = {
-        'LOG_LEVEL': 'DEBUG',
-    }
-
     def parse(self, response):
         pokemons = response.css('#pokedex > tbody > tr')
-        for pokemon in pokemons:
+        for pokemon in [pokemons[162]]:
             link = pokemon.css("td.cell-name > a::attr(href)").extract_first()
             if link:
                 yield response.follow(self.domain + link, self.parse_pokemon)
@@ -49,40 +74,31 @@ class PokemonScrapper(scrapy.Spider):
                     'name': ability_name
                 })
 
-        if len(abilities_data) == 1:
-            abilities_data.append({
-                'url': None,
-                'name': None
-            })
-
-        abilities_dict = {
-            'abilities 1': abilities_data[0] if len(abilities_data) > 0 else {'url': None, 'name': None},
-            'abilities 2': abilities_data[1] if len(abilities_data) > 1 else {'url': None, 'name': None},
-        }
-
         evolutions = response.css('.infocard-list-evo > div')
         evolutions_data = []
         for evo in evolutions:
             evo_number = evo.css('span:nth-child(2) > small::text').get()
             evo_url = evo.css('a::attr(href)').get()
             evo_name = evo.css('span:nth-child(2) > a::text').get()
+            print("####################" + evo_name)
+            # print(evo_name)
+            # print(evo.css('div.infocard + span.infocard.infocard-arrow + div.infocard').get())
+            # print(evo.css('div.infocard + span.infocard-evo-split > div.infocard-list-evo:nth-child(2)').get())
+            # print(PokemonTree.resolve(evo, evo_name))
+            evolutions_data = PokemonTree.resolve(evo, evo_name)
+            p = PokemonTree.resolve(evo, evo_name)[0]
+            print({
+                    'url': p.url,
+                    'number': p.number,
+                    'name': p.name
+                })
+            return
             if evo_number and evo_url and evo_name:
                 evolutions_data.append({
                     'url': self.domain + evo_url,
                     'number': evo_number,
                     'name': evo_name
                 })
-
-        for i in range(15 - len(evolutions_data)):
-            evolutions_data.append({
-                'url': None,
-                'number': None,
-                'name': None
-            })
-
-        evolutions_dict = {
-            f'next_evolutions {i + 1}': evolutions_data[i] for i in range(15)
-        }
 
         try:
             yield {
@@ -93,8 +109,8 @@ class PokemonScrapper(scrapy.Spider):
                 'weight': response.css('.vitals-table > tbody > tr:nth-child(5) > td::text').get(),
                 'type 1': response.css('.vitals-table > tbody > tr:nth-child(2) > td > a:nth-child(1)::text').get(),
                 'type 2': response.css('.vitals-table > tbody > tr:nth-child(2) > td > a:nth-child(2)::text').get(),
-                **evolutions_dict,
-                **abilities_dict
+                'evolutions': evolutions_data,
+                'abilities': abilities_data
             }
         except Exception as e:
             self.logger.error(f'Erro ao processar {response.url}: {e}')
