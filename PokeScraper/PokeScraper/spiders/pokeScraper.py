@@ -20,49 +20,70 @@ class AbilityScrapper(scrapy.Spider):
         'desc': ' '.join(response.css('.grid-row > div > p::text').getall()).strip()
     }   
 
-class PokemonTree:
-    
-    def resolve(input: scrapy.Spider, url: str):
-        url = re.search(r'https://pokemondb\.net/pokedex/([^/]+)', url).group(1)
-        url = re.sub(r'[^a-zA-Z]', '', url).lower()
-        ret = []
-        names = input.css('span:nth-child(2) > a::text').getall()
-        normal_names = [re.sub(r'[^a-zA-Z]', '', name).lower() for name in names]
-        print(normal_names)
-        elements_with_name = 1
-        index = elements_with_name(url) if url in elements_with_name else -1
-        if index != -1:
-            nextSingle = input.css('div.infocard + span.infocard.infocard-arrow + div.infocard')
-            if nextSingle is None:
-                evo_name = input.css('span:nth-child(2) > a::text').get()        
-                evo_number = input.css('span:nth-child(2) > small::text').get()
-                evo_url = input.css('a::attr(href)').get()
-                ret.append(Pokemon(evo_name, evo_number, evo_url))
-                return ret
-            nextMulti = input.css('div.infocard + span.infocard-evo-split > div.infocard-list-evo')
-            for one in nextMulti:
-                pok = one.css('div.infocard')
-                evo_name = pok.css('span:nth-child(2) > a::text').get()        
-                evo_number = pok.css('span:nth-child(2) > small::text').get()
-                evo_url = pok.css('a::attr(href)').get()
-                ret.append(Pokemon(evo_name, evo_number, evo_url))
-        return ret
-    
-class Pokemon():
-    
+class Pokemon:
     def __init__(self, name, number, url):
         self.name = name
         self.number = number
         self.url = url
 
-class PokemonScrapper(scrapy.Spider):
+class PokemonTree:
+    @staticmethod
+    def resolve(input, current_name):
+        evolutions = []
+        
+        def extract_evo(card):
+            evo_name = card.css('span:nth-of-type(2) > a::text').get()
+            evo_number = card.css('span:nth-of-type(2) > small::text').get()
+            evo_url = card.css('a::attr(href)').get()
+            
+            if evo_name and evo_number and evo_url:
+                return {
+                    'name': evo_name,
+                    'number': evo_number,
+                    'url': evo_url
+                }
+            return None
+        
+        single_evolutions = input.css('.infocard-list-evo > .infocard')
+        for card in single_evolutions:
+            evo = extract_evo(card)
+            if evo:
+                evolutions.append(evo)
+        
+        #ADICIONAR ARRAY DENTRO DA ARRAY PARA SERVIR POR EXEMPLO [EVO 1, [EVO 2, EVO 2, EVO 2, EVO 2], EVO 3, EVO 4]
+        multi_evolutions = input.css('.infocard-list-evo .infocard-evo-split .infocard-list-evo')
+        for multi in multi_evolutions:
+            for card in multi.css('div.infocard'):
+                evo = extract_evo(card)
+                if evo:
+                    evolutions.append(evo)
+        
+        seen_names = set()
+        filtered_evolutions = []
+        for evo in evolutions:
+            if evo['name'] not in seen_names:
+                filtered_evolutions.append(evo)
+                seen_names.add(evo['name'])
+        
+        current_index = None
+        for i, evo in enumerate(filtered_evolutions):
+            if evo['name'] == current_name:
+                current_index = i
+                break
+        
+        if current_index is None or current_index + 1 >= len(filtered_evolutions):
+            return None
+        
+        return filtered_evolutions[current_index + 1]
+
+class PokemonScraper(scrapy.Spider):
     name = 'pokemon_scraper'
     domain = "https://pokemondb.net"
     start_urls = ["https://pokemondb.net/pokedex/all"]
 
     def parse(self, response):
         pokemons = response.css('#pokedex > tbody > tr')
-        for pokemon in [pokemons[162]]:
+        for pokemon in pokemons:
             link = pokemon.css("td.cell-name > a::attr(href)").extract_first()
             if link:
                 yield response.follow(self.domain + link, self.parse_pokemon)
@@ -70,21 +91,25 @@ class PokemonScrapper(scrapy.Spider):
                 self.logger.warning("Link não encontrado para o Pokémon")
 
     def parse_pokemon(self, response):
+        name = response.css('#main > h1::text').get()
+        current_name = name.strip() if name else None
+        if not current_name:
+            self.logger.warning("Nome do Pokémon não encontrado")
+            return
+
+        input_selector = response.css('.infocard-list-evo')
+        next_evolution = PokemonTree.resolve(input_selector, current_name)
 
         evolutions_data = []
-        url = response.request.url,
-        evolutions = PokemonTree.resolve(response.css('.infocard-list-evo'), url[0])
-        for one in range(len(evolutions)):
-            p = evolutions[one]
-            if p:
-                evolutions_data.append({
-                    'url': self.domain + p.url,
-                    'number': p.number,
-                    'name': p.name
-                })
-        print(evolutions_data)
-        return
+        if next_evolution:
+            evolutions_data.append({
+                'url': self.domain + next_evolution['url'],
+                'number': next_evolution['number'],
+                'name': next_evolution['name']
+            })
 
+        print(evolutions_data)
+    
         abilities = response.css('.vitals-table:nth-child(2) > tbody > tr:nth-child(6) > td')
         abilities_data = []
         count = 0
@@ -103,8 +128,8 @@ class PokemonScrapper(scrapy.Spider):
         try:
             yield {
                 'number': response.css('.vitals-table > tbody > tr:nth-child(1) > td > strong::text').get(),
-                'url': url,
-                'name': response.css('#main > h1::text').get(),
+                'url': response.request.url,
+                'name': name,
                 'height': response.css('.vitals-table > tbody > tr:nth-child(4) > td::text').get(),
                 'weight': response.css('.vitals-table > tbody > tr:nth-child(5) > td::text').get(),
                 'type 1': response.css('.vitals-table > tbody > tr:nth-child(2) > td > a:nth-child(1)::text').get(),
