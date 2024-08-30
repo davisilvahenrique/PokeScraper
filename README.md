@@ -1,0 +1,48 @@
+# Projeto PokéScraper
+
+O **PokéScraper** é um projeto que coleta e processa dados de Pokémon usando Scrapy e Python. Ele extrai informações sobre Pokémon, habilidades e evoluções a partir do site [Pokémon Database](https://pokemondb.net), e processa esses dados para gerar um arquivo JSON estruturado.
+
+## Estrutura do Projeto
+
+- **`pokescraper/`**: Contém os spiders do Scrapy e o script de processamento de dados.
+  - **`spiders/`**: Diretório com os arquivos dos spiders.
+    - **`ability_scraper.py`**: Spider que coleta informações sobre habilidades dos Pokémon.
+    - **`evolution_scraper.py`**: Spider que coleta informações sobre as evoluções dos Pokémon.
+    - **`pokemon_scraper.py`**: Spider que coleta informações detalhadas sobre cada Pokémon.
+  - **`process_pokemon.py`**: Script que processa os dados coletados e gera um arquivo JSON com informações formatadas.
+
+- **`setup_and_run.bat`**: Script em batch que configura o ambiente, executa os spiders e processa os dados.
+
+- **`json/`**: Diretório onde os dados coletados são temporariamente armazenados (criado e removido pelo script `.bat`).
+
+## Requisitos
+
+- **Python 3.x**
+- **Scrapy**
+- **Pandas**
+
+## Instruções de Uso
+
+1. **Preparação**
+
+   Certifique-se de ter o Python 3.x instalado em seu sistema. O script `.bat` cuidará da criação de um ambiente virtual e instalação das dependências necessárias.
+
+2. **Executar o Projeto**
+
+   Para executar o projeto, basta rodar o arquivo `setup_and_run.bat`. Este script fará o seguinte:
+
+   - Criará um ambiente virtual Python.
+   - Ativará o ambiente virtual.
+   - Instalará as dependências necessárias (`scrapy` e `pandas`).
+   - Executará os spiders para coletar dados de Pokémon, habilidades e evoluções.
+   - Processará os dados coletados e gerará um arquivo `processed_pokemons.json` com informações formatadas.
+   - Abrirá o arquivo `processed_pokemons.json` no navegador padrão para visualização.
+   - Limpará arquivos temporários gerados durante o processo.
+
+   **Para rodar o projeto:**
+
+   1. Navegue até o diretório onde o `setup_and_run.bat` está localizado.
+   2. Dê um duplo clique no `setup_and_run.bat` ou execute-o a partir do prompt de comando.
+
+   ```sh
+   setup_and_run.bat
