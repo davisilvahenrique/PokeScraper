@@ -42,10 +42,10 @@ def process_pokemon(pokemon):
     abilities = pokemon.get('abilities', [])
     detailed_abilities = []
     for ability in abilities:
-        url = ability['url']
+        abi_url = ability['url']
         desc = abilities_dict.get('desc', 'Descrição não disponível').get(url, {})
         detailed_abilities.append({
-            'url': url,
+            'url': abi_url,
             'name': ability['name'],
             'description': decode_text(desc)
         })
