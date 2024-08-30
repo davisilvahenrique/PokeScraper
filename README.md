@@ -68,5 +68,5 @@ O **PokéScraper** é um projeto que coleta e processa dados de Pokémon usando 
 
 ## Notas
 
-- **Codificação UTF-8**: Certifique-se de que o arquivo `.bat` e a janela do console estejam configurados para UTF-8 para suportar caracteres especiais.
+- **Codificação UTF-8**: Certifique-se de que seu terminal ou prompt de comando esteja configurado para UTF-8 para suportar caracteres especiais.
 
