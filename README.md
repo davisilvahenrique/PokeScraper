@@ -47,6 +47,7 @@ O **PokéScraper** é um projeto que coleta e processa dados de Pokémon usando 
 
    ```sh
    make all
+   ```
 
 3. **Visualização dos Dados**
 
