@@ -43,28 +43,15 @@ O **PokéScraper** é um projeto que coleta e processa dados de Pokémon usando 
 **Para rodar o projeto:**
 
    1. Navegue até o diretório onde o `Makefile` está localizado.
-   2. Execute o comando:
+   2. No Git Bash, execute o comando:
 
    ```sh
    make all
+   ```
 
 3. **Visualização dos Dados**
 
    Após a execução, o arquivo `processed_pokemons.json` será aberto automaticamente no navegador padrão para visualização.
-
-## Descrição dos Arquivos
-
-- **`spiders/ability_scraper.py`**: Scrapy Spider para coletar informações sobre as habilidades dos Pokémon. Os dados são salvos em `json/abilities.json`.
-
-- **`spiders/evolution_scraper.py`**: Scrapy Spider para coletar informações sobre as evoluções dos Pokémon. Os dados são salvos em `json/evo.json`.
-
-- **`spiders/pokemon_scraper.py`**: Scrapy Spider para coletar informações detalhadas sobre cada Pokémon. Os dados são salvos em `json/pokemon.json`.
-
-- **`process_pokemon.py`**: Script para processar os dados JSON coletados e gerar um arquivo JSON final `processed_pokemons.json` com informações detalhadas sobre cada Pokémon.
-
-- **`clean.py`**: Script para remover arquivos temporários e abrir o arquivo processed_pokemons.json no navegador.
-
-- **`Makefile`**: Arquivo que automatiza o processo de configuração do ambiente, execução dos spiders e processamento dos dados.
 
 ## Notas
 
