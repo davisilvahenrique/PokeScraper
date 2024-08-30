@@ -1,23 +1,42 @@
 import scrapy
+import re
 
 class AbilityScraper(scrapy.Spider):
-  name = 'ability_scraper'
-  domain = "https://pokemondb.net"
+    name = 'ability_scraper'
+    domain = "https://pokemondb.net"
 
-  start_urls = ["https://pokemondb.net/ability"]
+    start_urls = ["https://pokemondb.net/ability"]
 
-  def parse(self, response):
-    abilities = response.css('#abilities > tbody > tr')
-    for ability in abilities:
-      link = ability.css("td > a::attr(href)").extract_first()
-      yield response.follow(self.domain + link, self.parse_ability)
+    def parse(self, response):
+        abilities = response.css('#abilities > tbody > tr')
+        for ability in abilities:
+            link = ability.css("td > a::attr(href)").extract_first()
+            yield response.follow(self.domain + link, self.parse_ability)
 
-  def parse_ability(self, response):
-    yield {
-        'url': response.request.url,
-        'name': response.css('#main > h1::text').get(),
-        'desc': ' '.join(response.css('.grid-row > div > p::text').getall()).strip()
-    } 
+    def parse_ability(self, response):
+        # Extrair o HTML completo da descrição
+        html_description = response.css('.grid-row > div > p').get()
+        
+        # Limpar e formatar o HTML para obter o texto completo
+        desc = self.clean_html(html_description)
+        
+        yield {
+            'url': response.request.url,
+            'name': response.css('#main > h1::text').get(),
+            'desc': desc
+        }
+
+    def clean_html(self, html):
+        if not html:
+            return ''
+        
+        # Remove tags HTML e extrai o texto
+        html = re.sub(r'<a[^>]*>(.*?)</a>', r'\1', html)  # Remove tags <a> e mantém o texto
+        html = re.sub(r'<[^>]+>', ' ', html)  # Remove todas as outras tags HTML
+        html = html.replace('&nbsp;', ' ')  # Substitui espaços não quebráveis
+        html = re.sub(r'\s+', ' ', html).strip()  # Remove múltiplos espaços e espaços extras
+        
+        return html
 
 class EvolutionScraper(scrapy.Spider):
   name = 'evolution_scraper'

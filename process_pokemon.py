@@ -20,8 +20,8 @@ def process_pokemon(pokemon):
     url = pokemon['url']
     name = pokemon['name']
     
-    height_cm = f"{float(pokemon['height'].split(' ')[0].replace('m', '').replace('′', '').replace('″', '')) * 100:.2f} cm"
-    weight_kg = f"{float(pokemon['weight'].split(' ')[0].replace('kg', '')):.2f} Kg"
+    height = f"{float(pokemon['height'].split(' ')[0].replace('m', '').replace('′', '').replace('″', '')) * 100:.2f} cm"
+    weight = f"{float(pokemon['weight'].split(' ')[0].replace('kg', '')):.2f} Kg"
     
     types = []
     types.append(pokemon['type 1'])
@@ -34,8 +34,8 @@ def process_pokemon(pokemon):
         evo_number = evo_info['number']
         evo_url = evo_info['url']
         evolutions.append({
-            'name': evo_name,
             'number': evo_number,
+            'name': evo_name,
             'url': evo_url
         })
 
@@ -55,8 +55,8 @@ def process_pokemon(pokemon):
         'url': url,
         'name': name,
         'evolutions': evolutions,
-        'height_cm': height_cm,
-        'weight_kg': weight_kg,
+        'height': height,
+        'weight': weight,
         'types': types,
         'abilities': detailed_abilities
     }
