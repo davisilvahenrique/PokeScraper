@@ -44,10 +44,6 @@ O **PokéScraper** é um projeto que coleta e processa dados de Pokémon usando 
    1. Navegue até o diretório onde o `setup_and_run.bat` está localizado.
    2. Dê um duplo clique no `setup_and_run.bat` ou execute-o a partir do prompt de comando.
 
-     ```sh
-     setup_and_run.bat
-     ```
-
 3. **Visualização dos Dados**
 
    Após a execução, o arquivo `processed_pokemons.json` será aberto automaticamente no navegador padrão para visualização.
