@@ -28,11 +28,19 @@ def process_pokemon(pokemon):
     if pokemon['type 2']:
         types.append(pokemon['type 2'])
     
-    next_evolutions = list(set(evo_dict.get(name, [])))
+    evolutions = []
+    for evo_name in set(evo_dict.get(name, [])):
+        evo_info = pokemon_data[pokemon_data['name'] == evo_name].iloc[0]
+        evo_number = evo_info['number']
+        evo_url = evo_info['url']
+        evolutions.append({
+            'name': evo_name,
+            'number': evo_number,
+            'url': evo_url
+        })
 
     abilities = pokemon.get('abilities', [])
     detailed_abilities = []
-    
     for ability in abilities:
         url = ability['url']
         desc = abilities_dict.get('desc', 'Descrição não disponível').get(url, {})
@@ -46,7 +54,7 @@ def process_pokemon(pokemon):
         'number': number,
         'url': url,
         'name': name,
-        'evolutions': next_evolutions,
+        'evolutions': evolutions,
         'height_cm': height_cm,
         'weight_kg': weight_kg,
         'types': types,
@@ -57,7 +65,7 @@ processed_pokemons = pokemon_data.apply(process_pokemon, axis=1)
 result = processed_pokemons.tolist()
 result_sorted = sorted(result, key=lambda x: int(x['number']))
 
-with open('json\processed_pokemons.json', 'w', encoding='utf-8') as f:
+with open('processed_pokemons.json', 'w', encoding='utf-8') as f:
     json.dump(result_sorted, f, ensure_ascii=False, indent=4)
 
 print("Dados processados salvos em 'processed_pokemons.json'.")
