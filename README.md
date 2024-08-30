@@ -43,7 +43,7 @@ O **PokéScraper** é um projeto que coleta e processa dados de Pokémon usando 
 **Para rodar o projeto:**
 
    1. Navegue até o diretório onde o `Makefile` está localizado.
-   2. Execute o comando:
+   2. No Git Bash, execute o comando:
 
    ```sh
    make all
